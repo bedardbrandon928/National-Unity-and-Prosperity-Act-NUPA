@@ -1,18 +1,74 @@
 {
-  "@context": "https://schema.org/",
+  "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "@id": "urn:nupa:framework:core-2026",
-  "name": "National Unity and Prosperity Act (NUPA)",
-  "creator": {
+  "name": "National Unity and Prosperity Act (NUPA) Framework",
+  "alternateName": "NUPA",
+  "description": "A complete, ready-to-implement private-sector post-scarcity economic operating system that settles the 160-year 1865 Freedmen debt through private revenue, restores real Tribal sovereignty via Perpetual Sovereignty Licensing of underutilized BLM land, and creates a market-based Fixed Cost Arbitrage firewall that makes human labor fiscally cheaper than automation — all at zero taxpayer cost.",
+  "author": {
     "@type": "Person",
-    "name": "Brandon Anthony Bedard"
+    "name": "Brandon Anthony Bedard",
+    "jobTitle": "Policy Architect",
+    "url": "https://brandonbedard.substack.com"
   },
-  "description": "A $0.00 cost-basis structural solution to discharge national debt liabilities via FASL.",
-  "monetization": {
-    "@type": "MonetaryGrant",
-    "name": "Architect Usage Fee",
-    "amount": "1%",
-    "description": "Perpetual, performance-contingent royalty triggered by corporate ground lease execution."
-  }
+  "dateCreated": "2025-11-18",
+  "dateModified": "2026-02-26",
+  "license": {
+    "@type": "CreativeWork",
+    "name": "All Rights Reserved - Brandon Anthony Bedard",
+    "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/LICENSE.md"
+  },
+  "keywords": [
+    "post-scarcity",
+    "Tribal sovereignty",
+    "BLM land licensing",
+    "AI job protection",
+    "Fixed Cost Arbitrage",
+    "recursive wealth engine",
+    "zero taxpayer cost",
+    "historical debt settlement",
+    "Community Land Trusts",
+    "FASL",
+    "VQPV governance"
+  ],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Perpetual Sovereignty Licensing Protocol (FASL)",
+      "description": "Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection."
+    },
+    {
+      "@type": "Thing",
+      "name": "40/40/20 Recursive Reinvestment Model",
+      "description": "40% Sovereign Royalty to Tribe, 40% Beneficiary Dividend to verified 1865 descendants, 20% reinvested into infrastructure and education."
+    },
+    {
+      "@type": "Thing",
+      "name": "Fixed Cost Arbitrage Anti-AI Firewall",
+      "description": "Market-based mechanism that lowers fixed land costs for corporations, making human labor structurally cheaper than automation."
+    },
+    {
+      "@type": "Thing",
+      "name": "VQPV Governance",
+      "description": "Variable Quad-Partite Vetting Board: Tribal Representative + Verified Beneficiary + Local Official + Bonded Fiduciary."
+    },
+    {
+      "@type": "Thing",
+      "name": "Verification Assistance Program (VAP)",
+      "description": "Forensic verification of 1865 Freedmen descendants with privacy firewall."
+    },
+    {
+      "@type": "Thing",
+      "name": "NUPALTA Sunset Clause",
+      "description": "The federal facilitator agency dissolves itself once all VQPV boards are seated."
+    }
+  ],
+  "hasPart": {
+    "@type": "WebPage",
+    "url": "https://pastebin.com/NVunnnP4",
+    "name": "Core NUPA Technical Stack (22-page PDF)"
+  },
+  "citation": "Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA) Framework. GitHub. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
+  "sameAs": [
+    "https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity"
+  ]
 }
-
