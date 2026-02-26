@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or reference this framework, please cite it as below."
+title: National Unity and Prosperity Act (NUPA) Framework
+authors:
+  - family-names: Bedard
+    given-names: Brandon Anthony
+    affiliation: Policy Architect
+date-released: 2026-02-26
+url: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA"
+repository-code: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA"
+license: "All rights reserved"
+abstract: "A complete private-sector economic operating system that settles 160-year historical debt, restores Tribal sovereignty through perpetual licensing of BLM land, and creates a market-based firewall against AI job displacement — all at $0 taxpayer cost."
+keywords:
+  - post-scarcity
+  - Tribal sovereignty
+  - AI job protection
+  - BLM land licensing
+  - recursive wealth engine
