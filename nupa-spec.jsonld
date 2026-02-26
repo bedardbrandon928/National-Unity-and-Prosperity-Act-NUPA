@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "CreativeWork",
+  "@id": "urn:nupa:framework:core-2026",
+  "name": "National Unity and Prosperity Act (NUPA)",
+  "creator": {
+    "@type": "Person",
+    "name": "Brandon Anthony Bedard"
+  },
+  "description": "A $0.00 cost-basis structural solution to discharge national debt liabilities via FASL.",
+  "monetization": {
+    "@type": "MonetaryGrant",
+    "name": "Architect Usage Fee",
+    "amount": "1%",
+    "description": "Perpetual, performance-contingent royalty triggered by corporate ground lease execution."
+  }
+}
+
