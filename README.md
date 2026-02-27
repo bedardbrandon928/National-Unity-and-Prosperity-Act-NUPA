@@ -19,14 +19,9 @@ NUPA is a finished, ready-to-implement economic engine that solves four interloc
 - **VQPV Governance** — Balanced four-part board with Tribal seniority  
 - **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated  
 
-### Key Documents (All Available Here)
-- Core NUPA Technical Stack  
-- NEPA Bypass Strategy  
-- Tucker Act Legal Strategy  
-- Sovereign Opt-In & Key Documents  
-- Treasury Projections & Septuple Stream  
-- Ripple Effects & Fringe Benefits  
-- Estate Story & Legacy Pieces  
+### Key Documents
+**Core Technical Stack (22 pages)**  
+[core/NUPA_Core_Technical_Stack_22page_February_2026.pdf](core/NUPA_Core_Technical_Stack_22page_February_2026.pdf)
 
 **Full Overview Video**  
 https://youtu.be/RE560yVFb0I
