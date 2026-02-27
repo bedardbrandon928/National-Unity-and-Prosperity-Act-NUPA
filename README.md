@@ -10,7 +10,9 @@ NUPA is a finished, ready-to-implement economic engine that solves four interloc
 - Settles the 160-year 1865 Freedmen debt through private revenue  
 - Restores genuine economic sovereignty to Tribal Nations  
 - Creates a market-based Fixed Cost Arbitrage firewall that makes human labor cheaper than automation  
-- Converts 24 million acres of dormant BLM land into self-funding wealth engines  
+- Converts 24 million acres of dormant BLM land into a self-funding, infinite wealth engine  
+
+NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
 ### Core Architecture
 - **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
@@ -19,9 +21,15 @@ NUPA is a finished, ready-to-implement economic engine that solves four interloc
 - **VQPV Governance** — Balanced four-part board with Tribal seniority  
 - **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated  
 
-### Key Documents
-**Core Technical Stack (22 pages)**  
-[core/NUPA_Core_Technical_Stack_22page_February_2026.pdf](core/NUPA_Core_Technical_Stack_22page_February_2026.pdf)
+### Repository Structure
+- **core/** — Core Technical Stack (22-page PDF)  
+- **governance/** — VQPV, Sovereign Covenant, Opt-In documents  
+- **legal/** — Agreements, notices, Tucker Act strategy  
+- **economic/** — Septuple Stream audit, ripple effects, projections  
+- **stories/** — The Original Estate Story  
+- **legacy/** — 10 World-Changing Achievements  
+- **financial/** — Treasury models  
+- **supporting/** — Strategic briefs and Phase 1 documents  
 
 **Full Overview Video**  
 https://youtu.be/RE560yVFb0I
@@ -30,15 +38,4 @@ https://youtu.be/RE560yVFb0I
 https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 
 **How to Cite**  
-Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA) Framework. GitHub. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
-
-**License & Intellectual Property**  
-All Rights Reserved — See LICENSE.md. Commercial use triggers the Architect’s perpetual 1% Framework Usage Fee as detailed in the core documents.
-
----
-
-The machine is built.  
-The logic is unassailable.  
-The implementation path is clear.
-
-Now it needs operators.
+Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA)
