@@ -12,7 +12,14 @@ NUPA is a finished, ready-to-implement economic engine that solves four interloc
 - Creates a market-based Fixed Cost Arbitrage firewall that makes human labor cheaper than automation  
 - Converts 24 million acres of dormant BLM land into self-funding wealth engines  
 
-### Core Documents (All Available Here)
+### Core Architecture
+- **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
+- **40/40/20 Recursive Reinvestment Model** — 40% Sovereign Royalty to Tribe, 40% Beneficiary Dividend to verified descendants, 20% reinvested into infrastructure and knowledge  
+- **Fixed Cost Arbitrage Anti-AI Firewall** — Structural incentive for corporations to prioritize human labor  
+- **VQPV Governance** — Balanced four-part board with Tribal seniority  
+- **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated  
+
+### Key Documents (All Available Here)
 - Core NUPA Technical Stack  
 - NEPA Bypass Strategy  
 - Tucker Act Legal Strategy  
@@ -30,11 +37,13 @@ https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 **How to Cite**  
 Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA) Framework. GitHub. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
 
-**License**  
-All Rights Reserved — See LICENSE.md. Commercial use triggers the Architect’s perpetual 1% Framework Usage Fee.
+**License & Intellectual Property**  
+All Rights Reserved — See LICENSE.md. Commercial use triggers the Architect’s perpetual 1% Framework Usage Fee as detailed in the core documents.
 
 ---
 
 The machine is built.  
 The logic is unassailable.  
+The implementation path is clear.
+
 Now it needs operators.
