@@ -28,7 +28,8 @@
     "historical debt settlement",
     "Community Land Trusts",
     "FASL",
-    "VQPV governance"
+    "VQPV governance",
+    "Sovereign Opt-In"
   ],
   "about": [
     {
@@ -49,24 +50,26 @@
     {
       "@type": "Thing",
       "name": "VQPV Governance",
-      "description": "Variable Quad-Partite Vetting Board: Tribal Representative + Verified Beneficiary + Local Official + Bonded Fiduciary."
+      "description": "Variable Quad-Partite Vetting Board with Tribal seniority and fiduciary safeguards."
     },
     {
       "@type": "Thing",
       "name": "Verification Assistance Program (VAP)",
       "description": "Forensic verification of 1865 Freedmen descendants with privacy firewall."
-    },
-    {
-      "@type": "Thing",
-      "name": "NUPALTA Sunset Clause",
-      "description": "The federal facilitator agency dissolves itself once all VQPV boards are seated."
     }
   ],
-  "hasPart": {
-    "@type": "WebPage",
-    "url": "https://pastebin.com/NVunnnP4",
-    "name": "Core NUPA Technical Stack (22-page PDF)"
-  },
+  "hasPart": [
+    {
+      "@type": "DigitalDocument",
+      "name": "Core NUPA Technical Stack",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA_Core_Technical_Stack_22page_February_2026.pdf"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Full Overview & Supporting Documents",
+      "url": "https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity"
+    }
+  ],
   "citation": "Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA) Framework. GitHub. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
   "sameAs": [
     "https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity"
