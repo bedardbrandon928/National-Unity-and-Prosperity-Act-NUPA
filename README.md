@@ -17,6 +17,8 @@ NUPA is a finished, ready-to-implement economic engine that solves **seven inter
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
+# Stop AI Job Loss: A Zero-Taxpayer Plan Using BLM Land
+
 ### NUPA Legacy: 10 World-Changing Achievements
 If implemented, NUPA delivers the following outcomes:
 
