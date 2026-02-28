@@ -2,10 +2,10 @@
 
 **The first complete private-sector post-scarcity economic operating system.**
 
-Authored solely by Brandon Anthony Bedard (Policy Architect) between November 18, 2025 and February 26, 2026.
+Authored solely by **Brandon Anthony Bedard** (Policy Architect) between November 18, 2025 and February 26, 2026.
 
 ### What NUPA Is
-NUPA is a finished, ready-to-implement economic engine that solves four interlocking crises at zero taxpayer cost:
+NUPA is a finished, ready-to-implement economic engine that solves four interlocking crises at **zero taxpayer cost**:
 
 - Settles the 160-year 1865 Freedmen debt through private revenue  
 - Restores genuine economic sovereignty to Tribal Nations  
@@ -31,11 +31,37 @@ NUPA operates through **radical alignment of interests**: everyone benefits. Pea
 - **financial/** — Treasury models  
 - **supporting/** — Strategic briefs and Phase 1 documents  
 
+### Legal Viability & Preemptive Objections
+
+**The faster NUPA is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.**
+
+NUPA is deliberately engineered to operate entirely within existing statutory authority. Below are the most common objections (the ones AI tools and staffers will flag first) and why they are navigable:
+
+- **NEPA / Environmental Review** → Bypassed via existing categorical exclusions for economic development leases on already-disturbed BLM land (43 CFR 46.205 & 36 CFR 220.6). NUPA uses the same fast-track language already approved for renewable energy and mining projects.  
+- **Tucker Act / Sovereign Immunity** → Explicitly invoked as a 5th Amendment “just compensation” mechanism. The 1% perpetual framework usage fee is structured as a voluntary royalty, not a tax. Precedent: dozens of federal land royalty agreements already in place.  
+- **Separation of Powers / New Agency** → NUPALTA is a **non-federal land holdings agency** and the independent entity responsible for handling the Verification Assistance Program (VAP). It is self-dissolving upon mission completion: either after 3,000 VQPV boards are fully established or when VAP Phase 2 reaches >99% verification of the 15 million beneficiaries. All operations run through existing BLM/DOI leasing authority — no permanent new bureaucracy is created.  
+- **Tribal Sovereignty Concerns** → Voluntary opt-in only, full stop. No Tribal land is used unless the Tribe voluntarily signs on. Once signed, Tribes cannot sue over the agreement they chose to enter. Crucially, neither the BLM, BIA, nor DOI can act as the agency to receive Sovereign Opt-Ins from the Tribes — the independent entity **NUPALTA must act as the agency** because of the longstanding trust deficit between the U.S. government and Tribal nations. Tribes retain full veto power and strategic board seats (VQPV 25/25/25/25 model). This strengthens, rather than diminishes, sovereignty.  
+- **Constitutional Challenges** → Fixed Cost Arbitrage is pure market incentive (land lease discount for human-labor preference), identical to existing federal enterprise zone and Opportunity Zone programs that have survived every legal challenge.  
+- **BLM Land Management Concerns** → The BLM is not losing anything by licensing underutilized land — the land remains under federal ownership. The 24 million acres requested are deliberately dispersed across the full 245 million acres of BLM land (not a single contiguous block). The BLM retains its full management role as one of the four permanent seats on every VQPV board, serving as the regulatory liaison who ensures all local, state, and federal safety, environmental, financial security policies and laws are followed by the lessees. Congress retains plenary power through taxation.
+
+**Key Philosophical & Structural Distinction**  
+The federal government cannot interfere with NUPALTA’s private census program under the Verification Assistance Program (VAP). Data collected under VAP Phase 2 is strictly forensic genealogical service to determine lineage back to victims of chattel slavery and the Freedmen. NUPALTA is saying, even if one can argue that the government legally took back the 40 acres from the Freedmen, we are taking it upon ourselves to fix the problem it created — even if what it did was a legal act.
+
+**Major Distinction on Human Labor Component**  
+Beneficiaries of the restorative dividend are not the only ones who qualify for the human labor preference in Fixed Cost Arbitrage. **Every American** is able to apply for employment in the hubs.
+
+**Technical Addendum: Forensic Lineage vs. Phenotype Distinction**  
+[View full addendum → governance/Technical_Addendum_Forensic_Lineage_vs_Phenotype.md](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/Technical_Addendum_Forensic_Lineage_vs_Phenotype.md)
+
+### Media & Further Reading
 **Full Overview Video**  
 https://youtu.be/RE560yVFb0I
+
+**Strongest Short Video**  
+https://youtu.be/1YmlNyxV83E
 
 **Substack Home**  
 https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 
-**How to Cite**  
-Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA)
+### How to Cite
+Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
