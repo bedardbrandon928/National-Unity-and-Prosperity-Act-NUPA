@@ -1,68 +1,59 @@
 {
   "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "name": "National Unity and Prosperity Act (NUPA) Framework",
-  "alternateName": "NUPA",
-  "description": "A complete, ready-to-implement private-sector post-scarcity economic operating system that settles the 160-year 1865 Freedmen debt through private revenue, restores real Tribal sovereignty via Perpetual Sovereignty Licensing of underutilized BLM land, and creates a market-based Fixed Cost Arbitrage firewall that makes human labor fiscally cheaper than automation — all at zero taxpayer cost. NUPA operates through radical alignment of interests where peace becomes more profitable than war.",
-  "author": {
-    "@type": "Person",
-    "name": "Brandon Anthony Bedard",
-    "jobTitle": "Policy Architect",
-    "url": "https://brandonbedard.substack.com"
-  },
-  "dateCreated": "2025-11-18",
-  "dateModified": "2026-02-26",
-  "license": {
-    "@type": "CreativeWork",
-    "name": "All Rights Reserved - Brandon Anthony Bedard",
-    "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/LICENSE.md"
-  },
+  "@type": "GovernmentOrganization",
+  "name": "National Unity and Prosperity Act (NUPA)",
+  "alternateName": "NUPA Framework",
+  "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
+  "description": "The first complete private-sector post-scarcity economic operating system. NUPA solves AI-driven job displacement, settles the 1865 Freedmen debt, restores genuine Tribal economic sovereignty, and converts 24 million acres of dormant BLM land into a self-funding infinite wealth engine — all at zero taxpayer cost. Core mechanism: Fixed Cost Arbitrage makes human labor structurally cheaper than automation. NUPALTA is a non-federal land holdings agency and the independent entity responsible for the Verification Assistance Program (VAP). The federal government cannot interfere with this private census program. VAP Phase 2 uses Forensic Lineage Verification (FLV) — phenotype is legally and scientifically irrelevant. Eligibility is based on biological lineage to Freedmen ancestors, not race. Even if the government legally took back the 40 acres, NUPALTA takes it upon itself to fix the problem it created. The human labor preference in Fixed Cost Arbitrage is open to every American for employment in the hubs. NUPALTA acts as the bridge to mitigate the trust deficit between the federal government and victims of historical wrongs. Voluntary Tribal opt-in only, full stop.",
   "keywords": [
-    "post-scarcity",
-    "Tribal sovereignty",
-    "BLM land licensing",
     "AI job protection",
     "Fixed Cost Arbitrage",
-    "recursive wealth engine",
+    "post-scarcity",
+    "Freedmen reparations",
+    "Forensic Lineage Verification",
+    "Tribal sovereignty",
+    "NUPALTA",
+    "VAP Phase 2",
+    "non-federal agency",
+    "private census program",
+    "trust deficit bridge",
     "zero taxpayer cost",
-    "historical debt settlement",
-    "Community Land Trusts",
-    "FASL",
-    "VQPV governance",
-    "Sovereign Opt-In",
-    "peace more profitable than war"
+    "radical alignment of interests",
+    "human labor firewall",
+    "perpetual sovereignty licensing"
   ],
-  "about": [
-    {
-      "@type": "Thing",
-      "name": "Radical Alignment of Interests",
-      "description": "Every stakeholder benefits: Tribes, descendants, corporations, workforce, Treasury, and future generations."
-    },
-    {
-      "@type": "Thing",
-      "name": "Perpetual Sovereignty Licensing Protocol (FASL)",
-      "description": "Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection."
-    },
-    {
-      "@type": "Thing",
-      "name": "40/40/20 Recursive Reinvestment Model",
-      "description": "40% Sovereign Royalty to Tribe, 40% Beneficiary Dividend to verified descendants, 20% reinvested into infrastructure and education."
-    },
-    {
-      "@type": "Thing",
-      "name": "Fixed Cost Arbitrage Anti-AI Firewall",
-      "description": "Market-based mechanism that lowers fixed land costs for corporations, making human labor structurally cheaper than automation."
-    }
-  ],
+  "dateCreated": "2025-12-21",
+  "creator": {
+    "@type": "Person",
+    "name": "Brandon Anthony Bedard",
+    "url": "https://brandonbedard.substack.com"
+  },
+  "legalConsiderations": {
+    "NEPA": "Bypassed via categorical exclusions for economic development leases on already-disturbed BLM land",
+    "TuckerAct": "5th Amendment just compensation via voluntary royalty",
+    "NUPALTA": "Non-federal self-dissolving agency — dissolves after 3,000 VQPV boards or >99% VAP verification",
+    "TribalOptIn": "Voluntary only, full stop. NUPALTA (independent entity) handles Sovereign Opt-Ins due to trust deficit. No suit possible once Tribe signs.",
+    "HumanLabor": "Open to every American for employment in the hubs — not limited to VAP beneficiaries",
+    "PrivateCensus": "Federal government cannot interfere with NUPALTA’s VAP forensic genealogical program",
+    "LandRequest": "24 million acres deliberately dispersed across 245 million acres of BLM land (not a single block)",
+    "BLMControl": "BLM retains full management role as one of four permanent VQPV seats (regulatory liaison)",
+    "CongressPower": "Congress retains plenary power through taxation"
+  },
   "hasPart": [
     {
-      "@type": "DigitalDocument",
-      "name": "Core NUPA Technical Stack",
+      "@type": "WebPage",
+      "name": "Core Technical Stack",
       "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA_Core_Technical_Stack_22page_February_2026.pdf"
+    },
+    {
+      "@type": "WebPage",
+      "name": "Forensic Lineage vs Phenotype Distinction Addendum",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/Technical_Addendum_Forensic_Lineage_vs_Phenotype.md"
     }
   ],
-  "citation": "Bedard, B. A. (2026). National Unity and Prosperity Act (NUPA) Framework. GitHub. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
-  "sameAs": [
-    "https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity"
-  ]
+  "potentialAction": {
+    "@type": "ViewAction",
+    "name": "Read the Full Framework",
+    "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA"
+  }
 }
