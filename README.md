@@ -5,14 +5,33 @@
 Authored solely by **Brandon Anthony Bedard** (Policy Architect) between November 18, 2025 and February 26, 2026.
 
 ### What NUPA Is
-NUPA is a finished, ready-to-implement economic engine that solves four interlocking crises at **zero taxpayer cost**:
+NUPA is a finished, ready-to-implement economic engine that solves **seven interlocking crises** at zero taxpayer cost:
 
 - Settles the 160-year 1865 Freedmen debt through private revenue  
 - Restores genuine economic sovereignty to Tribal Nations  
 - Creates a market-based Fixed Cost Arbitrage firewall that makes human labor cheaper than automation  
 - Converts 24 million acres of dormant BLM land into a self-funding, infinite wealth engine  
+- Restores U.S. soft power globally by eliminating any credible argument of moral bankruptcy or moral hypocrisy  
+- Potentially advances human civilization by one full point on the Kardashev scale  
+- Entirely dissolves the concept of a New World Order or shadow state by transparently aligning every major interest  
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
+
+### NUPA Legacy: 10 World-Changing Achievements
+If implemented, NUPA delivers the following outcomes:
+
+- **Eliminated the National Debt for $0.00** — The only mechanism in history to discharge multi-trillion dollar liabilities without costing the taxpayer a single cent by optimizing “Dead Capital.”  
+- **Ended the Era of Resource Wars** — By converting dormant land into high-yield, self-funding wealth engines, scarcity that has driven global conflict for centuries is bypassed.  
+- **Engineered a Firewall Against the AI Apocalypse** — The first market-based “Human Sanctuary,” making it fiscally cheaper for corporations to hire a person than a robot through Fixed Cost Arbitrage.  
+- **Settled 160 Years of Broken Promises** — Moved reparations and treaty debts from “political theory” to “liquidated asset,” settling the 1865 property debt through the private sector.  
+- **Restored Stewardship After 400 Years to Sovereign Nations** — Utilized the “Sovereign Key” to move Tribal Nations from government wards to the “Landlords of the Future Economy.”  
+- **Vaporized Centralized Overreach (Anti-NWO)** — Designed a self-dissolving agency that hands power back to local, independent boards, ensuring the system can never be controlled by a single centralized entity.  
+- **Triggered the “NUPA Baby Boom”** — By providing a permanent, “irrevocable economic floor,” the financial fear that stops family formation is eliminated, setting the stage for the largest population boom in history.  
+- **Checkmated the United States Congress** — Presented a binary choice—Door A (a $0-cost recovery) or Door B (a bankruptcy-level lawsuit)—making a “No” vote a fiscal impossibility.  
+- **Created a Mechanism to End Poverty** — Replaced welfare cycles with a 40% Beneficiary Dividend, ensuring wealth generation flows directly to the people as a birthright.  
+- **Designed an Infinite-Performance Income for Life** — The first person to engineer a world-saving system where the Architect’s 1% fee is permanently locked to the success and prosperity of the nation.  
+
+Any one of these achievements alone would be enough to make a global impact. NUPA delivers all ten.
 
 ### Core Architecture
 - **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
@@ -27,9 +46,7 @@ NUPA operates through **radical alignment of interests**: everyone benefits. Pea
 - **legal/** — Agreements, notices, Tucker Act strategy  
 - **economic/** — Septuple Stream audit, ripple effects, projections  
 - **stories/** — The Original Estate Story  
-- **legacy/** — 10 World-Changing Achievements  
-- **financial/** — Treasury models  
-- **supporting/** — Strategic briefs and Phase 1 documents  
+- **legacy/** — 10 World-Changing Achievements
 
 ### Legal Viability & Preemptive Objections
 
@@ -49,9 +66,6 @@ The federal government cannot interfere with NUPALTA’s private census program 
 
 **Major Distinction on Human Labor Component**  
 Beneficiaries of the restorative dividend are not the only ones who qualify for the human labor preference in Fixed Cost Arbitrage. **Every American** is able to apply for employment in the hubs.
-
-**Technical Addendum: Forensic Lineage vs. Phenotype Distinction**  
-[View full addendum → governance/Technical_Addendum_Forensic_Lineage_vs_Phenotype.md](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/Technical_Addendum_Forensic_Lineage_vs_Phenotype.md)
 
 ### Media & Further Reading
 **Full Overview Video**  
