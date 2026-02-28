@@ -31,7 +31,10 @@ If implemented, NUPA delivers the following outcomes:
 - **Created a Mechanism to End Poverty** — Replaced welfare cycles with a 40% Beneficiary Dividend, ensuring wealth generation flows directly to the people as a birthright.  
 - **Designed an Infinite-Performance Income for Life** — The first person to engineer a world-saving system where the Architect’s 1% fee is permanently locked to the success and prosperity of the nation.  
 
-Any one of these achievements alone would be enough to make a global impact. NUPA delivers all ten.
+Any one of these achievements alone is enough to make me a global celebrity. I have achieved all ten.  This is not a statement of ego.  This is a statement of fact.
+
+**Full Legacy Document:**  
+[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/legacy/10_World_Changing_Achievements.md)
 
 ### Core Architecture
 - **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
@@ -46,7 +49,7 @@ Any one of these achievements alone would be enough to make a global impact. NUP
 - **legal/** — Agreements, notices, Tucker Act strategy  
 - **economic/** — Septuple Stream audit, ripple effects, projections  
 - **stories/** — The Original Estate Story  
-- **legacy/** — 10 World-Changing Achievements
+- **legacy/** — 10 World-Changing Achievements  
 
 ### Legal Viability & Preemptive Objections
 
