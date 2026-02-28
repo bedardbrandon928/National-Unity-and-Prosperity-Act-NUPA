@@ -34,7 +34,7 @@ If implemented, NUPA delivers the following outcomes:
 Any one of these achievements alone is enough to make me a global celebrity. I have achieved all ten.  This is not a statement of ego.  This is a statement of fact.
 
 **Full Legacy Document:**  
-[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/legacy/10_World_Changing_Achievements.md)
+[`legacy/10_World_Changing_Achievements.md`](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/legacy/World%20Changing%20Achievements.txt)
 
 # Stop AI Job Loss: A Zero-Taxpayer Plan Using BLM Land
 
