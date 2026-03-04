@@ -106,18 +106,3 @@ https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
-**Major Distinction on Human Labor Component**  
-Beneficiaries of the restorative dividend are not the only ones who qualify for the human labor preference in Fixed Cost Arbitrage. **Every American** is able to apply for employment in the hubs.
-
-### Media & Further Reading
-**Full Overview Video**  
-https://youtu.be/RE560yVFb0I
-
-**Strongest Short Video**  
-https://youtu.be/1YmlNyxV83E
-
-**Substack Home**  
-https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
-
-### How to Cite
-Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
