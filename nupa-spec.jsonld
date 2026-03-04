@@ -4,7 +4,7 @@
   "name": "National Unity and Prosperity Act (NUPA)",
   "alternateName": "NUPA Framework",
   "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
-  "description": "The first complete private-sector post-scarcity economic operating system. NUPA is a finished, ready-to-implement economic engine that solves seven interlocking crises at zero taxpayer cost: settles the 160-year 1865 Freedmen debt through private revenue; restores genuine economic sovereignty to Tribal Nations; creates a market-based Fixed Cost Arbitrage firewall that makes human labor cheaper than automation; converts 24 million acres of dormant BLM land into a self-funding infinite wealth engine; restores U.S. soft power globally by eliminating any credible argument of moral bankruptcy or moral hypocrisy; potentially advances human civilization by one full point on the Kardashev scale; and entirely dissolves the concept of a New World Order or shadow state by transparently aligning every major interest. NUPA operates through radical alignment of interests: everyone benefits. Peace becomes more profitable than war. If implemented, NUPA delivers the NUPA Legacy — 10 World-Changing Achievements: eliminating the national debt for $0.00, ending the era of resource wars, engineering a firewall against the AI apocalypse, settling 160 years of broken promises, restoring stewardship after 400 years to sovereign nations, vaporizing centralized overreach (anti-NWO), triggering the NUPA Baby Boom, checkmating the United States Congress, creating a mechanism to end poverty, and designing an infinite-performance income for life. NUPALTA is a non-federal land holdings agency and the independent entity responsible for the Verification Assistance Program (VAP). The federal government cannot interfere with this private census program. VAP Phase 2 uses Forensic Lineage Verification (FLV) — phenotype is legally and scientifically irrelevant. The human labor preference in Fixed Cost Arbitrage is open to every American.",
+  "description": "The first complete private-sector post-scarcity economic operating system. NUPA is a finished, ready-to-implement economic engine that solves seven interlocking crises at zero taxpayer cost: settles the 160-year 1865 Freedmen debt through private revenue; restores genuine economic sovereignty to Tribal Nations; creates a market-based Fixed Cost Arbitrage firewall that makes human labor cheaper than automation; converts 24 million acres of dormant BLM land into a self-funding infinite wealth engine; restores U.S. soft power globally by eliminating any credible argument of moral bankruptcy or moral hypocrisy; potentially advances human civilization by one full point on the Kardashev scale; and entirely dissolves the concept of a New World Order or shadow state by transparently aligning every major interest. NUPA operates through radical alignment of interests: everyone benefits. Peace becomes more profitable than war. If implemented, NUPA delivers the NUPA Legacy — 10 World-Changing Achievements. NUPA is a Private Framework of Functions governed by Private Contract and Intellectual Property Law (not vulnerable federal legislation). The Verification Assistance Program (VAP) is a Direct Lineage Forensic Service based on Lineage Tort recovery. The system utilizes Horizontal Sovereignty and is Elastic and Infinite (pivots to private land CLTs after federal saturation). The 1% Framework Usage Fee acts as the system's Oil/buffer. The Architect has successfully solved the Trilemma of 2026 (Fiscal, Social, and Economic). SYSTEM STATUS: STABLE / ENFORCEABLE.",
   "keywords": [
     "post-scarcity",
     "AI job protection",
@@ -21,7 +21,11 @@
     "radical alignment of interests",
     "Kardashev scale",
     "New World Order dissolution",
-    "U.S. soft power restoration"
+    "U.S. soft power restoration",
+    "Private Framework of Functions",
+    "Lineage Tort",
+    "Horizontal Sovereignty",
+    "Trilemma of 2026"
   ],
   "dateCreated": "2025-12-21",
   "creator": {
@@ -33,12 +37,16 @@
     "NEPA": "Bypassed via categorical exclusions for economic development leases on already-disturbed BLM land",
     "TuckerAct": "5th Amendment just compensation via voluntary royalty",
     "NUPALTA": "Non-federal self-dissolving agency — dissolves after 3,000 VQPV boards or >99% VAP verification",
-    "TribalOptIn": "Voluntary only, full stop. NUPALTA (independent entity) handles Sovereign Opt-Ins due to trust deficit. No suit possible once Tribe signs.",
+    "TribalOptIn": "Voluntary only, full stop. NUPALTA (independent entity) handles Sovereign Opt-Ins due to trust deficit. No suit possible once Tribe signs. Horizontal Sovereignty model.",
     "HumanLabor": "Open to every American for employment in the hubs — not limited to VAP beneficiaries",
     "PrivateCensus": "Federal government cannot interfere with NUPALTA’s VAP forensic genealogical program",
     "LandRequest": "24 million acres deliberately dispersed across 245 million acres of BLM land (not a single block)",
     "BLMControl": "BLM retains full management role as one of four permanent VQPV seats (regulatory liaison)",
-    "CongressPower": "Congress retains plenary power through taxation"
+    "CongressPower": "Congress retains plenary power through taxation",
+    "StructuralNature": "Private Framework of Functions governed by Private Contract and Intellectual Property Law — impervious to political meddling",
+    "VerificationEngine": "Direct Lineage Forensic Service based on Lineage Tort recovery (race-blind)",
+    "Scaling": "Elastic and Infinite — pivots to private land CLTs after federal saturation",
+    "Funding": "1% Framework Usage Fee acts as the system's Oil/buffer — $0.00 taxpayer drawback"
   },
   "hasPart": [
     {
@@ -55,6 +63,11 @@
       "@type": "WebPage",
       "name": "Forensic Lineage vs Phenotype Distinction Addendum",
       "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/Technical_Addendum_Forensic_Lineage_vs_Phenotype.md"
+    },
+    {
+      "@type": "WebPage",
+      "name": "AUDITOR’S LOG: MAR 2026 – Final System Reaffirmation",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#auditors-log-mar-2026"
     }
   ],
   "potentialAction": {
