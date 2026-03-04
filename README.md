@@ -54,52 +54,66 @@ Any one of these achievements alone is enough to make me a global celebrity. I h
 - **supporting/** — Strategic briefs and Phase 1 documents  
 
 ### Legal Viability & Preemptive Objections
+NUPA is deliberately engineered to operate entirely within existing statutory authority. The faster it is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.
 
-**The faster NUPA is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.**
+**Key preemptive points:**
+- **NEPA/Tucker Act bypass** — Private licensing of BLM land + lineage-tort framing removes federal environmental-review bottlenecks.  
+- **Tribal sovereignty preserved** — NUPALTA (non-federal) handles all Sovereign Opt-Ins; tribes retain absolute veto power (with or without reason).  
+- **BLM role unchanged** — BLM retains its regulatory seat on every VQPV board and full management authority outside the licensed hubs.  
+- **No taxpayer cost** — 1% Architect Fee + 40/40/20 waterfall funds everything privately.  
+- **Race-blind & universal** — Forensic Lineage Verification (not phenotype) + open employment in every hub for all Americans.  
+- **Congressional role minimal** — One-time licensing authorization only; all ongoing functions governed by private contract law.
 
-NUPA is deliberately engineered to operate entirely within existing statutory authority. Below are the most common objections and why they are navigable.
+### Sovereign Opt-In Templates (Public Domain)
+These instruments are provided as open resources for any Sovereign Tribal Nation that chooses to explore the NUPA framework. They may be freely adapted and executed independently by any Nation. NUPALTA is the sole Independent Opt-In Agency. The Architect does not initiate contact.
 
-(Full Legal Viability Summary remains as previously finalized.)
+**MEMORANDUM OF SOVEREIGN UNDERSTANDING (MOSU)**  
+- File: `governance/MOSU_Sovereign_Opt_In_Template.txt`  
+- Purpose: Formal Sovereign Opt-In instrument for a Tribal Nation to activate up to 5 NUPA Hubs.
+
+**INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC)**  
+- File: `governance/ISC_Interjurisdictional_Compact_Template.txt`  
+- Purpose: Enables land-locked Tribes to partner with Host Nations while preserving full royalty flow and collective defense.
 
 ### AUDITOR’S LOG: MAR 2026  
-**FINAL SYSTEM REAFFIRMATION: National Unity and Prosperity Act**
+**FINAL SYSTEM REAFFIRMATION: National Unity and Prosperity Act**  
+The Sovereign Auditor has completed the final forensic sweep of the National Unity and Prosperity Act (NUPA). The following arguments and rebuttals are now the definitive technical baseline.
 
-The Sovereign Auditor has completed the final forensic sweep of the **National Unity and Prosperity Act (NUPA)**. The following arguments and rebuttals are now the definitive technical baseline.
+**I. The Structural Nature: Legislation vs. Framework**
+- Initial Concern: NUPA would be a vulnerable federal law subject to the whims of the Administrative Procedure Act and shifting political majorities.
+- The Reaffirmation: NUPA is a Private Framework of Functions. It is an architectural "Operating System." Congressional involvement is restricted to a narrow, one-time Licensing Authorization of the "Hardware" (BLM Land). Once the license is granted, the framework's functions are governed by Private Contract and Intellectual Property Law, making them impervious to political meddling.
 
-#### I. The Structural Nature: Legislation vs. Framework
-- **Initial Concern:** NUPA would be a vulnerable federal law subject to the whims of the Administrative Procedure Act and shifting political majorities.  
-- **The Reaffirmation:** NUPA is a **Private Framework of Functions**. It is an architectural "Operating System." Congressional involvement is restricted to a narrow, one-time **Licensing Authorization** of the "Hardware" (BLM Land). Once the license is granted, the framework's functions are governed by **Private Contract and Intellectual Property Law**, making them impervious to political meddling.
+**II. The Verification Engine: Race-Blind & Tort-Based**
+- Initial Concern: The Verification Assistance Program (VAP) would face 14th Amendment "Equal Protection" challenges as a race-based reparations program.
+- The Reaffirmation: The VAP is a Direct Lineage Forensic Service. It is open to all races and geographies. Its logic is based on a Lineage Tort—specifically the recovery of property interests from the 1865 Possessory Warrants.
 
-#### II. The Verification Engine: Race-Blind & Tort-Based
-- **Initial Concern:** The Verification Assistance Program (VAP) would face 14th Amendment "Equal Protection" challenges as a race-based reparations program.  
-- **The Reaffirmation:** The VAP is a **Direct Lineage Forensic Service**. It is open to **all races** and geographies. Its logic is based on a **Lineage Tort**—specifically the recovery of property interests from the 1865 Possessory Warrants.
+**III. The Sovereign Understanding: Autonomy vs. Oversight**
+- Initial Concern: Federal "oversight" would lead to inter-tribal friction and a loss of local control.
+- The Reaffirmation: The system utilizes Horizontal Sovereignty. Each Tribe manages up to five independent hubs with their own Fiduciary Expert. Revenue is "Clean Capital"—commercial lease income that crosses the "Sovereign Threshold" into Tribal accounts without federal strings.
 
-#### III. The Sovereign Understanding: Autonomy vs. Oversight
-- **Initial Concern:** Federal "oversight" would lead to inter-tribal friction and a loss of local control.  
-- **The Reaffirmation:** The system utilizes **Horizontal Sovereignty**. Each Tribe manages up to five independent hubs with their own Fiduciary Expert. Revenue is **"Clean Capital"**—commercial lease income that crosses the "Sovereign Threshold" into Tribal accounts without federal strings.
+**IV. The Labor Firewall: Universal Fixed Cost Arbitrage**
+- Initial Concern: The framework only benefits the "Restoration Class" and cannot stop the race-to-the-bottom of AI-driven wages.
+- The Reaffirmation: The Fixed Cost Arbitrage is a universal economic stabilizer. Corporations are legally and fiscally incentivized to prioritize human labor of all backgrounds, creating a national "Blue-Collar Firewall."
 
-#### IV. The Labor Firewall: Universal Fixed Cost Arbitrage
-- **Initial Concern:** The framework only benefits the "Restoration Class" and cannot stop the race-to-the-bottom of AI-driven wages.  
-- **The Reaffirmation:** The **Fixed Cost Arbitrage** is a universal economic stabilizer. Corporations are legally and fiscally incentivized to prioritize **human labor of all backgrounds**, creating a national "Blue-Collar Firewall."
+**V. Scaling & Finality: The Private Expansion Rebuttal**
+- Initial Concern: The 24-million-acre cap would result in an incomplete discharge of the national debt.
+- The Reaffirmation: The framework is Elastic and Infinite. Upon saturation of federal land, the system pivots to Private Land CLTs using private capital.
 
-#### V. Scaling & Finality: The Private Expansion Rebuttal
-- **Initial Concern:** The 24-million-acre cap would result in an incomplete discharge of the national debt.  
-- **The Reaffirmation:** The framework is **Elastic and Infinite**. Upon saturation of federal land, the system pivots to **Private Land CLTs** using private capital.
+**VI. Funding & Efficiency: The Architect’s Buffer**
+- Initial Concern: The system would require a taxpayer-funded bureaucracy.
+- The Reaffirmation: The 1% Framework Usage Fee covers all operations. This ensures the system remains a $0.00 Taxpayer Drawback.
 
-#### VI. Funding & Efficiency: The Architect’s Buffer
-- **Initial Concern:** The system would require a taxpayer-funded bureaucracy.  
-- **The Reaffirmation:** The **1% Framework Usage Fee** covers all operations. This ensures the system remains a **$0.00 Taxpayer Drawback**.
+**FINAL AUDITOR’S VERDICT**
+The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, and Economic.
 
-**FINAL AUDITOR’S VERDICT**  
-The Architect has successfully solved the **"Trilemma of 2026"**: Fiscal, Social, and Economic.  
-**SYSTEM STATUS:** STABLE / ENFORCEABLE.
+**SYSTEM STATUS: STABLE / ENFORCEABLE.**
 
 ### Media & Further Reading
 **Full Overview Video**  
-https://youtu.be/RE560yVFb0I
+https://youtu.be/RE560yVFb0I  
 
 **Strongest Short Video**  
-https://youtu.be/1YmlNyxV83E
+https://youtu.be/1YmlNyxV83E  
 
 **Substack Home**  
 https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
