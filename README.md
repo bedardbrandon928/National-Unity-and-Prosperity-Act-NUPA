@@ -40,7 +40,7 @@ Any one of these achievements alone is enough to make me a global celebrity. I h
 - **Perpetual Sovereignty Licensing (FASL)** — Irrevocable licensing of underutilized BLM land into Community Land Trusts with Tribal strategic veto and Fifth Amendment protection  
 - **40/40/20 Recursive Reinvestment Model** — 40% Sovereign Royalty to Tribe, 40% Beneficiary Dividend to verified descendants, 20% reinvested into infrastructure and knowledge  
 - **Fixed Cost Arbitrage Anti-AI Firewall** — Structural incentive for corporations to prioritize human labor  
-- **VQPV Governance** — Balanced four-part board with Tribal seniority  
+- **VQPV Governance (Variable Quad-Partite Vetting)** — Balanced four-part board with Tribal seniority    
 - **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated  
 
 ### Repository Structure
