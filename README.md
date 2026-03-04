@@ -68,11 +68,11 @@ NUPA is deliberately engineered to operate entirely within existing statutory au
 These instruments are provided as open resources for any Sovereign Tribal Nation that chooses to explore the NUPA framework. They may be freely adapted and executed independently by any Nation. NUPALTA is the sole Independent Opt-In Agency. The Architect does not initiate contact.
 
 **MEMORANDUM OF SOVEREIGN UNDERSTANDING (MOSU)**  
-- File: `governance/MOSU_Sovereign_Opt_In_Template.txt`  
+- File: `governance/MOSU_Sovereign_Opt_In_Template.md`  
 - Purpose: Formal Sovereign Opt-In instrument for a Tribal Nation to activate up to 5 NUPA Hubs.
 
 **INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC)**  
-- File: `governance/ISC_Interjurisdictional_Compact_Template.txt`  
+- File: `governance/ISC_Interjurisdictional_Compact_Template.md`  
 - Purpose: Enables land-locked Tribes to partner with Host Nations while preserving full royalty flow and collective defense.
 
 ### AUDITOR’S LOG: MAR 2026  
