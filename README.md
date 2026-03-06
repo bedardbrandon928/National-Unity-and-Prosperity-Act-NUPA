@@ -118,6 +118,9 @@ https://youtu.be/RE560yVFb0I
 **Strongest Short Video**  
 https://youtu.be/1YmlNyxV83E  
 
+**Pastebin Home**
+https://pastebin.com/NVunnnP4
+
 **Substack Home**  
 https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 
