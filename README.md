@@ -118,8 +118,7 @@ https://youtu.be/RE560yVFb0I
 **Strongest Short Video**  
 https://youtu.be/1YmlNyxV83E  
 
-**Pastebin Home**
-
+**Pastebin Home**  
 [Full Core NUPA Stack - 22-page memorandum](https://pastebin.com/NVunnnP4)
 
 **Substack Home**  
