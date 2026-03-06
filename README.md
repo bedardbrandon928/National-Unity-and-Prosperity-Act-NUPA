@@ -111,6 +111,15 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 **SYSTEM STATUS: STABLE / ENFORCEABLE.**
 
+## Contact the Architect
+
+For comments, interviews, or implementation questions:
+
+**Signal**: [928-419-4189]  
+**Email**: [bedard.brandon928@gmail.com]
+
+All core documents, templates, and the full Auditor’s Log are already in this repository. No gatekeeping.
+
 ### Media & Further Reading
 **Full Overview Video**  
 https://youtu.be/RE560yVFb0I  
