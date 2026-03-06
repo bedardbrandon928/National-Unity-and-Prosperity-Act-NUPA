@@ -115,8 +115,8 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 For comments, interviews, or implementation questions:
 
-**Signal**: [928-419-4189]  
-**Email**: [bedard.brandon928@gmail.com]
+**Signal**: 928-419-4189  
+**Email**: bedard.brandon928@gmail.com
 
 All core documents, templates, and the full Auditor’s Log are already in this repository. No gatekeeping.
 
