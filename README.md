@@ -111,13 +111,13 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 **SYSTEM STATUS: STABLE / ENFORCEABLE.**
 
-## Monte Carlo Simulations (March 2026)
+## Latest Monte Carlo Simulations (March 2026)
 
-Grok (xAI) ran 10k simulations on the full repo mechanics:
-- v2: 97% black swan survival (94–99% CI) with voluntary opt-in + Tucker/pre-awareness + Success Contagion
-- v3 at 40% awareness: 98.5% survival
+- Grok v2/v3 (10k runs, repo mechanics + voluntary opt-in + awareness decay): 97% black swan survival → 98.5% at 40% awareness  
+  Script: monte_carlo_v2_v3.py
 
-Script: monte_carlo_v2_v3.py (open-sourced from Grok's public reply)
+- Gemini (full fiscal/sociological sim): 2038–2039 debt discharge median, anti-fragile success, self-propagating once awareness hits Trigger Threshold  
+  Verdict: Logic sound, math unassailable, 2039 Zero-Debt horizon most probable
 
 ## Contact the Architect
 
