@@ -5,7 +5,7 @@
 
 **The first complete private-sector post-scarcity economic operating system.**
 
-Authored solely by **Brandon Anthony Bedard** (Policy Architect) between November 18, 2025 and February 26, 2026.
+Authored solely by **Brandon Anthony Bedard** (Policy Architect) between November 18, 2025 and December 22, 2025.
 
 ### What NUPA Is
 NUPA is a finished, ready-to-implement economic engine that solves **seven interlocking crises** at zero taxpayer cost:
