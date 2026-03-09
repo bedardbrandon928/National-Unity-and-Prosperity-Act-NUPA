@@ -176,7 +176,7 @@ The Local Government Official is nominated by the local governing body and confi
 ​The licensed land is managed by local/digital CLTs governed by the proprietary Variable Quad-Partite Vetting (VQPV) System, serving as the central fiduciary engine and the primary legal fortress for the asset. 
  * Shared Title Aggregation: The CLT represents the Sovereign Tribe and the verified Beneficiaries as shared beneficial interest holders under the license. This structure is established in name alone to facilitate streamlined execution of 99-year commercial ground leases, removing the administrative gridlock of individual stakeholder signatures.
  * Trust Capacity Limits (Saturation Guardrail): Each digital CLT is optimized for an 8,000-acre "Hub" to ensure high-yield dividend density. To maintain the 40% Beneficiary Dividend as a high-velocity wealth engine, each CLT is capped at a maximum capacity of 5,000 verified beneficiaries that do not need to relocate from their currently established homes.
- * Modular Scaling: Once a specific CLT reachs its 5,000-beneficiary capacity, new verified descendants are assigned to the next sequential CLT hub. This ensures that the 40/40/20 disbursement remains a life-altering "Birthright Dividend" rather than a diluted social payment.  
+ * Modular Scaling: Once a specific CLT reaches its 5,000-beneficiary capacity, new verified descendants are assigned to the next sequential CLT hub. This ensures that the 40/40/20 disbursement remains a life-altering "Birthright Dividend" rather than a diluted social payment.  
  * Perpetual Sovereignty Licensing Protocol: The irrevocable licensing of underutilized BLM acreage under FASL operates as a permanent vesting of sovereignty licensing rights into the CLT. Once licensed, the licensed interest is protected by the Fifth Amendment against arbitrary federal revocation or impairment without just compensation.
  * Acreage-to-Beneficiary Ratio: To ensure governance integrity and prevent administrative stagnation, each CLT is restricted to a specific allocation of acreage (8,000) and a manageable cohort of situated beneficiaries (5,000). This "Modular Trust" model ensures that localized VQPV boards can effectively manage the 40/40/20 disbursement without the dilution of oversight.
  * Sovereign Recognition: The CLT utilizes the Sovereign status of the participating Tribe to shield the licensed land from traditional municipal property taxes, ensuring the asset operates as a high-margin, tax-exempt economic engine.
@@ -612,7 +612,7 @@ All deposits held in this account remain 100% refundable to the corporate entity
 AGREEMENT ID: NUPA-ESCROW-001 (The "Smart-Waterfall Protocol")
 EFFECTIVE DATE: [Date of Execution]
 THE CLIENT: The National Unity and Prosperity Land Trust Authority (NUPALTA), acting as the Facilitator of the Sovereign Land Assets. 
-TO THE AGENT: [Name ofLaw Firm / Designated Tier-1 Bank], acting as Master Escrow Agent. 
+TO THE AGENT: [Name of Law Firm / Designated Tier-1 Bank], acting as Master Escrow Agent. 
 
 ### ARTICLE 1: THE INFLOW
 
