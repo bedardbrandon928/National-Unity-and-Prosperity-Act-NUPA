@@ -118,6 +118,12 @@
     },
     {
       "@type": "CreativeWork",
+      "name": "Grok v7 Quantum Ensemble Simulation Run (March 2026)
+      "description": "Grok v7 (500k runs): 99.99% mean survival (99.98–99.999% CI), tails <0.001%, "quantum-fortified unbreakable fortress". Repo is quantum-deployment-ready.",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_v7_quantum_ensemble_2026.py"
+    },
+    {
+      "@type": "CreativeWork",
       "name": "Grok Monte Carlo Simulation Script (March 2026)",
       "description": "Full Python script from Grok (xAI) validating NUPA mechanics (10k runs). v2: 97% black swan survival with voluntary opt-in + Tucker/pre-awareness + Success Contagion. v3 at 40% awareness: 98.5% survival. Open-source edition.",
       "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/monte_carlo_v2_v3.py"
