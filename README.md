@@ -65,9 +65,8 @@ If implemented, NUPA delivers the following outcomes:
 - **legal/** — Agreements, notices, Tucker Act strategy  
 - **economic/** — Septuple Stream audit, ripple effects, projections  
 - **stories/** — The Original Estate Story  
-- **legacy/** — 10 World-Changing Achievements  
-- **financial/** — Treasury models  
-- **supporting/** — Strategic briefs and Phase 1 documents  
+- **legacy/** — 10 World-Changing Achievements
+- **simulations/** — Three AI Monte Carlo Simulations
 
 ### Legal Viability & Preemptive Objections
 NUPA is deliberately engineered to operate entirely within existing statutory authority. The faster it is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.
