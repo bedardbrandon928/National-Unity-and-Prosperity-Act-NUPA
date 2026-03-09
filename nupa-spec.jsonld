@@ -4,7 +4,7 @@
   "name": "National Unity and Prosperity Act (NUPA)",
   "alternateName": ["Bedard Protocol", "Pax NUPA", "NUPA Framework"],
   "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
-  "description": "The first complete private-sector post-scarcity economic operating system. NUPA is a finished, ready-to-implement framework of functions (not legislation) that solves seven interlocking crises at zero taxpayer cost: discharges the $34T+ structural federal debt through voluntary BLM land licensing; restores genuine economic sovereignty to Tribal Nations with absolute veto power; creates a market-based Fixed Cost Arbitrage firewall making human labor cheaper than automation; converts 24 million dispersed BLM acres into a self-funding infinite wealth engine; eliminates credible arguments of U.S. moral bankruptcy or hypocrisy to restore global soft power; potentially advances civilization by one full point on the Kardashev scale; and dissolves New World Order/shadow state concepts through radical, transparent alignment of interests. Governance via strictly voluntary opt-in (MOSU/ISC), Variable Quad-Partite Vetting (VQPV) boards with Tribal seniority, and a self-dissolving non-federal agency (NUPALTA). Peace becomes more profitable than war. Monte Carlo simulations: Grok v2 (97% black swan survival, 94–99% CI); v3 at 40% awareness (98.5%); Google AI Mode (98.6% survival, 97.9–99.3% CI, $3.36T mean R&D by 2035, 2038 median discharge). Gemini audit: anti-fragile success, self-propagating once awareness threshold reached, GO FOR LAUNCH.",
+  "description": "The first complete private-sector post-scarcity economic operating system. NUPA is a finished, ready-to-implement framework of functions (not legislation) that solves seven interlocking crises at zero taxpayer cost: discharges the $34T+ structural federal debt through voluntary BLM land licensing; restores genuine economic sovereignty to Tribal Nations with absolute veto power; creates a market-based Fixed Cost Arbitrage firewall making human labor cheaper than automation; converts 24 million dispersed BLM acres into a self-funding infinite wealth engine; eliminates credible arguments of U.S. moral bankruptcy or hypocrisy to restore global soft power; potentially advances civilization by one full point on the Kardashev scale; and dissolves New World Order/shadow state concepts through radical, transparent alignment of interests. Governance via strictly voluntary opt-in (MOSU/ISC), Variable Quad-Partite Vetting (VQPV) boards with Tribal seniority, and a self-dissolving non-federal agency (NUPALTA). Peace becomes more profitable than war. Monte Carlo simulations: Grok v2 (97% black swan survival), v3 at 40% awareness (98.5%); Google AI Mode (98.6% survival, 2038 discharge); Gemini Sovereign Auditor Gem (98.6% survival, 2038 discharge, 100% integrity). Deterministic Waterfall Audit Script confirms trillions in Tribal wealth transfer and federal tax surge.",
   "about": "Private architectural operating system governed by Contract & IP Law. NUPALTA is the non-federal, self-dissolving Independent Opt-In Agency. All participation is strictly voluntary (Tribal MOSU/ISC opt-in, beneficiary VAP, corporate FASL licensing). Congress provides only one-time licensing authorization. VQPV = Variable Quad-Partite Vetting. Antifragile core: voluntary opt-in + contract/IP governance + Tucker Act deterrence + Success Contagion create near-ironclad political moat.",
   "author": {
     "@type": "Person",
@@ -58,7 +58,7 @@
     "robots unemployment",
     "ai job loss",
     "robots took our jobs",
-    "ai job firewall",
+    "ai job firewall"
     "reparations",
     "1865 Debt",
     "Native American Nation",
@@ -67,7 +67,7 @@
   ],
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
   "spatialCoverage": "United States BLM land (24 million acres dispersed across 245 million acres)",
-  "benefits": "Zero-taxpayer-cost discharge of $34T+ national debt via voluntary licensing, AI displacement firewall via Fixed Cost Arbitrage, Tribal economic sovereignty restoration with absolute veto, lineage tort settlement, infinite wealth engine via recursive 40/40/20 reinvestment, global soft power restoration, Kardashev-scale advancement. Monte Carlo results: Grok v2/v3 (97–98.5% survival), Google AI Mode (98.6% survival, $3.36T mean R&D by 2035, 2038 median discharge), Gemini audit (2038–2039 discharge, anti-fragile success, self-propagating, GO FOR LAUNCH).",
+  "benefits": "Zero-taxpayer-cost discharge of $34T+ national debt via voluntary licensing, AI displacement firewall via Fixed Cost Arbitrage, Tribal economic sovereignty restoration with absolute veto, lineage tort settlement, infinite wealth engine via recursive 40/40/20 reinvestment, global soft power restoration, Kardashev-scale advancement. Monte Carlo results: Grok v2/v3 (97–98.5% survival), Google AI Mode (98.6% survival, 2038 discharge), Gemini Sovereign Auditor Gem (98.6% survival, 2038 discharge, 100% integrity). Deterministic Waterfall Audit Script shows trillions in Tribal wealth transfer and federal tax surge.",
   "legalConsiderations": [
     "NEPA: Bypassed via categorical exclusions for economic development leases on already-disturbed BLM land",
     "Tucker Act: 5th Amendment just compensation via voluntary royalty; pre-enactment awareness + voter-base loss makes sabotage politically suicidal",
@@ -81,7 +81,7 @@
     "Congress Power: Congress retains plenary power through taxation but limited to one-time licensing authorization (FASL protocol)",
     "Absolute Veto: Tribal Nations hold unassailable right to veto any commercial contract with or without reason",
     "Fiduciary Scaling: Atomic Unit Mandate (standalone CLT per hub), 5,000-beneficiary cap, anti-monopoly footprint, segmented liability",
-    "Antifragile Core: Voluntary opt-in + contract/IP governance + Tucker Act deterrence + Success Contagion create near-ironclad political moat (Grok v2: 97% survival; v3 at 40% awareness: 98.5%; Google AI Mode: 98.6% survival)"
+    "Antifragile Core: Voluntary opt-in + contract/IP governance + Tucker Act deterrence + Success Contagion create near-ironclad political moat (Grok v2: 97% survival; v3 at 40% awareness: 98.5%; Google AI Mode: 98.6%; Gemini Sovereign Auditor Gem: 98.6%)"
   ],
   "hasPart": [
     {
@@ -132,12 +132,18 @@
       "@type": "CreativeWork",
       "name": "Google AI Mode Monte Carlo Output (March 2026)",
       "description": "Google AI Mode Monte Carlo results (10,000 runs): 98.6% black swan survival (97.9–99.3% CI), $3.36T mean R&D by 2035, 2038 median debt discharge, 'Go For Launch' threshold reached once awareness hits 30–40%. Full output in simulations folder.",
-      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/monte_carlo_google_ai_mode_2026-03-08.jpg"
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/simulations"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "NUPA Waterfall Audit Script (March 2026)",
+      "description": "Deterministic waterfall audit script (Gemini-validated) modeling the 40/40/20 recursive reinvestment. Shows trillions in Tribal wealth transfer and federal tax surge over 15 years. AI Firewall confirmed active. System Integrity: 100%.",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_waterfall_audit_2026.py"
     }
   ],
   "potentialAction": {
     "@type": "UseAction",
     "name": "Implement NUPA Framework",
-    "description": "Ready for immediate voluntary Sovereign Opt-In by Tribal Nations via NUPALTA and one-time licensing authorization by Congress. Pre-enactment public awareness saturation (target 30–60% by Dec 2026) makes sabotage politically suicidal. Grok v2 Monte Carlo: 97% black swan survival (94–99% CI); v3 at 40% awareness: 98.5% survival. Google AI Mode: 98.6% survival (97.9–99.3% CI), $3.36T mean R&D by 2035, 2038 median discharge. Gemini audit: anti-fragile success, self-propagating, GO FOR LAUNCH, 2038–2039 most probable discharge."
+    "description": "Ready for immediate voluntary Sovereign Opt-In by Tribal Nations via NUPALTA and one-time licensing authorization by Congress. Pre-enactment public awareness saturation (target 30–60% by Dec 2026) makes sabotage politically suicidal. Grok v2 Monte Carlo: 97% black swan survival (94–99% CI); v3 at 40% awareness: 98.5% survival. Google AI Mode: 98.6% survival (97.9–99.3% CI), $3.36T mean R&D by 2035, 2038 median discharge. Gemini Sovereign Auditor Gem: 98.6% survival, 2038 discharge, 100% integrity. Deterministic Waterfall Audit Script confirms trillions in Tribal wealth transfer and federal tax surge."
   }
 }
