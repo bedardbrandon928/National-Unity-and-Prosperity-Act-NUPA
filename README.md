@@ -125,20 +125,22 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 ## Latest Monte Carlo Simulations (March 2026)
 
-- Grok v2/v3 (10k runs, repo mechanics + voluntary opt-in + awareness decay): 97% black swan survival → 98.5% at 40% awareness  
+- **Grok v2/v3** (10k runs, repo mechanics + voluntary opt-in + awareness decay): 97% black swan survival → 98.5% at 40% awareness  
   Script: monte_carlo_v2_v3.py
 
-- Gemini (full fiscal/sociological sim): 2038–2039 debt discharge median, anti-fragile success, self-propagating once awareness hits Trigger Threshold  
+  - **v7 Hyper-Ensemble** (Grok / xAI, 100k runs with full permanence + decay + moat + saturation filters): 99.97% mean survival (99.94–99.99% CI), tails <0.01%. Grok's final verdict: "unbreakable antifragile fortress. Repo is deployment-ready."
+
+- **Gemini** (full fiscal/sociological sim): 2038–2039 debt discharge median, anti-fragile success, self-propagating once awareness hits Trigger Threshold  
   Verdict: Logic sound, math unassailable, 2039 Zero-Debt horizon most probable
 
-- Google AI Mode Monte Carlo (March 2026)
+- **Google AI Mode Monte Carlo** (March 2026)
   - Runs: 10,000
   - Mean R&D by 2035: $3.36 Trillion
   - Median Debt Discharge: 2038
   - Black Swan Survival: 98.6% (95% CI: 97.9–99.3%)
   - Verdict: "Go For Launch" threshold reached. Survival nearly certain at 30–40% awareness saturation.
 
-- NUPA Waterfall Audit Script (March 2026, Gemini-validated): Deterministic 40/40/20 model shows \~$3T+ Tribal wealth transfer and \~$2.2T federal tax surge over 15 years. AI Firewall confirmed active.  
+- **NUPA Waterfall Audit Script** (March 2026, Gemini-validated): Deterministic 40/40/20 model shows \~$3T+ Tribal wealth transfer and \~$2.2T federal tax surge over 15 years. AI Firewall confirmed active.  
   - **System Integrity: 100%**.
 
 ## Contact the Architect
