@@ -65,6 +65,6 @@ The complete framework, including voluntary Sovereign Opt-In templates (MOSU & I
 
 https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA
 
-Brandon Anthony Bedard
-Policy Architect, NUPA Framework
+Brandon Anthony Bedard  
+Policy Architect, NUPA Framework  
 Kingman, Arizona
