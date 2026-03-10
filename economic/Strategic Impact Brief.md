@@ -40,30 +40,31 @@
 
 **I. Beyond Utilities: The Total Industry Opt-In**
 
-The NUPA framework utilizes Fixed Cost Arbitrage to lower the entry barrier for all Tier-1 industries, not just energy. By offering "Sovereign Rates" on land, the Mohave Corridor becomes the premier global destination for:  
+* The NUPA framework utilizes Fixed Cost Arbitrage to lower the entry barrier for all Tier-1 industries, not just energy. By offering "Sovereign Rates" on land, the Mohave Corridor becomes the premier global destination for:  
 Film & Digital Media: Sound stages and backlots that prioritize human crews over AI-driven "computational" replacement.  
 Recreation & Tourism: Theme parks and entertainment hubs that drive massive secondary local spending.  
 Advanced Logistics & Manufacturing: High-tech hubs that remain human-centric via the Anti-Automation Firewall.  
 
 **II. The Secondary Industry Multiplier**
 
-Traditional utility projects provide steady revenue, but Secondary Industries (Film/Tourism) create a "Revenue Cascade" that scales exponentially:
+* Traditional utility projects provide steady revenue, but Secondary Industries (Film/Tourism) create a "Revenue Cascade" that scales exponentially:
 Direct Jobs: High-yield roles in production, hospitality, and specialized trades protected by the Human-Labor Priority Protocol.  
 Indirect Growth: Local hotels, catering, and services see a 10x surge in demand compared to low-footprint data centers.  
 Shadow Cost Vaporization: Increased local wealth "vaporizes" municipal costs for policing and reactive social services.  
 
 **III. The "Septuple Surge" for Mohave County**
 
-By hosting diverse industries, the Treasury and County realize seven distinct revenue streams from previously dormant BLM assets:  
-Income Tax: On the 40% Beneficiary Dividends injected into the local economy.  
-Payroll Tax: From the newly stabilized, human-priority workforce.  
-Corporate Tax: From Tier-1 firms secured by 99-year bankable leases.  
-Sales Tax: Driven by the massive surge in local disposable wealth.  
-Construction Tax: Revenue from private Development Bonds used to build Tier-4 infrastructure.  
-Secondary Industry Tax: Revenue from the hotel, catering, and service sectors.  
-Capital Gains: Realized from high-yield, stable commercial infrastructure.  
+* By hosting diverse industries, the Treasury and County realize seven distinct revenue streams from previously dormant BLM assets:  
+    - Income Tax: On the 40% Beneficiary Dividends injected into the local economy.  
+    - Payroll Tax: From the newly stabilized, human-priority workforce.  
+    - Corporate Tax: From Tier-1 firms secured by 99-year bankable leases.  
+    - Sales Tax: Driven by the massive surge in local disposable wealth.  
+    - Construction Tax: Revenue from private Development Bonds used to build Tier-4 infrastructure.  
+    - Secondary Industry Tax: Revenue from the hotel, catering, and service sectors.  
+    - Capital Gains: Realized from high-yield, stable commercial infrastructure.  
 
 **IV. The Role of Mojave Community College**
 
-The 20% Reinvestment Fund provides the capital for all materials, technology, and curriculum necessary for the "Knowledge Mastery" modules. This turns the college into a self-funded training hub for the global economy, at $0.00 cost to the Tribe or the County.  
-Final Note: This is a "True Net-Zero" framework. We are not asking for a budget; we are providing the architecture to monetize dormant assets and protect the human workforce from the age of automation.
+* The 20% Reinvestment Fund provides the capital for all materials, technology, and curriculum necessary for the "Knowledge Mastery" modules. This turns the college into a self-funded training hub for the global economy, at $0.00 cost to the Tribe or the County.
+
+**Final Note: This is a "True Net-Zero" framework. We are not asking for a budget; we are providing the architecture to monetize dormant assets and protect the human workforce from the age of automation.**
