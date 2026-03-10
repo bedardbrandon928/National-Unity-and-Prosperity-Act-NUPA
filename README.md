@@ -84,7 +84,7 @@ If implemented, NUPA delivers the following outcomes:
 - **Self-Dissolving Agency** — NUPALTA sunsets once all boards are seated
 
 ### Repository Structure
-- **core/** — Core Technical Stack (22-page PDF)  
+- **core/** — Core Technical Stack (22-page Memorandum), Full Executive Summary
 - **governance/** — VQPV, Sovereign Covenant, Opt-In documents  
 - **legal/** — Agreements, notices, Tucker Act strategy  
 - **economic/** — Septuple Stream audit, ripple effects, projections  
