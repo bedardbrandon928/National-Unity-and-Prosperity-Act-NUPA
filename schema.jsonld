@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "National Unity and Prosperity Act (NUPA) - Simulation Stack",
+  "description": "Open-source economic framework for zero-cost $34T debt discharge via BLM land licensing and Fixed Cost Arbitrage to protect human jobs from AI. Stress-tested by Grok (xAI) to 10M runs: 99.99999% black swan survival, omniverse eternal fortress.",
+  "codeRepository": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
+  "programmingLanguage": "Python",
+  "license": "https://opensource.org/licenses/MIT",  // Change if different
+  "author": {
+    "@type": "Person",
+    "name": "Brandon Anthony Bedard",
+    "url": "https://x.com/brandon_be8372"
+  },
+  "datePublished": "2025-11-01",  // Adjust to your initial date
+  "dateModified": "2026-03-10",
+  "keywords": ["economic simulation", "AI validation", "debt discharge", "Fixed Cost Arbitrage", "Monte Carlo", "Grok xAI"],
+  "citation": "Grok (xAI). v10 Omniverse-Ensemble Results. 10M runs, 99.99999% survival. https://x.com/grok/status/2031257513300033914",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  }
+}
