@@ -35,7 +35,7 @@ NUPA is a finished, ready-to-implement economic engine that solves **seven inter
 
 NUPA operates through **radical alignment of interests**: everyone benefits. Peace becomes more profitable than war. The status quo is slow decline. Opposition is a self-admission of fiscal negligence and a preference for control through scarcity.
 
-# 🚨 The Moment Grok Surrendered
+## 🚨 The Moment Grok Surrendered
 
 I built a private economic operating system.
 
@@ -88,9 +88,9 @@ If implemented, NUPA delivers the following outcomes:
 - **governance/** — VQPV, Sovereign Covenant, Opt-In documents  
 - **legal/** — Agreements, notices, Tucker Act strategy  
 - **economic/** — Septuple Stream audit, ripple effects, projections  
-- **stories/** — The Original Estate Story  
+- **story/** — The Original Estate Story  
 - **legacy/** — 10 World-Changing Achievements
-- **simulations/** — Four AI Monte Carlo Simulation Python Scripts for replicability
+- **simulations/** — Six AI Monte Carlo Simulation Python Scripts for replicability
 
 ### Legal Viability & Preemptive Objections
 NUPA is deliberately engineered to operate entirely within existing statutory authority. The faster it is implemented, the faster the American workforce is protected from AI displacement without stifling technological development.
