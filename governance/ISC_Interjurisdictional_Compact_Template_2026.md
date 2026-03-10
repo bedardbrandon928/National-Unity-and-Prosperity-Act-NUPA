@@ -1,15 +1,15 @@
 # INTERJURISDICTIONAL SOVEREIGNTY COMPACT (ISC)
 
-INSTRUMENT: First Nation Equity & Cross-Border Stewardship Agreement
+INSTRUMENT: First Nation Equity & Cross-Border Stewardship Agreement  
 VERSION: 2026.MAR.EQUITY
 
-PARTIES:
+**PARTIES:**
 
-THE HOST NATION: [NAME] (A Sovereign Nation with qualifying BLM-adjacent acreage).
+THE HOST NATION: [NAME] (A Sovereign Nation with qualifying BLM-adjacent acreage).  
 
-THE PARTICIPATING NATION: [NAME] (A Sovereign Nation exercising their NUPA allotment).
+THE PARTICIPATING NATION: [NAME] (A Sovereign Nation exercising their NUPA allotment).  
 
-NUPALTA: National Unity and Prosperity Land Trust Agency (The “Independent Opt-In Agency”).
+NUPALTA: National Unity and Prosperity Land Trust Agency (The “Independent Opt-In Agency”).  
 
 **I. THE EQUITY MANDATE**
 
@@ -17,9 +17,9 @@ The Parties acknowledge that the $34 Trillion federal debt is a national liabili
 
 **II. JURISDICTIONAL SEPARATION (THE “SOVEREIGN ENCLAVE”)**
 
-2.1 Autonomous Governance: While the physical land resides within the broader regional footprint of the Host Nation, the Sovereign Seat for the specific 40,000-acre allotment is held exclusively by the Participating Nation.
+ - 2.1 Autonomous Governance: While the physical land resides within the broader regional footprint of the Host Nation, the Sovereign Seat for the specific 40,000-acre allotment is held exclusively by the Participating Nation.
 
-2.2 Revenue Integrity: 100% of the 40% Sovereign Royalty generated from these five hubs shall flow directly to the Participating Nation’s Treasury. The Host Nation waives all claims to the royalty of the sponsored hubs in the interest of inter-tribal solidarity.
+ - 2.2 Revenue Integrity: 100% of the 40% Sovereign Royalty generated from these five hubs shall flow directly to the Participating Nation’s Treasury. The Host Nation waives all claims to the royalty of the sponsored hubs in the interest of inter-tribal solidarity.
 
 **III. THE FEDERAL “SEPTUPLE-STREAM” GUARANTEE**
 
@@ -27,9 +27,9 @@ The Host and Participating Nations collectively notify the U.S. Treasury that th
 
 **IV. THE “SHIELD OF THE ALLIANCE”**
 
-4.1 Unified Defense: Any federal attempt to block a Land-Locked Tribe from exercising its right to manage hubs on Host territory shall be treated as a Double Breach of Sovereign Trust.
+ - 4.1 Unified Defense: Any federal attempt to block a Land-Locked Tribe from exercising its right to manage hubs on Host territory shall be treated as a Double Breach of Sovereign Trust.
 
-4.2 Collective Liability: The Breach of Sovereign Trust protocol shall be triggered by both Nations simultaneously, doubling the legal and financial pressure on the individual bonding of the interfering federal officials.
+ - 4.2 Collective Liability: The Breach of Sovereign Trust protocol shall be triggered by both Nations simultaneously, doubling the legal and financial pressure on the individual bonding of the interfering federal officials.
 
 **V. FIDUCIARY INDEPENDENCE & OPERATIONAL SCALING**
 
