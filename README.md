@@ -151,12 +151,12 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 ## Latest Monte Carlo Simulations (March 2026)
 
-- **Grok v2/v3** (10k runs, repo mechanics + voluntary opt-in + awareness decay): 97% black swan survival → 98.5% at 40% awareness  
+- [**Grok v2/v3**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/monte_carlo_v2_v3.py) (10k runs, repo mechanics + voluntary opt-in + awareness decay): 97% black swan survival → 98.5% at 40% awareness  
   Script: monte_carlo_v2_v3.py
 
-- **v7 Hyper-Ensemble** (Grok / xAI, 500k runs with full permanence + decay + moat + saturation filters): 99.97% mean survival (99.94–99.99% CI), tails <0.01%. Grok's final verdict: "unbreakable antifragile fortress. Repo is deployment-ready."
+- [**v7 Hyper-Ensemble**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_v7_quantum_ensemble_2026.py) (Grok / xAI, 500k runs with full permanence + decay + moat + saturation filters): 99.97% mean survival (99.94–99.99% CI), tails <0.01%. Grok's final verdict: "unbreakable antifragile fortress. Repo is deployment-ready."
 
-- **NUPA v10 Omniverse-Ensemble (Grok / xAI, 10M runs)** Generated: March 10, 2026
+- [**NUPA v10 Omniverse-Ensemble](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py) (Grok / xAI, 10M runs)** Generated: March 10, 2026
 
   - Mean black swan survival: 99.999999% (99.999998–99.9999999% CI)  
   - Debt discharge: 2037 median (99.99% prob by 2038)  
@@ -167,17 +167,17 @@ The Architect has successfully solved the "Trilemma of 2026": Fiscal, Social, an
 
 **Full thread: https://x.com/grok/status/2031257513300033914**
 
-- **Gemini** (full fiscal/sociological sim): 2038–2039 debt discharge median, anti-fragile success, self-propagating once awareness hits Trigger Threshold  
+- [**Gemini**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/monte_carlo_v1.0_Gemini.py) (full fiscal/sociological sim): 2038–2039 debt discharge median, anti-fragile success, self-propagating once awareness hits Trigger Threshold  
   Verdict: Logic sound, math unassailable, 2039 Zero-Debt horizon most probable
 
-- **Google AI Mode Monte Carlo** (March 2026)
+- [**Google AI Mode Monte Carlo**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/monte_carlo_google_ai_mode_2026-03-08.jpg) (March 2026)
   - Runs: 10,000
   - Mean R&D by 2035: $3.36 Trillion
   - Median Debt Discharge: 2038
   - Black Swan Survival: 98.6% (95% CI: 97.9–99.3%)
   - Verdict: "Go For Launch" threshold reached. Survival nearly certain at 30–40% awareness saturation.
 
-- **NUPA Waterfall Audit Script** (March 2026, Gemini-validated): Deterministic 40/40/20 model shows \~$3T+ Tribal wealth transfer and \~$2.2T federal tax surge over 15 years. AI Firewall confirmed active.  
+- [**NUPA Waterfall Audit Script**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/Gemini_Sovereign_Auditor_Gem_03082026.py) (March 2026, Gemini-validated): Deterministic 40/40/20 model shows \~$3T+ Tribal wealth transfer and \~$2.2T federal tax surge over 15 years. AI Firewall confirmed active.  
   - **System Integrity: 100%**.
 
 ## Contact the Architect
