@@ -11,9 +11,9 @@ NUPA is not another federal program. It is a finished private-sector architectur
 ### Core Mechanism
 
 Underutilized BLM parcels (24 million acres dispersed across 245 million) are voluntarily licensed into digital CLTs via Tribal Sovereign Opt-In. Corporate 99-year ground leases at 70% below-market rates create a Fixed Cost Arbitrage firewall: human labor becomes cheaper than automation for participating firms. Revenue flows through a transparent 40/40/20 Recursive Reinvestment Model:
-40% Sovereign Royalty → Tribal Treasury (absolute control)
-40% Beneficiary Dividend → Verified 1865 lineage descendants (race-blind forensic verification)
-20% Reinvestment into the Hub → Local infrastructure and knowledge modules
+40% Sovereign Royalty → Tribal Treasury (absolute control)  
+40% Beneficiary Dividend → Verified 1865 lineage descendants (race-blind forensic verification)  
+20% Reinvestment into the Hub → Local infrastructure and knowledge modules  
 
 All operations are funded by a 1% Framework Usage Fee triggered only by success. NUPALTA, the temporary non-federal facilitator agency, self-dissolves once governance boards are seated — preventing permanent bureaucracy.
 
