@@ -1,19 +1,24 @@
 # NUPA Technical Strategy: Bypassing NEPA Stagnation
 
-**Objective:**
+**Objective:**  
 To navigate the National Environmental Policy Act (NEPA) requirements without traditional multi-year stalls, utilizing the 10% Infrastructure Mandate and the "Benefit-First" conservation logic.
 
 **Key Strategy: The 10% Impact Mitigation:**
 
-  - Categorical Exclusion (CATEX) Logic: By restricting physical development to only 10% of the licensed BLM acreage, the NUPA framework minimizes the "significant impact" threshold that typically triggers full Environmental Impact Statements (EIS).
-  - The 90% Preservation Buffer: The framework automatically preserves 90% of the land as a permanent conservation easement, creating an immediate "Net-Positive" environmental baseline.
+  - **Categorical Exclusion (CATEX) Logic:** By restricting physical development to only 10% of all BLM holdings, the NUPA framework minimizes the "significant impact" threshold that typically triggers full Environmental Impact Statements (EIS).
+
+  - **The 90% Preservation Buffer:** The framework automatically preserves 90% of all federally managed land as a permanent conservation easement, creating an immediate "Net-Positive" environmental baseline.
 
 **The "Administrative Efficiency" Protocols:**
 
-1.  Existing Disturbance Utilization: Prioritizing "hubs" on land already disturbed to qualify for streamlined assessments.
-2.  The Sovereign Environmental Standard: Utilizing Tribal Sovereign oversight for faster, localized timelines.
-3.  The "Non-Federal" Funding Loop: Bypassing certain "Federal Action" triggers by using Private capital rather than taxpayer funds.
+1.  Existing Disturbance Utilization: Prioritizing "hubs" on land already disturbed to qualify for streamlined assessments.  
+2.  The Sovereign Environmental Standard: Utilizing Tribal Sovereign oversight for faster, localized timelines.  
+3.  The "Non-Federal" Funding Loop: Bypassing certain "Federal Action" triggers by using Private capital rather than taxpayer funds.  
 
 **Summary for Counsel:**
-"We aren't fighting NEPA; we are satisfying it in advance. By guaranteeing 90% conservation to enable 10% development, we move from the 'Conflict' phase to the 'Compliance' phase instantly. The framework is designed to be the mitigation itself."
+"We aren't fighting NEPA; we are satisfying it in advance. By guaranteeing 90% conservation to enable 10% development, we move from the 'Conflict' phase to the 'Compliance' phase instantly. The framework is designed to be the mitigation itself."  
+
+The 10% refers to the aggregate total of the proposed 24,500,000 acres predetermined for licensing potential.  
+
+The 90% refers to the remaining 220,500,000 acres of BLM holdings.
 
