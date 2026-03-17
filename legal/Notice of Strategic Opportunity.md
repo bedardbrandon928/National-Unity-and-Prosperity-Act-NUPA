@@ -1,5 +1,8 @@
 # NOTICE OF STRATEGIC OPPORTUNITY*
 
+**THIS IS A TEMPLATE ONLY**  
+For illustrative and planning purposes. No funds are being solicited. Official execution occurs only through a designated Tier-1 law firm after the first Sovereign Opt-In.  
+
 **DISCLAIMER – NOT A SOLICITATION**
 
 This document is a conceptual template only and is provided for informational purposes.  
