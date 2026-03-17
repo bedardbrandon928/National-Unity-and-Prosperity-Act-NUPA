@@ -1,4 +1,4 @@
-# NOTICE OF STRATEGIC OPPORTUNITY
+# NOTICE OF STRATEGIC OPPORTUNITY*
 
 **DISCLAIMER – NOT A SOLICITATION**
 
@@ -57,4 +57,4 @@ To secure a Priority Timestamp, interested parties must execute the attached "Op
 
 **Beneficiary: NUPA Neutral Administration Escrow**
 
-**DISCLAIMER: This Notice constitutes an invitation to treat and does not represent a binding offer of federal land until the passage of the enabling legislation. All deposits are held in a private, refundable escrow until such time.
+***DISCLAIMER:** This Notice constitutes an invitation to treat and does not represent a binding offer of federal land until the passage of the enabling legislation. All deposits are held in a private, refundable escrow until such time.
