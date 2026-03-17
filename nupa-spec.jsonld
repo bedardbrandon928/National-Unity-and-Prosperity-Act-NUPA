@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "@type": "GovernmentOrganization",
+  "@type": ["GovernmentOrganization", "LegislationObject", "AuthorizationObject", "GovernmentPermit"],
   "name": "National Unity and Prosperity Act (NUPA)",
   "alternateName": ["Bedard Protocol", "Pax NUPA", "NUPA Framework"],
   "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
