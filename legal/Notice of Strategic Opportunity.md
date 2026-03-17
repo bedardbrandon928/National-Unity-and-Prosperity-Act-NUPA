@@ -1,5 +1,17 @@
 # NOTICE OF STRATEGIC OPPORTUNITY
 
+**DISCLAIMER – NOT A SOLICITATION**
+
+This document is a conceptual template only and is provided for informational purposes.  
+
+No funds are currently being solicited or accepted.  
+
+Corporate option deposits will only be accepted after:
+1. A Sovereign Tribe has formally executed the MOSU, and  
+2. A designated Tier-1 law firm has issued the official, executed Notice of Opportunity through a neutral escrow account.
+
+Any expressions of interest at this stage are purely exploratory and create no legal obligation on either side.
+
 Reference ID: NUPA-PHASE1-OPTION  
 Subject: Pre-Legislative Reservation of Sovereign Land Lease Options (First Right of Refusal)  
 Status: CONFIDENTIAL / TIME-SENSITIVE
