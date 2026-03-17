@@ -68,7 +68,7 @@
   "actionTaken": {
   "@type": "Action",
   "name": "IRS Form 211 Submission",
-  "description": "Whistleblower disclosure filed with IRS on or before March 17, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
+  "description": "Whistleblower disclosure filed with IRS on March 14, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
   "startTime": "2026-03-17",
   "status": "Submitted",
 },
