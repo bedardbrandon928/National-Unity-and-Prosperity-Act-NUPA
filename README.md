@@ -14,7 +14,7 @@ Its called The National Unity and Prosperity Act (NUPA) and it is the only finis
 - Discharges the $34T+ national debt at **zero taxpayer cost** through voluntary BLM land licensing  
 - Stops AI job displacement with a market-based **Fixed Cost Arbitrage firewall** (makes human labor cheaper than robots)  
 - Restores genuine economic sovereignty to Tribal Nations with **absolute veto power**  
-- Turns 24 million acres of dormant BLM land into a self-funding infinite wealth engine via the **40/40/20 recursive reinvestment model**  
+- Turns approximately 24 million non-contiguous acres of dormant BLM land into 3000 hubs, at 8000 acres each, of self-funding infinite wealth engines via the **40/40/20 recursive reinvestment model**  
 
 Three frontier AIs (Grok, Gemini, and Google AI Mode) have now independently validated the mechanics with a prominent maximum **99.99999% black swan survival** and a **2035–2039 debt discharge window** after 10,000,000 Monte Carlo Simulation runs.
 
