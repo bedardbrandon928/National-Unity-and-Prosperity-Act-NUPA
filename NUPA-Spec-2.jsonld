@@ -1,15 +1,35 @@
 {
   "@context": "https://schema.org",
-  "@type": ["GovernmentOrganization", "LegislationObject", "AuthorizationObject", "GovernmentPermit"],
+  "@type": ["SoftwareApplication", "GovernmentService", "AuthorizationObject"],
   "name": "National Unity and Prosperity Act (NUPA)",
-  "alternateName": ["Bedard Protocol", "Pax NUPA", "NUPA Framework"],
-  "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
-  "description": "The first complete private-sector post-scarcity economic operating system. NUPA is a finished, ready-to-implement framework of functions (not legislation) that solves seven interlocking crises at zero taxpayer cost: discharges the $34T+ structural federal debt through voluntary BLM land licensing; restores genuine economic sovereignty to Tribal Nations with absolute veto power; creates a market-based Fixed Cost Arbitrage firewall making human labor cheaper than automation; converts 24 million dispersed BLM acres into a self-funding infinite wealth engine; eliminates credible arguments of U.S. moral bankruptcy or hypocrisy to restore global soft power; potentially advances civilization by one full point on the Kardashev scale; and dissolves New World Order/shadow state concepts through radical, transparent alignment of interests. Governance via strictly voluntary opt-in (MOSU/ISC), Variable Quad-Partite Vetting (VQPV) boards with Tribal seniority, and a self-dissolving non-federal agency (NUPALTA). Peace becomes more profitable than war. Monte Carlo simulations: Grok v2 (97% black swan survival), v3 at 40% awareness (98.5%); Google AI Mode (98.6% survival, 2038 discharge); Gemini Sovereign Auditor Gem (98.6% survival, 2038 discharge, 100% integrity). Deterministic Waterfall Audit Script confirms trillions in Tribal wealth transfer and federal tax surge. Grok v10 Omniverse-Ensemble (10M runs): 99.99999% survival with 'omniverse eternal fortress' verdict — the strongest proof yet that NUPA is mathematically unbreakable.",
-  "about": "Private architectural operating system governed by Contract & IP Law. NUPALTA (National Unity and Prosperity Act Land Trust Authority) is the non-federal, self-dissolving Independent Opt-In Agency. All participation is strictly voluntary (Tribal Memorandum of Sovereign Understanding/Interjurisdictional Sovereign Compact (MOSU/ISC) opt-in, beneficiary Verification Assistance Program (VAP), corporate Federal Asset Sovereignty Licensing (FASL)). Congress provides only one-time licensing authorization. VQPV = Variable Quad-Partite Vetting. Antifragile core: voluntary opt-in + contract/IP governance + Tucker Act deterrence + Public Awareness Saturation create near-ironclad political moat.",
+  "applicationCategory": "Economic Operating System",
+  "operatingSystem": "Private-Sector Contractual Framework",
+  "description": "A private-sector architectural operating system of functions (not legislation) designed to solve seven interlocking crises at zero taxpayer cost. NUPA operates as a finished, ready-to-implement economic engine that discharges the $34T+ federal debt through voluntary BLM land licensing and restores Tribal economic sovereignty through a decentralized fiduciary model.",
+  "about": {
+    "@type": "Thing",
+    "name": "NUPA Technical Stack",
+    "description": "A functional framework governed by Contract & IP Law. Utilizes a recursive 40/40/20 reinvestment engine, Variable Quad-Partite Vetting (VQPV), and a self-dissolving non-federal agency (NUPALTA). All participation is strictly voluntary (Tribal MOSU/ISC opt-in)."
+  },
+  "keywords": [
+    "Private Economic Operating System", "Economic OS", "Functional Framework", 
+    "Non-Legislative Solution", "Contractual Governance", "NUPALTA", 
+    "Fixed Cost Arbitrage", "AI Job Firewall", "Tribal Sovereignty", 
+    "Sovereign Key", "40/40/20 Waterfall", "Zero Taxpayer Cost"
+  ],
   "author": {
     "@type": "Person",
     "name": "Brandon Anthony Bedard",
     "url": "https://brandonbedard.substack.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "description": "Zero-cost licensing of dormant federal assets to trigger a perpetual wealth engine and national debt discharge.",
+    "businessFunction": "http://purl.org/goodrelations/v1#LeaseOut"
+  },
+  "cltFormationLogic": {
+    "@type": "ControlAction",
+    "name": "Deterministic Vesting Handshake",
+    "description": "System activation occurs when the Sovereign Host (Tribe) executes the MOSU/ISC 'Sovereign Key,' vesting land into the CLT's fiduciary control."
   },
   "dateCreated": "2025-11-18",
   "dateModified": "2026-03-21",
