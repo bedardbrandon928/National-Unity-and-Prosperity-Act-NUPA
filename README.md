@@ -64,14 +64,14 @@ Yes. This is it.
 ### NUPA Legacy: 10 World-Changing Achievements
 If implemented, NUPA delivers the following outcomes:
 
-- **Eliminated the National Debt for $0.00**  
-- **Ended the Era of Resource Wars**  
-- **Engineered a Firewall Against the AI Apocalypse**  
-- **Settled 160 Years of Broken Promises**  
-- **Restored Stewardship After 400 Years to Sovereign Nations**  
-- **Vaporized Centralized Overreach (Anti-NWO)**  
-- **Triggered the “NUPA Baby Boom”**  
-- **Checkmated the United States Congress**  
+- **Eliminates the National Debt for $0.00**  
+- **Ends the Era of Resource Wars**  
+- **Engineers a Firewall Against the AI Apocalypse**  
+- **Settles 160 Year Debt of Stolen Labor**  
+- **Restores Stewardship of the Land After 400 Years to Sovereign Nations**  
+- **Vaporizes Centralized Overreach (Anti-NWO)**  
+- **Triggers a “NUPA Baby Boom”**  
+- **Checkmates the United States Congress**  
 - **Created a Mechanism to End Poverty**  
 - **Designed an Infinite-Performance Income for Life**  
 
