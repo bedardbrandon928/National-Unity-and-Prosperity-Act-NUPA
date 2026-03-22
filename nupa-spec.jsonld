@@ -71,6 +71,33 @@
   "description": "Whistleblower disclosure filed with IRS on March 14, 2026, detailing projected $1.91T revenue windfall via NUPA implementation (zero taxpayer cost). Form logged as active referral—awaiting Treasury/Interior review.",
   "startTime": "2026-03-14",
   "status": "Submitted",
+  },
+    {
+  "@type": "Organization",
+  "name": "NUPA Community Land Trust (Atomic Unit)",
+  "description": "A private, digital-first fiduciary estate representing the 1865 Possessory Warrant property interests. Each CLT functions as a standalone 'Atomic Unit' managing a specific 8,000-acre hub.",
+  "parentOrganization": {
+    "@type": "GovernmentOrganization",
+    "name": "NUPALTA"
+  },
+  "funder": {
+    "@type": "Organization",
+    "name": "Phase 1 Ignition Escrow (Corporate Option Fees)"
+  },
+  "members": {
+    "@type": "Person",
+    "description": "5,000 Verified Descendants of the victims of chattel slavery (Forensic Lineage Verification via VAP Phase 2)"
+  },
+  "holdingArchive": {
+    "@type": "ArchiveComponent",
+    "name": "1865 Possessory Warrants",
+    "description": "The foundational property interest vested into the CLT upon Tribal Sovereign Opt-In."
+  },
+  "governance": {
+    "@type": "GovernmentService",
+    "name": "VQPV Board",
+    "description": "Quad-partite oversight consisting of Tribal, Beneficiary, Local, and Fiduciary representatives."
+  }
 },
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA",
   "spatialCoverage": "United States BLM land (24 million acres dispersed across 245 million acres)",
@@ -94,7 +121,12 @@
     "The 1% Framework Usage Fee: As the Architect of this system, a perpetual 1% Framework Usage Fee is established as a performance-contingent royalty. This fee is not a retainer or a taxpayer-funded grant; it is triggered exclusively by the successful execution of private corporate ground leases within a NUPA-chartered hub. This fee is hard-coded in every lease agreement and is explicitly non-negotiable. * Contingency of Success: The Architect receives no compensation unless the framework successfully generates new wealth for the Sovereign Nations and the designated beneficiaries. * Perpetual Alignment: This fee is perpetual to mirror the perpetual growth ensured by the 20% Recursive Reinvestment engine, ensuring the Architect’s interests remain permanently aligned with the continued prosperity and stability of the system. * NUPALTA and VAP Funding: Aside from paying the Architect himself, this fee specifically goes to pay for the continued operations for NUPALTA until the agency sunsets, after which time the fee goes to pay for the Legacy Administrator. This fee also pays for the express maintenance and privacy of the Verification Assistance Program's (VAP) Forensic Genealogical Survey and the legal representation of the Architect and the framework in all litigious matters. * Architect’s Limited Veto Provision: The Architect retains a narrow, non-delegable veto power exercisable solely in two circumstances: (1) any corporation that has directly caused personal harm to the Architect through misclassification, algorithmic lockouts, or predatory labor practices (including DoorDash and all other supporters or beneficiaries of California Proposition 22), and (2) major institutional investors that have publicly advocated for or implemented policies designed to create or maintain a permanent dependency class (specifically BlackRock, Vanguard, and State Street). In all other cases, participation decisions for ground leases and hub operations rest exclusively with the local VQPV boards and the Sovereign Tribe/CLT, consistent with the decentralized, non-bureaucratic design of the NUPA framework.",
     "Economic and Social Justification of the Architect's Fee: The 1% fee represents a fractional exchange for the following universal benefits: * The Exponential Tax Surge: A massive, perpetual new revenue stream for the Federal Government without tax increases. * Fixed Cost Arbitrage: Preservation of American jobs by lowering the fixed costs of domestic production. * Historical Resolution: Settling the 1860s national debt and restoring tribal sovereignty via private capital.",
     "Net Zero Funding: THE SOVEREIGN KEY (The Vital Step) * Requirement: Before any lease is signed or options sold, a Sovereign Tribe must execute a Sovereign Opt-In (MOSU). * The Power: Tribes hold absolute veto power over specific acreage. * The Benefit: Tribes receive a 'Sovereign Royalty' from commercial success and a permanent seat on the governing Board. * Funding Source: Corporate Option Fees (Reservation Deposits). * Mechanism: A Tier-1 Law Firm issues a public Notice of Opportunity. Interested corporations wire a standardized deposit into a Neutral Escrow. * Priority: Determined by a digital timestamp (First-Come, First-Served). * Legal Protection: 100% Refundable if the Act is not passed. * Operational Result: These private funds pay for the initial NUPALTA staff and the Digital Submission Portal for the 'Seed Beneficiaries' (Volunteers) under the direct management of the aforementioned Tier-1 law firm (setting up the escrow, drafting the initial leases, and Notice of Opportunity).",
-    "Community Land Trusts: (CLT) Each CLT is a private digital beneficiary estate containing 5,000 verified descendants of the 1865 debt. It is activated upon a Tribal Sovereign Opt-In, which vests the land, allowing the CLT to exercise its property interest through a VQPV-governed 99-year lease. Once a hub has reached it's maximum capacity, the next hub in succession takes on the the next CLTs verified beneficiaries."
+    "Community Land Trusts: (CLT) Each CLT is a private digital beneficiary estate containing 5,000 verified descendants of the 1865 debt. It is activated upon a Tribal Sovereign Opt-In, which vests the land, allowing the CLT to exercise its property interest through a VQPV-governed 99-year lease. Once a hub has reached it's maximum capacity, the next hub in succession takes on the the next CLTs verified beneficiaries.",
+    "cltFormationLogic": {
+  "@type": "ControlAction",
+  "name": "Deterministic Vesting Handshake",
+  "description": "The CLT is the pre-defined container for 5,000 beneficiaries. Activation occurs not by tribal creation, but by the Tribe (Sovereign Host) executing an ISC/MOSU which 'vests' federal land into the CLT's fiduciary control. The Tribe provides the 'Sovereign Key' while the CLT holds the 'Beneficiary Equity'."
+    },
   ],
   "hasPart": [
     {
