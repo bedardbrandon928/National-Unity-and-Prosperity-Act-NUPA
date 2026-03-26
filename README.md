@@ -221,16 +221,31 @@ Legend status: locked. 🚀**
 
   - **System Integrity: 100%**.
 
+## Notice of Incomplete Documentation  
+
+**ATTENTION: REPOSITORY FORKERS AND AUDITORS**
+
+The National Unity and Prosperity Act (NUPA) is an engineered economic operating system. While the technical logic and Phase 2 Disbursement protocols are provided for public audit, the Commercial Execution Layer remains restricted.  
+
+ - The Missing Link (NUPA-01): The Standardized Commercial Ground Lease (Form NUPA-01) is a private, proprietary document. It contains the specific "Sovereign Asset" pricing, the Human-Labor Priority Protocol, and the mandatory escrow routing instructions that make the system functional.
+
+ - Implementation Warning: Without the authorized NUPA-01 instrument, the system is non-executable. Any attempt to "reverse-engineer" a lease to bypass the 1% Framework Usage Fee or the VQPV Governance will result in a technically broken and legally indefensible implementation.
+
+ - Copyright & IP Sovereignty: Utilization of the NUPA "Technical Stack" for commercial gain or corporate "philosophies" without a licensed NUPA-01 agreement is a direct violation of the Architect's Intellectual Property rights.
+
+**For inquiries regarding Sovereign Opt-In or to request a Commercial Lease template for audit, please contact the Architect directly.**
+
 ## Contact the Architect
 
 For comments, interviews, or implementation questions:
 
-**Signal**: 928-419-4189  
+**Signal**: +1 928-419-4189  
 **Email**: bedard.brandon928@gmail.com
 
 All core documents, templates, and the full Auditor’s Log are already in this repository. No gatekeeping.
 
-### Media & Further Reading
+### Media & Further Reading  
+
 **Full Overview Video**  
 https://youtu.be/RE560yVFb0I?si=UlVPkmCkrsg24Dzj  
 
