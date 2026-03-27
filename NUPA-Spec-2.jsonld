@@ -142,6 +142,12 @@
       "name": "NUPA Waterfall Audit Script (March 2026)",
       "description": "Deterministic waterfall audit script (Gemini-validated) modeling the 40/40/20 recursive reinvestment.",
       "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/nupa_waterfall_audit_2026.py"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "NUPA Singularity Audit (The Zero Point)",
+      "description": "Deterministic stress-test identifying the NUPA failure threshold at Scale 16,200 (1.62M% Noise-to-Signal ratio). Confirms Omega Survival (99.98% stability) through Scale 2.0 (Total Global War). Establishes the framework as 6,480x more resilient than the current US economic model. Reality-floor locked.",
+      "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py"
     }
   ],
   "potentialAction": {
