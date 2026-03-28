@@ -35,4 +35,4 @@ This $1.91 Trillion is generated from seven specific, taxable events that happen
 
 For a "Budget Audit," $1.91 Trillion is the most honest number for cash hitting the Treasury.
 
-The Bottom Line: You are handing the government nearly $2 Trillion in cash over ten years, at a $0.00 cost to the taxpayer, while settling the nation's largest historical debt.
+The Bottom Line: This is handing the government nearly $2 Trillion in cash over ten years, at a $0.00 cost to the taxpayer, while settling the nation's largest historical debts.
