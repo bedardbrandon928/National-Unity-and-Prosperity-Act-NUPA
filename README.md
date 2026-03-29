@@ -296,6 +296,9 @@ https://youtu.be/RE560yVFb0I?si=UlVPkmCkrsg24Dzj
 **Strongest Short Video**  
 https://youtu.be/DtmCMPN0KZQ?si=cGnPvUu89gb13cjV
 
+**Global Potential Video**  
+https://youtu.be/1l34dNVbmgU?si=k6EGxGjx-sxyfQdl
+
 **Pastebin Home**  
 [Full Core NUPA Stack - 22-page memorandum](https://pastebin.com/NVunnnP4)
 
