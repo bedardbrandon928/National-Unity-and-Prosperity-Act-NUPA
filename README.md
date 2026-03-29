@@ -43,7 +43,7 @@ Authored solely by **Brandon Anthony Bedard** (Policy Architect) between Novembe
 - Debt Discharge: $34T+ by 2038 (zero taxpayer cost)  
 - AI Firewall: Human labor 70% cheaper than robots via land arbitrage  
 - Survival: 99.999999% (100M Monte Carlo runs)  
-- Stars: 4 | Clones: 1,200+ | Views: 1,000+
+- Stars: 5 | Clones: 1,200+ | Views: 1,000+
 
 ### What is NUPA?
 NUPA is a finished, ready-to-implement economic engine that solves **seven interlocking crises** at zero taxpayer cost:
