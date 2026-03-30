@@ -4,6 +4,12 @@
 
 **Author: Brandon Anthony Bedard, Policy Architect**
 
+**Disclaimer**
+
+**This isn't about imposing ideas from outside. The economy's failing—debt, AI jobs, corruption—it's real, and we all see it coming. Dismissing solutions just because they're not homegrown keeps us stuck in the same loop. If the math checks out, validate it yourself. Origin shouldn't block progress. We're too close to collapse for that.**
+
+## Executive Summary
+
 Nigeria faces an unprecedented 2026 Trilemma: a ₦153.29 trillion+ public debt, accelerating AI displacement of the workforce, and deep structural issues of federal leakage, corruption, and zero-sum politics between the centre and the states/communities. Traditional government solutions — new taxes, expanded bureaucracy, or oil-funded spending — only deepen the problem.
 
 NUPA-NG is **not** another federal program or policy. It is a finished private-sector architectural operating system governed entirely by contract and intellectual property law. No new legislation is required beyond voluntary licensing of idle state-managed land under the Land Use Act of 1978. Once authorised, the framework operates through private Community Land Trusts with no ongoing federal control or taxpayer funding.
