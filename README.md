@@ -28,10 +28,10 @@
 
 Its called The National Unity and Prosperity Act (NUPA) and it is the only finished, ready-to-implement private framework that:
 
-- Discharges the ₦153.29T+ national debt at **zero taxpayer cost** through voluntary governance land licencing 
+- Discharges the ₦153.29T+ national debt at **zero taxpayer cost** through voluntary Land Use Act licencing
 - Stops AI job displacement with a market-based **Fixed Cost Arbitrage firewall** (makes human labor cheaper than robots)  
 - Restores genuine economic sovereignty to Communities with **absolute veto power**  
-- Turns approximately a small percentage of state managed hectares of underutilised land into NUPA hubs, at 4000 hectares each, of self-funding infinite wealth engines via the **80/20 recursive reinvestment model**  
+- Turns a small percentage of state managed hectares of underutilised land into NUPA hubs, at 4000 hectares each, of self-funding infinite wealth engines via the **80/20 recursive reinvestment model**  
 
 Seven frontier AIs (Grok, Gemini, Google AI Mode, Claude Haiku, Duck.ai, Yahoo Scout, GPT-4o) have now independently validated the mechanics with a prominent maximum **99.99999% black swan survival** and a **2035–2039 debt discharge window** after 100,000,000 Monte Carlo Simulation runs (performed by xAI/Grok).
 
