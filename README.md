@@ -7,7 +7,7 @@
 
 ## README Quick Links
 
-- [**Foreword**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/edit/NUPA-NG/README.md#foreword)
+- [**Foreword**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#foreword)
 - [**Is There a Way to Fix the Nigerian Economy?**](#is-there-a-way-to-fix-the-nigerian-economy)
 - [**What is NUPA-NG?**](#what-is-nupa-ng)
 - [**Core Architecture**](#core-architecture)
