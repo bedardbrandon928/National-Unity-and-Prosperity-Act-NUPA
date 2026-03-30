@@ -1,4 +1,4 @@
-# National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
+# National Unity and Prosperity Act – Nigeria (NUPA-NG) Executive Summary 
 
 **March 30, 2026**
 
