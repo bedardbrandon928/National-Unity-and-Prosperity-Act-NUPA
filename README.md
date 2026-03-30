@@ -1,6 +1,7 @@
 # National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
 
-**THIS BRANCH IS CURRENTLY UNDER CONSTRUCTION**
+**⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
+**Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
 
 **The first complete private-sector post-scarcity economic operating system designed for Nigeria.**
 
