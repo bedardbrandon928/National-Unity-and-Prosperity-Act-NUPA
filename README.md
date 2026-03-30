@@ -1,5 +1,7 @@
 # National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
 
+**THIS BRANCH IS CURRENTLY UNDER CONSTRUCTION**
+
 **The first complete private-sector post-scarcity economic operating system designed for Nigeria.**
 
 ## README Quick Links
