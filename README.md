@@ -233,5 +233,5 @@ All core documents are open for review and audit.
 **NUPA**
 [**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
 
-**NUPA-NG Explainer Video:**
+**NUPA-NG Explainer Video:**  
 https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
