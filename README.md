@@ -230,7 +230,7 @@ All core documents are open for review and audit.
 
 ## Media & Further Reading
 
-**NUPA**
+**NUPA**  
 [**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
 
 **NUPA-NG Explainer Video:**  
