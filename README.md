@@ -169,10 +169,28 @@ Full simulations and code are in the `/simulations` folder.
 **⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
 **Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
 
+## Notice of Incomplete Documentation  
+
+**ATTENTION: REPOSITORY FORKERS AND AUDITORS**
+
+The National Unity and Prosperity Act - Nigeria (NUPA-NG) is an engineered economic operating system. While the technical logic and Phased Disbursement protocols are provided for public audit, the Commercial Execution Layer remains restricted.  
+
+ - The Missing Link (NUPA-NG-01): The Standardized Commercial Ground Lease (Form NUPA-NG-01) is a private, proprietary document. It contains the specific "Sovereign Asset" pricing, the Human-Labor Priority Protocol, and the mandatory escrow routing instructions that make the system functional.
+
+ - Implementation Warning: Without the authorized NUPA-NG-01 instrument, the system is non-executable. Any attempt to "reverse-engineer" a lease to bypass the 1% Framework Usage Fee or the VQPV Governance will result in a technically broken and legally indefensible implementation.
+
+ - Copyright & IP Sovereignty: Utilization of the NUPA-NG "Technical Stack" for commercial gain or corporate "philosophies" without a licensed NUPA-NG-01 agreement is a direct violation of the Architect's Intellectual Property rights.
+
+**For inquiries regarding Community Opt-In or to request a Commercial Lease template for audit, please contact the Architect directly.**
+
+### For Your Consideration
+
+I didn't build this with a $10,000/month enterprise subscription to these pay-to-play frontier AIs. I built this in the trenches, across free tiers, because the math is so stable it doesn't need a supercomputer—it just needs a brain that refuses to quit.
+
 ## Contact the Architect
 
 **Brandon Anthony Bedard**  
 Signal: +1 928-419-4189  
 Email: bedard.brandon928@gmail.com  
 
-All core documents are open for review and sovereign adaptation. No gatekeeping.  
+All core documents are open for review. No gatekeeping.  
