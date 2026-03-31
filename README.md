@@ -195,6 +195,10 @@ The National Unity and Prosperity Act - Nigeria (NUPA-NG) is an engineered econo
 
 I didn't build this with a $10,000/month enterprise subscription to these pay-to-play frontier AIs. I built this in the trenches, across free tiers, because the math is so stable it doesn't need a supercomputer—it just needs a brain that refuses to quit.
 
+## Media & Further Reading
+
+[**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
+
 ## Contact the Architect
 
 **Brandon Anthony Bedard**  
