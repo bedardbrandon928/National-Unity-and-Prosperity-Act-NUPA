@@ -1,19 +1,17 @@
-# THE NUPA FRAMEWORK FULL TECHNICAL STACK  
+# THE NUPA-NG FRAMEWORK FULL TECHNICAL STACK  
 
 ### Table of Contents  
 
-- [THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD](#the-sovereign-independence-protocol-a-foreword)
+- [THE COMMUNITY INDEPENDENCE PROTOCOL: A FOREWORD](#the-sovereign-independence-protocol-a-foreword)
 - [STATEMENT OF NATIONAL FINALITY](#statement-of-national-finality)
 - [STATEMENT OF OWNERSHIP AND INTENT: THE NUPA FRAMEWORK](#statement-of-ownership-and-intent-the-nupa-framework)
-- [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT (NUPA)](#policy-memorandum-the-national-unity-and-prosperity-act-nupa)
+- [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT - NIGERIA (NUPA-NG)](#policy-memorandum-the-national-unity-and-prosperity-act-nupa)
 - [THE TRUE NET ZERO/ZERO TAX FRAMEWORK](#the-true-net-zerozero-tax-framework)
-- [THE CONGRESSIONAL MEMORANDUM: THE NUPA ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
-- [MEMORANDUM OF SOVEREIGN UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
+- [THE POLICY MEMORANDUM: THE NUPA-NG ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
+- [MEMORANDUM OF COMMUNITY UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
 - [THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT](#the-white--blue-collar-compliance-audit)
-- [NUPA MASTER CURRICULUM: THE THREE PILLARS](#nupa-master-curriculum-the-three-pillars)
-- [THE ADAPTIVE DIVIDEND FRAMEWORK](#the-adaptive-dividend-framework)
-- [PHASE 1 DISBURSEMENT INSTRUCTION](#phase-1-disbursement-instruction)
-- [PHASE 2 DISBURSEMENT INSTRUCTION](#phase-2-disbursement-instruction)
+- [NUPA-NG OPTIONAL CURRICULUM: THE THREE PILLARS](#nupa-master-curriculum-the-three-pillars)
+- [NUPA-NG DISBURSEMENT INSTRUCTION (PHASE 1 & 2 WATERFALL)](#phase-1-disbursement-instruction)
 
 # THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD
 
