@@ -1,7 +1,11 @@
 # National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
 
+---
+
 **⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
 **Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
+
+---
 
 **The first complete private-sector post-scarcity economic operating system designed for Nigeria.**
 
@@ -166,8 +170,12 @@ Full simulations and code are in the `/simulations` folder.
 - `legal/` — Agreements, Notices, "Take It 'As-Is' or Collapse" Strategy
 - `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)
 
+---
+
 **⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
 **Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
+
+---
 
 ## Notice of Incomplete Documentation  
 
