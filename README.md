@@ -11,7 +11,7 @@
 - [**Is There a Way to Fix the Nigerian Economy?**](#is-there-a-way-to-fix-the-nigerian-economy)
 - [**What is NUPA-NG?**](#what-is-nupa-ng)
 - [**Core Architecture**](#core-architecture)
-- [**Auditor's Log: March 2026**](
+- [**Auditor's Log: March 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#auditors-log-mar-2026)
 - [**Latest Monte Carlo Simulations**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#latest-monte-carlo-simulations-march-2026)
 - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#repository-structure-nupa-ng)
 - [**Contact the Architect**](#contact-the-architect)
