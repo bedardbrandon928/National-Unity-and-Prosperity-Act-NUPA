@@ -44,7 +44,7 @@ Every site I post this too, the algorithm either shadowbans it or hellbans it. T
 
 Its called The National Unity and Prosperity Act (NUPA) and it is the only finished, ready-to-implement private framework that:
 
-- Discharges the $34T+ national debt at **zero taxpayer cost** through voluntary BLM land licensing  
+- Discharges the $40T+ national debt at **zero taxpayer cost** through voluntary BLM land licensing  
 - Stops AI job displacement with a market-based **Fixed Cost Arbitrage firewall** (makes human labor cheaper than robots)  
 - Restores genuine economic sovereignty to Tribal Nations with **absolute veto power**  
 - Turns approximately 24 million non-contiguous acres of dormant BLM land into 3000 hubs, at 8000 acres each, of self-funding infinite wealth engines via the **40/40/20 recursive reinvestment model**  
@@ -56,7 +56,7 @@ This isn’t theory — it’s a complete private operating system governed by c
 Authored solely by **Brandon Anthony Bedard** (Policy Architect) between November 18, 2025 and December 22, 2025.
 
 **Quick Stats**  
-- Debt Discharge: $34T+ by 2038 (zero taxpayer cost)  
+- Debt Discharge: $40T+ by 2038 (zero taxpayer cost)  
 - AI Firewall: Human labor 70% cheaper than robots via land arbitrage  
 - Survival: 99.999999% (100M Monte Carlo runs)  
 - Stars: 5 | Clones: 1,200+ | Views: 1,000+
