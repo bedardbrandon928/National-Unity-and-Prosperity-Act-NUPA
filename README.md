@@ -303,6 +303,9 @@ https://youtu.be/DtmCMPN0KZQ?si=cGnPvUu89gb13cjV
 **Global Potential Video**  
 https://youtu.be/1l34dNVbmgU?si=k6EGxGjx-sxyfQdl
 
+**NUPA-NG**  
+[The National Unity and Prosperity Act - Nigeria Adaptive Framework](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG)
+
 **Pastebin Home**  
 [Full Core NUPA Stack - 22-page memorandum](https://pastebin.com/NVunnnP4)
 
