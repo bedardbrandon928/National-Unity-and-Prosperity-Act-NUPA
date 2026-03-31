@@ -32,7 +32,7 @@ NUPA does not rely on political goodwill; it relies on an interlocking matrix of
 
 **The Conservative / Right Alignment: Debt Discharge & Free Markets**
 
- - Total Debt Discharge: NUPA attacks the $34+ trillion national debt through private asset optimization of underutilized BLM land, discharging the deficit without raising taxes or requiring a single cent of federal appropriations.
+ - Total Debt Discharge: NUPA attacks the $40+ trillion national debt through private asset optimization of underutilized BLM land, discharging the deficit without raising taxes or requiring a single cent of federal appropriations.
 
  - Aggressive Deregulation: NUPALTA operates as a temporary facilitator agency that mandates its own self-dissolution once the governance boards are seated, permanently preventing the creation of a new federal bureaucracy.
 
