@@ -19,9 +19,11 @@ Phase 2: Maturation/Sunset (90% of the 1% Fee)
 Upon the dissolution of the NUPALTA agency (the Sunset Event), the Architect receives an "IP Reversion," increasing his share to 90% of the 1% fee.
  * Total if Phase 2 triggers early: $36.072 Billion
 10-Year Summary Table (Total 24M Acres)
+   
 | Entity | Payout Mechanism | 10-Year Total (Estimated) |
 |---|---|---|
 | Tribal Nations | 40% Sovereign Royalty | $1,603,213,440,000 ($1.6T) |
 | The Architect | 90% of 1% (Phase 2) | $36,072,302,400 ($36.1B) |
-| Beneficiaries | 40% Beneficiary Dividend | $1,603,213,440,000 ($1.6T) |
+| Beneficiaries | 40% Beneficiary Dividend | $1,603,213,440,000 ($1.6T) |  
+
 The Architect's payout is further protected by a "Mandatory Direct Remittance" clause, which requires lessees to pay the fee directly to a private escrow agent, bypassing the U.S. Treasury entirely.
