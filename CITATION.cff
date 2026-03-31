@@ -1,27 +1,21 @@
 cff-version: 1.2.0
 message: "If you use or reference this framework, please cite it as below."
-title: National Unity and Prosperity Act (NUPA) Framework
+title: National Unity and Prosperity Act - Nigeria (NUPA-NG) Framework
 authors:
   - family-names: Bedard
     given-names: Brandon Anthony
     affiliation: Policy Architect
-date-released: 2026-02-26
-url: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA"
-repository-code: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA"
+date-released: 2026-03-30
+url: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG"
+repository-code: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG"
 license: "All rights reserved"
 abstract: "A complete private-sector economic operating system that settles 160-year historical debt, restores Tribal sovereignty through perpetual licensing of BLM land, and creates a market-based firewall against AI job displacement — all at $0 taxpayer cost."
 keywords:
   - post scarcity
   - AI job protection
   - Fixed Cost Arbitrage
-  - Freedmen reparations
-  - Tribal sovereignty
-  - NUPALTA
-  - Verification Assistance Program 
-  - VAP Portal
-  - Seed Beneficiary
-  - VAP Phase 2
-  - Forensic Lineage Verification
+  - Community sovereignty
+  - NUPALTA-NG
   - Variable Quad Partite Vetting
   - VQPV
   - VQPV Governance
@@ -32,25 +26,23 @@ keywords:
   - radical alignment of interests
   - Kardashev scale
   - New World Order dissolution
-  - U.S. soft power restoration
-  - Sovereign Opt In
-  - MOSU
+  - Nigerian soft power restoration
+  - MOCU
   - ISC
   - absolute veto
   - Atomic Unit Mandate
   - Community Land Trusts
-  - Pax NUPA
+  - Pax NUPA-NG 
   - voluntary opt in
   - antifragile contract core
   - pre enactment awareness saturation
-  - Tucker Act deterrence
   - Success Contagion moat
   - automation
   - future of work
   - ai policy
   - labor economics
   - economic model
-  - blm land
+  - Land Trust Act of 1978
   - stop ai job loss
   - robots taking jobs
   - ai unemployment
@@ -59,8 +51,4 @@ keywords:
   - ai job loss
   - robots took our jobs
   - ai job firewall
-  - reparations 
-  - 1865 Debt
-  - Native American Nation
-  - Bureau of Land Management
   - Community Land Trust
