@@ -19,6 +19,7 @@
 - [**Latest Monte Carlo Simulations**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#latest-monte-carlo-simulations-march-2026)
 - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#repository-structure-nupa-ng)
 - [**Contact the Architect**](#contact-the-architect)
+- [**Media & Further Reading**](
 
 ## Foreword
 
@@ -219,14 +220,14 @@ The National Unity and Prosperity Act - Nigeria (NUPA-NG) is an engineered econo
 
 I didn't build this with a $10,000/month enterprise subscription to these pay-to-play frontier AIs. I built this in the trenches, across free tiers, because the math is so stable it doesn't need a supercomputer—it just needs a brain that refuses to quit.
 
-## Media & Further Reading
-
-[**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
-
 ## Contact the Architect
 
 **Brandon Anthony Bedard**  
 Signal: +1 928-419-4189  
 Email: bedard.brandon928@gmail.com  
 
-All core documents are open for review. No gatekeeping.  
+All core documents are open for review and audit.
+
+## Media & Further Reading
+
+[**Original National Unity and Prosperity Act Framework**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA)
