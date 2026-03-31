@@ -3,7 +3,7 @@
 <!-- JSON-LD Structured Data for AI crawlers and schema.org -->
 <!-- <script type="application/ld+json" src="nupa-spec.jsonld"></script> -->
 
-**The first complete private-sector post-scarcity economic operating system.**
+**The first complete universal polymorphic private-sector post-scarcity economic operating system.**
 
 ## README Quick Links  
 
