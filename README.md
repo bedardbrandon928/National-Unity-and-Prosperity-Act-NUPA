@@ -7,6 +7,20 @@
 
 ---
 
+**NOTICE TO CLONERS AND READERS:** If you are running these simulations and seeing the 2035 decoherence, you have a choice. You can be a "Stopshort" and watch the $39T wall hit from your local terminal, or you can be a Node.
+
+This is a **Polymorphic Universal Protocol**. It only functions if the Consumer Base is preserved. If you don't share the math, there will be no market left for your "edge" to operate in. Fork, Push, and Tag 5 Architects.
+
+Every site I post this too, the algorithm either shadowbans it or hellbans it. You wanted a viable solution, here it is. Don't let the buck stop with you. 
+
+**To Verify as a Node:**  
+1. Run the /simulations/singularity_audit.py  
+2. Export the .csv of the 100M Monte Carlo results.  
+3. Post the graph to any platform that hasn't banned you yet.  
+4. Tag it: #NUPA_Node_Active  
+
+---
+
 ## README Quick Links  
 
  - [**Is There a Way to Fix the Economy in 2026?**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/README.md#is-there-a-way-to-fix-the-economy-in-2026)  
