@@ -94,12 +94,16 @@ A perpetual 1% Framework Usage Fee is established as a performance-based royalty
  * **Contingency of Success**: No payment unless wealth is generated for communities and the hub.  
  * **Perpetual Alignment**: Mirrors the 20% reinvestment engine for ongoing stability.  
  * **Funding**: Covers legacy administrator (post-sunsetting agency), escrow maintenance, and legal defense of the framework.  
- * **Architect’s Limited Veto**: The Architect retains a narrow, non-delegable, non-waivable veto power over any corporation, platform, or institutional investor whose core business model or operational practices materially contribute to the creation or maintenance of a permanent economic dependency class.
-This veto specifically includes, but is not limited to, companies that:  
+ * **Architect’s Limited Veto Provision:** The Architect retains a narrow, non-delegable, non-waivable veto power over any corporation, platform, or institutional investor whose core business model or operational practices materially contribute to the creation or maintenance of an economic dependency class.
+This veto specifically includes, but is not limited to, companies that:
 
     * Deploy algorithmic control mechanisms that arbitrarily restrict a worker’s ability to earn (e.g., sudden lockouts, ghost restrictions, or extraterritorial enforcement of foreign labor rules)
     * Externalize safety and maintenance risks onto workers while denying them stable income or protections
-    * Design systems that profit from human attention addiction and economic fragility rather than productive labor  
+    * Design systems that profit from human attention addiction and economic fragility rather than productive labor
+
+Entities that are permanently disqualified, however, include DoorDash, and all other supporters or beneficiaries of California Proposition 22, and major institutional investors that have **publicly advocated for** or **implemented policies designed to create or maintain a permanent dependency class**, specifically **BlackRock**, **Vanguard**, and **State Street**.
+  
+  * *Architect's Direct Message to the named entities:* You profited off of the dependency and exploitation of the impoverished and marginalized. That was a grievous and absolutely disgusting betrayal of the social contract. This is my absolute statement, **you are not welcome.**  
 
 Exercise of this veto disqualifies the entity from any participation in ground leases, hub licensing, framework usage fees, or NUPA ecosystem operations. All other participation and governance decisions remain exclusively with the local Community Land Trust, VQPV boards, and Sovereign authorities.
 
