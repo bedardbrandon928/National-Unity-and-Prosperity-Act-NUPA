@@ -108,6 +108,28 @@ Exercise of this veto disqualifies the entity from any participation in ground l
 
 **This provision is non-negotiable. Nations or entities adopting the NUPA framework, and all adaptations, accept it in full or not at all.**
 
+**Architect’s Provision for Conditional Restoration & Compliance**
+
+The Architect’s Limited Veto is a dynamic regulatory tool, not a permanent exclusion. The Architect may initiate or recommend revocation of a veto, but final authority rests with the local VQPV boards.
+
+**Restoration Audit**
+
+To qualify for revocation, the entity must submit to a System Integrity Audit. The audit must confirm:  
+
+ * Algorithmic Transparency: Formal decommissioning of ghost restrictions, sudden lockouts, or any opaque AI-driven labor suppression mechanisms.  
+ * Workforce Ratio Commitment: Legally binding agreement to maintain the 95% human workforce ratio and the "10% Rule" across all NUPA-licensed operations.
+ * Business Model Transition: Evidence of a genuine shift away from attention-extraction and economic-fragility profit models toward productive, value-add labor.
+
+**Conditional Re-Entry**
+
+If the VQPV board approves revocation after the audit, the entity receives "Probationary Status" for five (5) years. Any breach during this period triggers an Automatic Irrevocable Veto, permanently barring the entity from the NUPA ecosystem across all global adaptations.  
+
+The entity must also pay a Restoration Surcharge (determined by the VQPV board), directed to a Sovereign Tribe’s or Community’s Education Endowment.
+
+**Finality**
+
+Final decisions on veto revocation or maintenance rest exclusively with the VQPV boards. This structure ensures the ecosystem remains a Human Sanctuary while preventing predatory interests from co-opting the system.
+
 ### IV. Economic and Social Justification
 
 The 1% fee represents a fractional exchange for the following universal benefits:
