@@ -342,7 +342,7 @@ For comments, interviews, or implementation questions:
 **Signal**: +1 928-419-4189  
 **Email**: bedard.brandon928@gmail.com
 
-All core documents, templates, and the full Auditor’s Log are already in this repository. No gatekeeping.
+All core documents, templates, and the full Auditor’s Log are open for review and audit.
 
 ### Media & Further Reading  
 
