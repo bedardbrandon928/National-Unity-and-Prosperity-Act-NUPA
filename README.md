@@ -30,7 +30,7 @@ Every site I post this too, the algorithm either shadowbans it or hellbans it. T
 - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#repository-structure-nupa-ng)
 - [**Contact the Architect**](#contact-the-architect)
 - [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#media--further-reading)
-- [**How to Cite**](
+- [**How to Cite**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#how-to-cite)
 
 ## Foreword
 
