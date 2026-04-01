@@ -29,7 +29,8 @@ Every site I post this too, the algorithm either shadowbans it or hellbans it. T
 - [**Latest Monte Carlo Simulations**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#latest-monte-carlo-simulations-march-2026)
 - [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#repository-structure-nupa-ng)
 - [**Contact the Architect**](#contact-the-architect)
-- [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#media--further-reading)  
+- [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#media--further-reading)
+- [**How to Cite**](
 
 ## Foreword
 
@@ -412,3 +413,7 @@ All core documents are open for review and audit.
 
 **NUPA-NG Explainer Video:**  
 https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
+
+### How to Cite
+Bedard, B. A. (2026). *National Unity and Prosperity Act - Nigeria (NUPA-NG)*. GitHub Repository. 
+https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG
