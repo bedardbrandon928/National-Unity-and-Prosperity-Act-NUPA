@@ -416,4 +416,4 @@ https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
 
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act - Nigeria (NUPA-NG)*. GitHub Repository. 
-https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG
+https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/CITATION.cff
