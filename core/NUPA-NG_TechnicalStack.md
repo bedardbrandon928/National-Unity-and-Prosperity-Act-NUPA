@@ -103,7 +103,7 @@ This veto specifically includes, but is not limited to, companies that:
 
 Entities that are permanently disqualified, however, include DoorDash, and all other supporters or beneficiaries of California Proposition 22, and major institutional investors that have **publicly advocated for** or **implemented policies designed to create or maintain a permanent dependency class**, specifically **BlackRock**, **Vanguard**, and **State Street**.
   
-  * *Architect's Direct Message to the named entities:* You profited off of the dependency and exploitation of the impoverished and marginalised. That was a grievous and absolutely disgusting betrayal of the social contract. This is my absolute statement, **you are not welcome.**  
+  * *Architect's Direct Message to the named entities:* You profited off of the dependency and exploitation of the impoverished and marginalized. You have made your intentions clear — you do not care about people when it conflicts with your extractive models. That was a grievous and absolutely disgusting betrayal of the social contract.  I am simply responding in kind. This is my absolute statement, **you are not welcome.**
 
 Exercise of this veto disqualifies the entity from any participation in ground leases, hub licensing, framework usage fees, or NUPA ecosystem operations. All other participation and governance decisions remain exclusively with the local Community Land Trust, VQPV boards, and Sovereign authorities.
 
