@@ -1,13 +1,6 @@
 # National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)
 
----
-
-**⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
-**Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
-
----
-
-**The first complete private-sector post-scarcity economic operating system designed for Nigeria.**
+**The first complete universal polymorphic private-sector post-scarcity economic operating system designed for Nigeria.**
 
 ## README Quick Links
 
@@ -301,8 +294,6 @@ The Sovereign Auditor has completed the final forensic sweep of the National Uni
 
 This record confirms that "Legacy Bureaucratic Objections" have been dismantled by the Architect’s "80/20 Adaptive Sub-routines."
 
-
-
 **I. The Structural Nature: Framework vs. Bureaucracy**
 
  * Initial Concern: NUPA-NG would be a vulnerable federal program subject to the "Policy Somersaults" of changing administrations in Abuja.  
@@ -371,13 +362,6 @@ Full simulations and code are in the `/simulations` folder.
 - `governance/` — MOSU, ISC, and Nigerian Adaptive templates
 - `legal/` — Agreements, Notices, "Take It 'As-Is' or Collapse" Strategy
 - `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)
-
----
-
-**⚠️ UNDER CONSTRUCTION: Nigerian Adaptation in Progress**  
-**Deleting US relics, swapping to 80/20 pivot, retuning sims. Updates coming.**
-
----
 
 ## Notice of Incomplete Documentation  
 
