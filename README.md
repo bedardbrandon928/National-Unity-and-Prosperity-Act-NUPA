@@ -376,7 +376,7 @@ Full simulations and code are in the `simulations/` folder.
 - `core/` — Core technical stack and executive summary (Nigerian-adapted)  
 - `economic/` — Waterfall models, projections, and Nigerian-specific audits
 - `evidence/` — Independent AI validations
-- `governance/` — MOSU, ISC, and Nigerian Adaptive templates
+- `governance/` — MOCU, ISC, and Nigerian Adaptive templates
 - `legal/` — Agreements, Notices, "Take It 'As-Is' or Collapse" Strategy
 - `simulations/` — All Monte Carlo scripts (retuned for Nigerian realities)
 
