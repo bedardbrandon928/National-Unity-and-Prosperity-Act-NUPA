@@ -91,10 +91,19 @@ Since February 2026, the framework has been disclosed publicly via [open-source 
 
 A perpetual 1% Framework Usage Fee is established as a performance-based royalty. It triggers only on successful execution of private corporate ground leases in NUPA-NG hubs—hard-coded in every agreement, non-negotiable.
 
-- **Contingency of Success**: No payment unless wealth is generated for communities and the hub.  
-- **Perpetual Alignment**: Mirrors the 20% reinvestment engine for ongoing stability.  
-- **Funding**: Covers legacy admin (post-sunsetting agency), escrow maintenance, and legal defense of the framework.  
-- **Architect’s Limited Veto**: Narrow, non-delegable—only for corporations causing direct harm to the Architect (e.g., misclassification, predatory gig platforms) or major investors promoting dependency (e.g., BlackRock, Vanguard, State Street). All other decisions rest with local Community Trusts.
+ * **Contingency of Success**: No payment unless wealth is generated for communities and the hub.  
+ * **Perpetual Alignment**: Mirrors the 20% reinvestment engine for ongoing stability.  
+ * **Funding**: Covers legacy administrator (post-sunsetting agency), escrow maintenance, and legal defense of the framework.  
+ * **Architect’s Limited Veto**: The Architect retains a narrow, non-delegable, non-waivable veto power over any corporation, platform, or institutional investor whose core business model or operational practices materially contribute to the creation or maintenance of a permanent economic dependency class.
+This veto specifically includes, but is not limited to, companies that:  
+
+    * Deploy algorithmic control mechanisms that arbitrarily restrict a worker’s ability to earn (e.g., sudden lockouts, ghost restrictions, or extraterritorial enforcement of foreign labor rules)
+    * Externalize safety and maintenance risks onto workers while denying them stable income or protections
+    * Design systems that profit from human attention addiction and economic fragility rather than productive labor  
+
+Exercise of this veto disqualifies the entity from any participation in ground leases, hub licensing, framework usage fees, or NUPA ecosystem operations. All other participation and governance decisions remain exclusively with the local Community Land Trust, VQPV boards, and Sovereign authorities.
+
+**This provision is non-negotiable. Nations or entities adopting the NUPA framework, and all adaptations, accept it in full or not at all.**
 
 ### IV. Economic and Social Justification
 
