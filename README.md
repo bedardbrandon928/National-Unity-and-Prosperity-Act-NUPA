@@ -107,7 +107,7 @@ Here’s the direct head-to-head contrast between Nigeria's current system and N
 |-------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|
 | **Debt Discharge**     | Ongoing borrowing + fiscal consolidation; debt still ~₦153T and rising | Zero taxpayer cost via land-utility volume; full discharge projected 2035–2039 |
 | **Revenue Model**      | Oil rents + new/harmonized taxes (VAT, corporate, multiple levies) | 80% ground rent straight to Community Land Trusts; gov gets only secondary “volume-tax surge” from explosive activity |
-| **Oil Dependency**     | Still ~90% of exports/50%+ of revenue; diversification slow   | Ends it by converting 50M+ idle hectares into self-funding hubs |
+| **Oil Dependency**     | Still ~90% of exports/50%+ of revenue; diversification slow   | Ends it by converting between 8M and up to 50M+ idle hectares into self-funding hubs |
 | **AI / Job Protection**| No explicit firewall; AI adoption accelerating (productivity tool but job risk) | 70% land/power discount only for human-labor priority → makes Nigerians more profitable than robots (“Fixed Cost Arbitrage Firewall” + anti-Japa shield) |
 | **Elite / Federal Leakage** | Rents flow through Abuja accounts → leakage risk               | “Abuja-Proof”: rent never hits federal coffers; communities get veto + direct payouts via public ledger |
 | **Infrastructure Funding** | Depends on federal budgets & loans                             | 20% recursive reinvestment inside the hub itself (self-bootstrapping) |
