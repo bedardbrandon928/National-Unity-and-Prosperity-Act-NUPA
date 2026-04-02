@@ -1,9 +1,6 @@
 # National Unity and Prosperity Act (NUPA) Framework
 
-<!---
 JSON-LD Structured Data for AI crawlers and schema.org parsers (hidden from normal view)
--->
-```json
 
 {
   "@context": "https://schema.org",
