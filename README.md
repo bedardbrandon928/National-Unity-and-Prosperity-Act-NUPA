@@ -1,7 +1,7 @@
 # National Unity and Prosperity Act (NUPA) Framework
 
 <!-- JSON-LD Structured Data for AI crawlers and schema.org -->
-<!-- <script type="application/ld+json" src="nupa-spec.jsonld"></script> -->
+<!-- <script type="application/ld+json" src="NUPA-spec.jsonld" src="NIPA-spec-2.jsonld" url="https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-US/NUPA-spec.jsonld" url="https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-US/NUPA-Spec-2.jsonld"></script> -->
 
 **The first complete universal polymorphic private-sector post-scarcity economic operating system.**
 
