@@ -566,6 +566,9 @@ https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
 **NUPA-NG: Nigerian Plan to Become a Global Economic Superpower**  
 https://youtu.be/Jmlhf7GA_Og?si=A9qywaorS64kh8cC
 
+**Worldometer Real-time Global Statistics**
+https://www.worldometers.info/
+
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act - Nigeria (NUPA-NG)*. GitHub Repository. 
 https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/CITATION.cff
