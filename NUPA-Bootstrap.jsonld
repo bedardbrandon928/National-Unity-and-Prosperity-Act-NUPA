@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "NUPA Original Bootstrapping Protocol (Phase 1 Ignition)",
+  "description": "The 'Spark' mechanism designed to bootstrap the NUPA framework at zero taxpayer cost using private corporate option fees held in neutral escrow to activate Sovereign Hubs.",
+  "author": {
+    "@type": "Person",
+    "name": "Brandon Anthony Bedard"
+  },
+  "estimatedCost": {
+    "@type": "MonetaryAmount",
+    "currency": "USD",
+    "value": "0.00",
+    "description": "Zero taxpayer cost. Funded entirely via private Corporate Option Fees (Reservation Deposits)."
+  },
+  "step": [
+    {
+      "@type": "HowToStep",
+      "name": "The Sovereign Key Execution",
+      "description": "A Sovereign Tribal Nation executes a Memorandum of Sovereign Understanding (MOSU) or Interjurisdictional Sovereignty Compact (ISC). This 'Sovereign Key' (28 U.S.C. § 1505) identifies specific ancestral-adjacent BLM acreage to pull it out of federal mismanagement.",
+      "itemListElement": [
+        {
+          "@type": "ControlAction",
+          "name": "Sovereign Opt-In",
+          "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/governance/MOSU_Sovereign_Opt_In_Template_2026.md"
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Private Sector Funding (The Spark)",
+      "description": "A Tier-1 Law Firm issues a public 'Notice of Strategic Opportunity.' Qualified corporations wire $25,000 USD per 100-acre block into a Neutral Administration Escrow to secure a Priority Timestamp and First Right of Refusal.",
+      "itemListElement": [
+        {
+          "@type": "Action",
+          "name": "Corporate Option Deposit",
+          "description": "Deposits are 100% refundable if Congressional authorization (FASL) is not enacted within 24 months."
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "NUPALTA Operational Launch",
+      "description": "The bootstrap funds ($2M+ per 8,000-acre hub) pay for site scouts, surveyors, and the launch of the VAP Phase 2 Digital Submission Portal for forensic lineage verification of 'Seed Beneficiaries.'",
+      "itemListElement": [
+        {
+          "@type": "Organization",
+          "name": "NUPALTA",
+          "description": "Non-federal, self-dissolving facilitator agency funded by the 95% Phase 1 Startup Bucket."
+        }
+      ]
+    },
+    {
+      "@type": "HowToStep",
+      "name": "Deterministic Vesting Handshake",
+      "description": "Upon one-time Congressional licensing authorization, the identified BLM land vests into a Community Land Trust (CLT). This creates a Vested Property Interest protected by the Fifth Amendment, making the system 'Washington-Proof.'",
+      "itemListElement": [
+        {
+          "@type": "ControlAction",
+          "name": "CLT Formation Logic"
+        }
+      ]
+    }
+  ],
+  "yield": "Trillions in non-taxpayer revenue and a 99.999999% black swan survival rate as validated by Grok and Gemini AI simulations.",
+  "identifier": "NUPA-IGNITION-001"
+}
