@@ -594,7 +594,7 @@ NUPA is **not** a government bill or replacement for the existing system — it 
 | **Government Role / Leakage** | Centralized: Rents/taxes flow through Washington → leakage, political discretion, policy somersaults. | **Taxpayer Shield + Voluntary Opt-In**: Rent never touches Treasury. Runs under private contract/IP law (NUPA-01 lease). “Scale-invariant” and elite-capture resistant. |
 | **Funding Mechanism**  | Taxpayer-funded budgets + debt issuance. | **Private only**: 1% Architect Fee + 40/40/20 waterfall. No new taxes or spending required. |
 | **Resilience (Monte Carlo)** | Exposed to interest-rate spikes, AI shocks, black swans. No published 99.999999% survival modeling. | 10M–100M Monte Carlo runs (retuned March 2026): **99.999999%** black-swan survival rate. 6,480× above global collapse threshold. Even survives nuclear-war-level shocks. |
-| **Activation**         | Requires continuous Congressional action and political will. | Voluntary corporate opt-in via standardized NUPA-01 lease (the document you shared). Only needs DOI/BLM licensing recognition + Effectiveness Certificate. Self-dissolving once running (NUPALTA sunsets). |
+| **Activation**         | Requires continuous Congressional action and political will. | Voluntary corporate opt-in via standardized NUPA-01 lease. Only needs DOI/BLM licensing recognition + Effectiveness Certificate. Self-dissolving once running (NUPALTA sunsets). |
 | **Wealth Transfer**    | Concentrated in coastal/tech hubs; inequality persists. | ~$3T+ direct Tribal wealth transfer + $2.2T federal tax-surge secondary benefit (Gemini-validated, March 2026). |
 
 **Bottom-Line Takeaway**
