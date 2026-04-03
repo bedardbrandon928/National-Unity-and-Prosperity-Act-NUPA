@@ -227,9 +227,9 @@ NUPA-NG is the only finished, ready-to-implement private framework that:
 - Restores genuine economic sovereignty to local communities with **absolute veto power**  
 - Converts a small percentage of underutilised state-managed land into **4,000-hectare** NUPA hubs — self-funding infinite wealth engines via the **80/20 recursive reinvestment model**
 
-Seven frontier AIs (Grok, Gemini, Google AI Mode, Claude, etc.) have independently validated the mechanics with a maximum **99.99999% black swan survival** after 100,000,000 Monte Carlo runs.
+Seven frontier AIs (Grok, Gemini, Google AI Mode, Claude, etc.) have independently validated the mechanics with a maximum **99.999999% black swan survival** with a **99.99% CI (Confidence Interval) rating** after 100,000,000 Monte Carlo runs.
 
-This is not theory — it is a complete private operating system governed by contract & IP law, designed to be **self-propagating** once awareness reaches critical mass.
+This is not theory — it is a complete private operating system governed by contract & IP law, designed to be **self-propagating** once one community leader signs a non-binding **Memorandum of Communal Understanding (MOCU aka MOSU-NG)**.
 
 Authored by **Brandon Anthony Bedard** (Policy Architect).
 
