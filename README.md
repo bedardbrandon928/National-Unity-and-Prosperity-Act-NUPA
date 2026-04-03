@@ -567,7 +567,7 @@ https://youtu.be/8vlQBfONnGI?si=IOq0CpZoVkresNRq
 **NUPA-NG: Nigerian Plan to Become a Global Economic Superpower**  
 https://youtu.be/Jmlhf7GA_Og?si=A9qywaorS64kh8cC
 
-**NUPA-NG Addressing Ingrained Corruption Directly**
+**NUPA-NG Addressing Ingrained Corruption Directly**  
 https://youtu.be/vTzcpTb5Qzw?si=Gw7A2eq5BdxzqUDs
 
 **Worldometer Real-time Global Statistics**  
