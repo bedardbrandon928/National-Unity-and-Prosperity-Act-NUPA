@@ -546,7 +546,7 @@ Its called The National Unity and Prosperity Act (NUPA) and it is the only finis
 
 Seven frontier AIs (Grok, Gemini, Google AI Mode, Claude, Duck.ai, Scout, ChatGPT) have now independently validated the mechanics with a prominent maximum **99.999999% black swan survival** with a **99.99% CI (Confidence Interval) rating** and a **2035–2039 debt discharge window** after 100,000,000 Monte Carlo Simulation runs.
 
-This isn’t theory — it’s a complete private operating system governed by contract & IP law, designed to be **self-propagating** once public awareness reaches the 30–40% threshold.
+This isn’t theory — it’s a complete private operating system governed by contract & IP law, designed to be **self-propagating** once one Sovereign Tribe signs a non-binding Memorandum of Sovereign Understanding (MOSU).
 
 Authored solely by **Brandon Anthony Bedard** (Policy Architect) between November 18, 2025 and December 22, 2025.
 
