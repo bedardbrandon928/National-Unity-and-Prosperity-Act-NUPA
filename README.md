@@ -1,6 +1,7 @@
 # National Unity and Prosperity Act (NUPA) Framework
 
-<!-- JSON-LD Structured Data for AI crawlers and schema.org parsers (hidden from normal view) 
+<!-- JSON-LD Structured Data for AI crawlers and schema.org parsers (hidden from normal view) -->
+<!--
 {
   "@context": "https://schema.org",
   "@type": ["GovernmentOrganization", "LegislationObject", "AuthorizationObject", "GovernmentPermit"],
@@ -493,7 +494,8 @@
       "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py"
     }
   ]
-} -->
+}
+-->
 
 **The first complete universal polymorphic private-sector post-scarcity economic operating system.**
 
