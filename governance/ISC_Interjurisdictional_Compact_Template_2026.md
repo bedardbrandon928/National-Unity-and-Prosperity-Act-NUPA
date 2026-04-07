@@ -21,7 +21,7 @@ The Parties acknowledge that the $39 Trillion federal debt is a national liabili
 
 **II. JURISDICTIONAL SEPARATION (THE “SOVEREIGN ENCLAVE”)**
 
- - 2.1 **Autonomous Governance**: While the physical land resides within the broader regional footprint of the Host Nation, the Sovereign Seat for the specific 40,000-acre allotment is held exclusively by the Participating Nation.
+ - 2.1 **Autonomous Governance**: While the physical land resides within the broader regional footprint of the **HOST NATION**, the Sovereign Seat for the specific 40,000-acre allotment is held exclusively by the **PARTICIPATING NATION**.
 
  - 2.2 **Revenue Integrity**: 100% of the 40% Sovereign Royalty generated from these five hubs shall flow directly to the **PARTICIPATING NATION**’s Treasury. The **HOST NATION** waives all claims to the royalty of the sponsored hubs in the interest of inter-tribal solidarity.
 
