@@ -41,17 +41,17 @@ NUPA-NG does not rely on political goodwill; it relies on an interlocking matrix
 - No new federal bureaucracy — the system is private and self-funding.
 
 **State Governors & Land Use Act Alignment: Authority Without Liability**  
+- 50% of rent flows as a perpetual sovereign royalty for allowing the use of the land.
 - Governors retain full constitutional authority to license idle land.  
-- No loss of control — participation is voluntary and revocable.  
 - States gain productive economic hubs without spending state budgets.
 
 **Local Communities & Host Communities Alignment: Direct Benefit & Sovereignty**  
-- 80% of rent flows directly to the local community or land trust.  
+- 30% of rent flows directly to the local community or land trust.  
 - Absolute community veto power over land use and corporate compliance.  
 - Real, recurring income for schools, hospitals, roads, and youth development — bypassing federal intermediaries.
 
 **Youth & Labour Alignment: Protection Against AI Displacement**  
-- Fixed Cost Arbitrage firewall makes human labour mathematically cheaper than robots.  
+- Fixed Cost Arbitrage firewall makes human labour mathematically more profitable than robots.  
 - Companies that automate too aggressively lose their lease.  
 - Creates real, sustainable jobs in solar, data, logistics, and light industry.
 
