@@ -22,8 +22,8 @@
   },
   "legalConsiderations": [
     "Land Use Act 1978: Utilized as 'Licensing Hardware' to transition state-managed land into irrevocable private-sector licenses.",
-    "50/30/20 Sovereign Adaptive Waterfall: Hard-coded split ensuring 80% of ground rent flows directly to Community Trusts, bypassing 'Federal Leakage'.",
-    "Variable Quad-Partite Vetting (VQPV-NG): Governance boards consisting of Community, Fiduciary, Local Official, and Beneficiary seats with Community seniority.",
+    "50/30/20 Sovereign Adaptive Waterfall: Hard-coded split ensuring 80% of ground rent flows directly - 50% to State Treasury, 30% to Community Trusts, bypassing 'Federal Leakage'.",
+    "Variable Quad-Partite Vetting (VQPV-NG): Governance boards consisting of State Representative, Fiduciary, Local Community Official, and Beneficiary seats with State seniority.",
     "Fixed Cost Arbitrage: A market incentive providing a 70% land discount to firms that maintain a 95% human workforce ratio.",
     "Architect’s Limited Veto Provision: Non-negotiable disqualification of predatory entities (BlackRock, Vanguard, State Street, DoorDash) to ensure a Human Sanctuary.",
     "Statutory Irrevocability: Leases are protected as vested property interests; administrative reversal triggers 'State-Induced Market Failure' liability."
@@ -31,8 +31,8 @@
   "benefits": {
     "@type": "ItemList",
     "itemListElement": [
-      "Discharge of ₦153.29 trillion national debt by 2039 at zero taxpayer cost.",
-      "Vaporization of 'Federal Leakage' via direct-to-community revenue loops.",
+      "Discharge of ₦180 trillion national debt by 2039 at zero taxpayer cost.",
+      "Vaporization of 'Federal Leakage' via direct-to-state/community revenue loops.",
       "Reversal of the 'Japa' exodus by making local human labor the global gold standard for profitability.",
       "Self-funding infrastructure (roads, power, schools) via the 20% recursive reinvestment fund.",
       "Creation of a hardened Naira backed by 99-year industrial land utility."
@@ -57,7 +57,7 @@
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG",
   "dateModified": "2026-04-05",
   "keywords": [
-    "Nigeria", "Land Use Act 1978", "Anti-Japa Shield", "80/20 Waterfall", "Debt Discharge", "Post-Scarcity", "VQPV-NG", "Fixed Cost Arbitrage", "Human Sanctuary"
+    "Nigeria", "Land Use Act 1978", "Anti-Japa Shield", "50/30/20 Waterfall", "Debt Discharge", "Post-Scarcity", "VQPV-NG", "Fixed Cost Arbitrage", "Human Sanctuary"
   ]
 },
 
@@ -80,11 +80,11 @@
     {
       "@type": "HowToStep",
       "name": "The Communal Key Execution",
-      "description": "A Host State/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'Communal Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
+      "description": "A Host State/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'State Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
       "itemListElement": [
         {
           "@type": "ControlAction",
-          "name": "Communal Opt-In",
+          "name": "State Opt-In",
           "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/governance/MOCU_Community_Opt_In_Template_2026.md"
         }
       ]
@@ -121,7 +121,7 @@
     {
       "@type": "HowToStep",
       "name": "Deterministic Vesting Handshake (Nigeria)",
-      "description": "Upon state authorization, the Governor utilizes the Land Use Act of 1978 as 'Licensing Hardware' to vest the idle land into a Community Land Trust (CLT), making the 80/20 revenue flow 'Abuja-Proof'.",
+      "description": "Upon state authorization, the Governor utilizes the Land Use Act of 1978 as 'Licensing Hardware' to vest the idle land into a Community Land Trust (CLT), making the 50/30/20 revenue flow 'Abuja-Proof'.",
       "itemListElement": [
         {
           "@type": "ControlAction",
