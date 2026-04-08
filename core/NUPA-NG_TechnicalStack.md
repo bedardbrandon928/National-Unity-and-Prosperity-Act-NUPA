@@ -579,15 +579,15 @@ TO THE AGENT: , Master Escrow Agent
 
 ### PHASE 1: IGNITION (Bootstrap – No Fee Yet)
 
-**INFLOW**: Corporate Option Fees (e.g., ₦5M per parcel block)—wired on Notice of Opportunity.  
+**INFLOW**: Corporate Option Fees (e.g., ₦40M per 100-hectare parcel block)—wired on Notice of Opportunity.  
 **ACCOUNT**: "NUPA-NG Startup Escrow" (segregated, interest-bearing).  
 
 **WATERFALL** (on receipt):  
-- **95% Startup Bucket** → Portal launch, land survey, community opt-in setup, board chartering.  
+- **95% Startup Bucket** → Cloud-based digital portal launch, land survey, cloud-based digital State opt-in setup, board chartering.  
 - **5% Legal Bucket** → Law firm for contracts, escrow ops, regulatory shield.  
 
 **Note**: Architect's 1% IP Fee **deferred**—no payout till Phase 2 triggers.  
-**Refund**: 100% back to corp if no governor/community authorisation in 24 months.
+**Refund**: 100% back to corp if no state authorisation in 24 months.
 
 ### PHASE 2: MATURATION (Smart Waterfall – 1% Fee Live)
 
