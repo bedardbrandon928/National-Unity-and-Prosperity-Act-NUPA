@@ -16,7 +16,7 @@
 
 ### 3. The Public Safety & Social Ripple (The Human Level)
 
-* **Systemic Security Collapse:** By removing economic desperation through the 30% Community Yield and protected jobs, the root cause of 90% of regional banditry, kidnapping, and unrest is deleted at the source.  
+* **Systemic Security Collapse:** By removing economic desperation through the 80% Non-Federal Yield (50% State + 30% Host State/Community Trust) and protected jobs, the root cause of 90% of regional banditry, kidnapping, and unrest is deleted at the source.  
 * **Institutional Savings:** Federal and State governments save trillions annually on "Reactive Security" costs—policing, military interventions, and emergency disaster relief.  
 * **The "Trust Deficit" Closure:** The 60-year gap between the people and the state is bridged. By hard-coding the 50/30/20 waterfall, the community sees the wealth of the soil hitting their pockets directly, without "Federal Leakage."  
 * **Psychological Peace:** The "Economic Anxiety" that drives tribalism and political polarization vanishes. When the youth have a high-yield floor and a protected career path, national unity becomes the default setting.  
