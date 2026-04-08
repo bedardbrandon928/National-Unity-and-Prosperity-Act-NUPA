@@ -22,10 +22,12 @@ To maintain absolute fiscal integrity and align the interests of the State and C
 *   **Phase 2: The Master Escrow (Ground Lease Revenue)**
   
     *   **Source:** Annual Ground Rent and the 1% Framework Usage Fee.
+  
     *   **Instruction:** The revenue triggers the **50/30/20 Sovereign Adaptive Waterfall**:
-        *   **50% Sovereign Royalty (State Government):** Paid as a licensing fee to the State Treasury to ensure the Governor acts as a "Vested Protector" of the hub.
-        *   **30% Community Trust (Host Community):** Direct, unrestricted payment for local dividends, healthcare, and education.
-        *   **20% Recursive Reinvestment (The Hardware Fund):** Hard-coded for infrastructure (power, roads, fiber) to ensure the asset never degrades.
+    
+        *   **50% Sovereign Royalty (State Government):** Paid as a licensing fee to the State Treasury to ensure the Governor acts as a "Vested Protector" of the hub.  
+        *   **30% Community Trust (Host Community):** Direct, unrestricted payment for local dividends, healthcare, and education.  
+        *   **20% Recursive Reinvestment (The Hardware Fund):** Hard-coded for infrastructure (power, roads, fiber) to ensure the asset never degrades.  
 
 **3. Communal Pricing & Market Strategy**  
 
