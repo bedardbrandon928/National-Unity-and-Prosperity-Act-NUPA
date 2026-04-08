@@ -18,11 +18,11 @@
   "cltFormationLogic": {
     "@type": "ControlAction",
     "name": "Deterministic Vesting Handshake (Nigeria)",
-    "description": "System activation occurs when a Host Community executes a Memorandum of Communal Understanding (MOCU aka MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
+    "description": "System activation occurs when a Host State executes a Memorandum of Communal Understanding (MOCU aka MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
   },
   "legalConsiderations": [
     "Land Use Act 1978: Utilized as 'Licensing Hardware' to transition state-managed land into irrevocable private-sector licenses.",
-    "80/20 Sovereign Adaptive Waterfall: Hard-coded split ensuring 80% of ground rent flows directly to Community Trusts, bypassing 'Federal Leakage'.",
+    "50/30/20 Sovereign Adaptive Waterfall: Hard-coded split ensuring 80% of ground rent flows directly to Community Trusts, bypassing 'Federal Leakage'.",
     "Variable Quad-Partite Vetting (VQPV-NG): Governance boards consisting of Community, Fiduciary, Local Official, and Beneficiary seats with Community seniority.",
     "Fixed Cost Arbitrage: A market incentive providing a 70% land discount to firms that maintain a 95% human workforce ratio.",
     "Architect’s Limited Veto Provision: Non-negotiable disqualification of predatory entities (BlackRock, Vanguard, State Street, DoorDash) to ensure a Human Sanctuary.",
@@ -80,7 +80,7 @@
     {
       "@type": "HowToStep",
       "name": "The Communal Key Execution",
-      "description": "A Host Community/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'Communal Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
+      "description": "A Host State/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'Communal Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
       "itemListElement": [
         {
           "@type": "ControlAction",
@@ -132,7 +132,7 @@
     {
       "@type": "HowToStep",
       "name": "VQPV-NG Board Seating",
-      "description": "The local governance board (Community, Seed Beneficiary, State Official, and Fiduciary) is seated to oversee the 99-year ground leases.",
+      "description": "The local governance board (Governor/State Rep, Seed Beneficiary, Local Community Official, and Fiduciary) is seated to oversee the 99-year ground leases.",
       "itemListElement": [
         {
           "@type": "GovernmentService",
@@ -161,7 +161,7 @@ Every site I post this to, the algorithm either shadowbans it or hellbans it. Th
 1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)  
 2. Export the .csv of the 100M Monte Carlo results.  
 3. Post the results to any platform that hasn't banned you yet.  
-4. Tag it: #NUPA_NG_Node_Active  
+4. Tag it: #NUPANigeria
 
 ---
 
