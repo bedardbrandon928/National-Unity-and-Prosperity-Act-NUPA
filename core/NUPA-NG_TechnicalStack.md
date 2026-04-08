@@ -169,7 +169,7 @@ SUBJECT: STATE LAND OPTIMISATION – A Private Solution to Debt Leakage, AI Disp
 
 ### EXECUTIVE SUMMARY: A Net-Zero Cost Solution to Structural Liability
 
-This proposal presents the only fiscally responsible mechanism for addressing Nigeria's ₦153.29 trillion+ debt, AI job displacement, and idle land under the Land Use Act—without new taxes or federal spending.  
+This proposal presents the only fiscally responsible mechanism for addressing Nigeria's ₦180 trillion+ debt, AI job displacement, and idle land under the Land Use Act—without new taxes or federal spending.  
 - **Net-Zero Fiscal Cost**: NUPA-NG runs on private leases—no taxpayer money.  
 - **Anti-Automation Firewall**: Below-market land leases make human labour cheaper than robots.  
 - **Irrevocable Finality**: Perpetual community trusts lock in benefits, bypassing leakage.
@@ -209,9 +209,7 @@ The system is built with structural and legal locks to prevent gridlock, corrupt
 1. The Fiduciary Expert Mandate
 
 The Fiduciary serves as the bonded, third-party administrator of the Community Trust's assets.  
-- Internal Audit: Quarterly 80/20 disbursement of ground rents.  
-- Dividend Integrity: Audits "Mastery Unlock" for competency in local real estate, renewable infrastructure, and recursive entrepreneurship before full 100% payout.  
-- Adaptive Payout Structure: Tiered distribution (Legacy, Empowerment, Growth) — Mastery Bonus (extra 20%) only on verified Three Pillars completion.  
+- Internal Audit: Quarterly 50/30/20 disbursement of ground rents.  
 - Privacy Firewall: Maintains private verification data, fully separated from government access.
 
 **2. The Local Official Mandate**
@@ -232,12 +230,12 @@ Licensed land managed by digital/local CLTs under Variable Quad-Partite Vetting 
 - Acreage-to-Beneficiary Ratio: 4,000 hectares / 5,000 people—keeps oversight effective.  
 - Development Bond Capacity: Leverage lease for private bonds (solar, data, logistics) at ₦0.00 cost.
 
-**4. The Community Sovereignty Mandate (The Community Key)**
+**4. The State Sovereignty Mandate (The State Key)**
 
 State Governor acts as high-level authority and holder of the "State Governor's Key".  
 - Strategic Veto: Final say on corporate leases—blocks predatory or high-automation deals.  
 - Legacy Oversight: Ensures alignment with 99-year loop.  
-- Zero Burden: No daily admin—focus on governance and 80% direct rent flow.
+- Zero Burden: No daily admin—focus on governance and 50% direct rent flow.
 
 **5. The Symmetry of Power ("No" vs. "Yes" Protocol)**
 
@@ -249,7 +247,7 @@ State Governor acts as high-level authority and holder of the "State Governor's 
 **B. Agency Charter and Dissolution**
 
 - Pre-Ignition: NUPALTA-NG represented by nominated Provisional Administrator.  
-- Sunset Provision: Dissolves after all Community Trust boards seated—oversight to locals. One Legacy Administrator stays for tie-breaks.
+- Sunset Provision: Dissolves after all VQPV boards chartered and seated. One Legacy Administrator stays for tie-breaks.
 
 **C. Gridlock Elimination Mandate**
 
@@ -259,20 +257,20 @@ Prevents stagnation:
 
 **D. THE INDIVISIBILITY MANDATE (SYSTEMIC FAIL-SAFE)**
 
-* Indivisible Governance: The Community Trust Board is fused. Any action marginalising community authority, bypassing the board, or obstructing quadrants (especially Community Sovereignty or Direct Rent Flow) triggers a Mandatory 10-Day Resolution Window. This lets the community identify overreach and gives the offending office time to retract or fix. If unresolved by Day 10, Automatic Protective Dissolution of the Trust charter follows.
-* State Liability for Stagnation: Dissolution from documented governor/admin overreach or "Institutional Bullying" categorised as "State-Induced Market Failure."
+* Indivisible Governance: The Community Trust Board is fused. Any action marginalising State authority, bypassing the board, or obstructing quadrants (especially State Sovereignty or Direct Rent Flow) triggers a Mandatory 10-Day Resolution Window. This lets the boards identify overreach and gives the offending office time to retract or fix. If unresolved by Day 10, Automatic Protective Dissolution of the Trust charter follows.
+* State Liability for Stagnation: Dissolution from documented admin overreach or "Institutional Bullying" categorised as "State-Induced Market Failure."
 * Liability Cascade: Offending office held liable for third-party damages, breach claims, and compensation for interrupted perpetual lease rights.
-* Audit-Exemption: Point-of-Origin Verification—distributions fixed/visible to board. No audits needed; interference with 1% fee or 80% community rent prohibited.
+* Audit-Exemption: Point-of-Origin Verification—distributions fixed/visible to board. No audits needed; interference with 1% fee or 50% state royalty or 30% community rent or 20% recursive asset reinvestment strictly prohibited.
 
 **III. CRISIS CLAUSE**
 
-A. Sovereign Contingency  
+A. **Sovereign Contingency**   
 Government may petition board for temporary use in war/crisis. Land stays Trust-owned as "Priority Temporary Sub-Lessee." Reversion automatic 30 days post-crisis.
 
-B. Aggressor Liability  
+B. **Aggressor Liability**  
 Damage from external threats categorised as Sovereign Debt. Treaties must include Reparations Escrow for hub restoration.
 
-C. Tactical Indigestibility  
+C. **Tactical Indigestibility**  
 Hub exports (solar/data) low-value for seizure. Occupation triggers "Aggressor Liability" debt—makes it fiscal loss.
 
 **IV. THE LEGAL IMPERATIVE**
@@ -282,11 +280,11 @@ Hub exports (solar/data) low-value for seizure. Occupation triggers "Aggressor L
 
 **V. THE MECHANISM: Structural Integrity and Asset Optimisation**
 
-A. Asset Source and Management (The 10% Preservation Limit)  
-* Statutory Cap: Governors authorise licensing of idle parcels; total not exceed 10% of all state-managed land.  
-* 90% Preservation Guarantee: 90% stays for public/agriculture/conservation—unaffected by hubs.  
+A. Asset Source and Management (The 50M Preservation Limit)  
+* Statutory Cap: Governors authorise licensing of idle parcels; total not to exceed 50M Hectares of all state-managed land.
+* Preservation Guarantee: All currently utilized land stays for public/agriculture/conservation—unaffected by hubs.  
 * Tier-1 Criteria: Select for revenue (solar, data, logistics)—priority "dead capital" near utilities, max 4,000 hectares.  
-* Community Veto Seniority: No parcel licensed without written community consent.
+* State Veto Seniority: No parcel licensed without written governor's consent.
 
 **B. Verification Assurance (Privately Funded)**  
 
@@ -299,7 +297,7 @@ Preliminary Thresholds for Phase 1 Beneficiaries
 
 **A. Community Opt-In (Local Control)**
 
-Alliance only on formal written consent of community—upholds local authority.
+Alliance only on formal written consent of state—upholds local authority.
 
 **B. Individual Opt-In (Non-Coercive)**  
 
@@ -309,8 +307,8 @@ Participation voluntary—shields from overreach claims.
 
 NUPA-NG aligns governors, communities, youth, and anti-corruption voices.  
 
-* For Governors: Unlocks idle land without liability, 50% of gross rent.
-* For Communities: Direct 30% rent, veto power.  
+* For Governors: Unlocks idle land without liability, 50% of gross rent. veto power.
+* For Communities: Direct 30% rent for education, hospitals, modern infrastructure.  
 * For Economy: Debt relief, jobs firewall, no taxes.
 
 Urge immediate review—private engine for real change. National Unity and Prosperity Act – Nigerian Adaptive Framework  
