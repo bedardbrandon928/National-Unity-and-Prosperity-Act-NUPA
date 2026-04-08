@@ -4,7 +4,7 @@
 
 *   **Weighted Authority:** Every Community Land Trust (CLT) is governed by a Variable Quad-Partite Vetting (**VQPV-NG**) Board.  
 *   **The Sovereign Seat:** The relevant Traditional Council or Community Board of Trustees holds a permanent, non-expiring seat on this board.  
-*   **Mandatory Consent:** No commercial development or 99-year ground lease may be executed without the express, written consent of the Community Representative.  
+*   **Mandatory Consent:** No commercial development or 99-year ground lease may be executed without the express, written consent of the State Governor.  
 *   **The Anti-Leakage Guardrail:** Any state or federal administrative action that attempts to marginalize Community authority or bypass the VQPV-NG board triggers a Mandatory 10-Day Resolution Window. If the breach (such as a "Policy Somersault" or attempted fund diversion) remains unresolved at the conclusion of Day 10, it triggers an **Automatic Protective Dissolution** of the CLT charter, effectively freezing all corporate tax payments to the government until local sovereignty is restored.  
 
 **II. Asset Economic Structure: The 50/30/20 Sovereign Adaptive Waterfall**
@@ -12,7 +12,7 @@
 This revenue is derived from the 99-year Ground Leases and Annual Ground Rent paid by global corporate tenants.  
 
 *   **50% Sovereign Royalty (State Government):** Paid directly to the State Treasury as a licensing fee for the use of land under the Land Use Act of 1978. This turns the State Governor into a vested protector of the hub, ensuring security and political stability to protect their primary non-oil revenue stream.  
-*   **30% Community Trust (Host Community):** A direct, unrestricted payment to the local CLT for communal dividends, local healthcare, and education. This ensures the "Wealth of the Soil" delivers real growth compared to the current ₦0.00 baseline.  
+*   **30% Community Trust (Host Community):** A direct, unrestricted payment to the local CLT for communal dividends, local healthcare, and education endowments. This ensures the "Wealth of the Soil" delivers real growth compared to the current ₦0.00 baseline.  
 *   **20% Recursive Reinvestment (The Hardware Fund):** Hard-coded funding for on-site infrastructure maintenance (Tier-4 power, roads, fiber optics). This fund also provides the capital for materials, satellite internet, and technology for the **"Knowledge Mastery"** modules, ensuring youth vocational training is self-funded at ₦0 cost to the community.  
 
 **III. Legal Protections: The Vested Licensing Protocol (VLP)**
