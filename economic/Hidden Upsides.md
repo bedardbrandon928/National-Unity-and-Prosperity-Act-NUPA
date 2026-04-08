@@ -14,7 +14,7 @@ The primary mechanisms of **NUPA-NG**—discharging the ₦153T+ national debt a
 
 ### 2. THE DEMOGRAPHIC RENAISSANCE (FAMILY & SOCIAL REVIVAL)
 
-* **Secondary Effect (Financial Fertility):** The **80% Community Yield** provides a perpetual, asset-backed income floor. This removes the "poverty calculus" from family planning. Dividends scale with the family, ensuring basics (housing/nutrition) are covered.
+* **Secondary Effect (Financial Fertility):** The **30% Community Yield** provides a perpetual, asset-backed income floor. This removes the "poverty calculus" from family planning. Dividends scale with the family, ensuring basics (housing/nutrition) are covered.
 * **Tertiary Effect (Social Cohesion):** As economic desperation vanishes, the primary driver of regional and ethnic tension is deleted. Stable incomes reduce the financial stress that leads to marital breakdown and youth radicalization.
 * **Impact Projection:** A **30% reduction in domestic instability** and a stabilization of the middle-class birth rate, ensuring a vibrant consumer market for the next century.
 
@@ -23,7 +23,7 @@ The primary mechanisms of **NUPA-NG**—discharging the ₦153T+ national debt a
 ### 3. THE END OF "FEDERAL LEAKAGE" (POLITICAL REFORM)
 
 * **Secondary Effect (Revenue Independence):** The **"Volume-Tax Surge"** (VAT, Corporate, Payroll) floods the Federal and State treasuries from previously "Dead Capital" land. This reduces the government's reliance on oil rents.
-* **Tertiary Effect (Governance Accountability):** With fiscal abundance, the "politics of scarcity" dies. Communities demand higher standards of service. Corruption indices drop as the **80/20 Waterfall** is hard-coded and bypasses traditional "bottlenecks."
+* **Tertiary Effect (Governance Accountability):** With fiscal abundance, the "politics of scarcity" dies. Communities demand higher standards of service. Corruption indices drop as the **50/30/20 Waterfall** is hard-coded and bypasses traditional "bottlenecks."
 * **Impact Projection:** A **20-30% improvement in Transparency International rankings** as automated payments remove human "gatekeepers."
 
 ---
