@@ -36,6 +36,6 @@ This revenue is generated from seven specific, taxable events that are hard-code
 
 **The Architect’s Strategic Note:**  
 
-In the US version, the Treasury collects roughly 42% of the gross system value through various taxes. In Nigeria, due to the 80/20 Waterfall staying at the community level, the Federal Government collects its "Surge" primarily through the Volume of Activity.  
+In the US version, the Treasury collects roughly 42% of the gross system value through various taxes. In Nigeria, due to the 50/30/20 Waterfall staying at the community level, the Federal Government collects its "Surge" primarily through the Volume of Activity.  
 
 The Government goes from receiving ₦0.00 from idle land to receiving ₦147 Trillion in cumulative taxes. They get the Liquidity to kill the debt, while the communities keep the Sovereignty of the rent.
