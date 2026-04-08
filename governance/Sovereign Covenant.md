@@ -17,7 +17,7 @@ This revenue is derived from the 99-year Ground Leases and Annual Ground Rent pa
 
 **III. Legal Protections: The Vested Licensing Protocol (VLP)**
 
-*   **Irrevocable Finality:** The licensing of underutilized land via the Land Use Act of 1978 operates as an irrevocable license to utilize the asset for private industrial development to permanently discharge the **₦153T+ national debt** and historical infrastructure deficits.  
+*   **Irrevocable Finality:** The licensing of underutilized land via the Land Use Act of 1978 operates as an irrevocable license to utilize the asset for private industrial development to permanently discharge the **₦180T+ national debt** and historical infrastructure deficits.  
 *   **The Statutory Shield:** Once licensed under the NUPA-NG Protocol, the asset and its economic interests are categorized as **Vested Property Rights**. Under Nigerian law, these rights are protected from arbitrary revocation.  
 *   **Liability Allocation:** Any attempt by a State Governor or Federal Ministry to reverse this licensing or "recapture" the non-federal yield (the 50% State or 30% Community shares) is legally categorized as a **"State-Induced Market Failure."** This makes the offending administrative office solely liable for **"Just Compensation"**—including the full projected value of 99 years of ground rent and resulting commercial damages.  
 
