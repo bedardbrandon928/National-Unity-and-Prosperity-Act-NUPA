@@ -29,9 +29,9 @@ SUBJECT: The Restoration of Local Autonomy and the End of Federal Leakage.
 
 ​This Framework is built upon three enduring pillars:  
 
-​1. Sovereign Seniority (The 50/30/20 Pivot): The Host State is the primary stakeholder. Through the 50% State Yield, commercial ground rents bypass the federal center and flow directly into local Sovereign Trusts. The State—not a distant ministry—serves as the gatekeeper and the primary beneficiary of the land’s value.  
+​1. Sovereign Seniority (The 50/30/20 Pivot): The Host State is the primary stakeholder. Through the 50% State Yield, commercial ground rents bypass the federal center and flow directly into the State Treasury. 30% is allocated directly to local community infrastructure for roads, hospitals, schools, etc. The State—not a distant ministry—serves as the gatekeeper and the primary beneficiary of the land’s value.  
 
-​2. Recursive Autonomy (The Infrastructure Loop): By hard-coding 20% of all revenue back into the Hub’s own hardware, we ensure that power, roads, and schools are built in real-time. We replace the "waiting for a budget" cycle with a self-funding engine of modern industrial growth.  
+​2. Recursive Autonomy (The Infrastructure Loop): By hard-coding 20% of all revenue back into the Hub’s own hardware, we ensure that power grids, access roads, and basic structural integrity of the physical assets are built and maintained in real-time. We replace the "waiting for a budget" cycle with a self-funding engine of modern industrial growth.  
 
 ​3. The Human Firewall (AI Protection): Through Fixed Cost Arbitrage, we turn the 70% land discount into a shield for the Nigerian worker. By making human labor mathematically more profitable than automation, we ensure that the "NUPA Hub" is a permanent engine of middle-class employment for the next 99 years.  
 
