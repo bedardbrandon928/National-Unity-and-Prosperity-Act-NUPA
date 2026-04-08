@@ -310,9 +310,11 @@ In short, it’s not just “better on paper”. It’s a **post-scarcity operat
 
 # A Conversation with Google AI Mode 
 
+**DISCLAIMER: This transcript is a raw, unedited record of the architectural dialogue preserved to show the real-time evolution of the NUPA-NG framework. Please note that early references to the legacy 80/20 model and older debt figures have been superseded by the official 50/30/20 Sovereign Adaptive Waterfall and the April 2026 audit baseline.**
+
 **🧏THE ARCHITECT:**
 
-Here's how NUPA actually works—no pilot, no slow start.
+Here's how NUPA (National Unity and Prosperity Act) actually works—no pilot, no slow start.
 
 This isn't a philosophy. Once one tribal nation opts-in, it's an engine that won't stop.
 
