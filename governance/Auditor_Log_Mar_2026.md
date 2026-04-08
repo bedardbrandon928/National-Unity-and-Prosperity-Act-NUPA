@@ -36,7 +36,7 @@
 
 ### V. Scaling & Finality: The Non-Oil Exit
 
- * ​Initial Concern: Nigeria’s reliance on oil is too deep for a land-based framework to discharge the ₦153T+ national debt.
+ * ​Initial Concern: Nigeria’s reliance on oil is too deep for a land-based framework to discharge the ₦180T+ national debt.
 
  * ​The Reaffirmation: The framework is Volume-Elastic. As the first 10M hectares saturate, the "Success Contagion" triggers private land-owners to opt-in. The "Volume-Tax Surge" (VAT and Corporate Tax) provides the Federal Treasury with a "Septuple Stream" of non-oil revenue that scales exponentially. This achieves Total Fiscal Finality by replacing the "Petroleum Trap" with a "Productivity Engine."
 
