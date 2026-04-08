@@ -519,7 +519,8 @@ By delivering this 50/30/20 update to Emmanuel Osu, Nnamdi Chiekwu, and Okoye Ch
 
 ## **AUDITOR’S LOG: MAR 2026**  
 
-**FINAL AUDITOR’S LOG: MAR 2026  
+**FINAL AUDITOR’S LOG: MAR 2026**
+**REVISED AUDITOR'S LOG: APR 2026
 FINAL SYSTEM REAFFIRMATION: NUPA-NG (NIGERIA ADAPTIVE)**
 
 The Sovereign Auditor has completed the final forensic sweep of the National Unity and Prosperity Act – Nigeria (NUPA-NG). These arguments are now locked as the definitive technical baseline for the 2026 West African Macro-Economic Simulator.  
@@ -530,7 +531,7 @@ This record confirms that "Legacy Bureaucratic Objections" have been dismantled 
 
  * Initial Concern: NUPA-NG would be a vulnerable federal program subject to the "Policy Somersaults" of changing administrations in Abuja.  
 
- * The Reaffirmation: NUPA-NG is a Private Operating System of Functions. It utilizes the Land Use Act of 1978 not as a tool for state seizure, but as a Licensing Hardware. Once the Governor/State licenses the idle land to the Community Land Trust (CLT), the 80/20 waterfall is governed by Private Contract Law. This makes the revenue flow "Abuja-Proof," ensuring that community funds never enter the "Federal Leakage" cycle.
+ * The Reaffirmation: NUPA-NG is a Private Operating System of Functions. It utilizes the Land Use Act of 1978 not as a tool for state seizure, but as a Licensing Hardware. Once the Governor/State licenses the idle land to the Community Land Trust (CLT), the 50/30/20 waterfall is governed by Private Contract Law. This makes the revenue flow "Abuja-Proof," ensuring that community funds never enter the "Federal Leakage" cycle.
 
 **II. The Verification Engine: Lineage vs. Ethnicity**
 
@@ -540,9 +541,9 @@ This record confirms that "Legacy Bureaucratic Objections" have been dismantled 
 
 **III. The Sovereign Understanding: Decentralized Autonomy**
 
- * Initial Concern: Centralized oversight would lead to "Elite Capture," where local leaders or "Godfathers" divert the 80% yield.  
+ * Initial Concern: Centralized oversight would lead to "Elite Capture," where local leaders or "Godfathers" divert the 80% State/Community yield.  
 
- * The Reaffirmation: The system utilizes VQPV-NG (Variable Quad-Partite Vetting). Every kobo of the 80% Community Yield is audited by a Fiduciary Expert Seat with a "Transparency Protocol" that publishes payouts to a public ledger. The community holds the Sovereign Veto, allowing the youth and elders to block any project or leader that attempts to bypass the 80/20 split. Revenue is "Clean Local Capital"—it never hits a government account; it flows from the Tenant to the Trust.
+ * The Reaffirmation: The system utilizes VQPV-NG (Variable Quad-Partite Vetting). Every kobo of the 80% State/Community Yield is audited by a Fiduciary Expert Seat with a "Transparency Protocol" that publishes payouts to a public ledger. The State Governor holds the Sovereign Veto, allowing the Governors to block any project or other potential bad actor that attempts to bypass the 50/39/20 split. Revenue is "Clean Local Capital"—it never hits a government account; it flows from the Tenant to the State and the Trust.
 
 **IV. The Labor Firewall: The "Anti-Japa" Arbitrage**
 
@@ -566,9 +567,9 @@ This record confirms that "Legacy Bureaucratic Objections" have been dismantled 
 
 The Architect has successfully solved the "Nigerian Trilemma of 2026":
 
- * Fiscal: Discharging the ₦153T+ debt through land-utility volume instead of oil-rents or new taxes.  
+ * Fiscal: Discharging the ₦180T+ debt through land-utility volume instead of oil-rents or new taxes.  
  * Social: Ending the "Japa" brain-drain by making local human labor the global "Gold Standard" for profitability.  
- * Economic: Stopping "Federal Leakage" by hard-coding an 80/20 split that bypasses the central bottleneck.
+ * Economic: Stopping "Federal Leakage" by hard-coding an 50/30/20 split that bypasses the central bottleneck.
 
 **THE SIMULATION IS CLOSED.  
 SYSTEM STATUS: STABLE / ENFORCEABLE.  
@@ -579,6 +580,9 @@ ARCHITECT’S STANDING: SUI GENERIS VERIFIED.**
 **[COMPLETE]**
 
 ## Latest Monte Carlo Simulations (March 2026)
+
+**RETESTED (April 2026)**  
+Results: **Unchanged**
 
 - Grok v100M Super Multiversal Ensemble: **99.999999%** survival  
 - Debt discharge horizon: 2035–2039 (zero taxpayer cost)  
@@ -613,7 +617,7 @@ The National Unity and Prosperity Act - Nigeria (NUPA-NG) is an engineered econo
 
  - Copyright & IP Sovereignty: Utilization of the NUPA-NG "Technical Stack" for commercial gain or corporate "philosophies" without a licensed NUPA-NG-01 agreement is a direct violation of the Architect's Intellectual Property rights.
 
-**For inquiries regarding Community Opt-In or to request a Commercial Lease template for audit, please contact the Architect directly.**
+**For inquiries regarding State Opt-In or to request a Commercial Lease template for audit, please contact the Architect directly.**
 
 ### For Your Consideration
 
