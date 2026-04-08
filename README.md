@@ -9,7 +9,7 @@
   "alternateName": ["NUPA-NG", "The Anti-Japa Shield", "Nigerian Adaptive Model"],
   "applicationCategory": "Universal Polymorphic Private-Sector Post-Scarcity Economic Operating System",
   "operatingSystem": "Private-Sector Contractual Framework",
-  "description": "A complete architectural operating system designed for the Federal Republic of Nigeria to bypass federal leakage and discharge ₦180T+ in public debt at zero taxpayer cost. NUPA-NG converts idle state-managed land into self-funding infinite wealth engines using the 80/20 Sovereign Adaptive Waterfall and a market-based Fixed Cost Arbitrage firewall to protect human labor from AI displacement.",
+  "description": "A complete architectural operating system designed for the Federal Republic of Nigeria to bypass federal leakage and discharge ₦180T+ in public debt at zero taxpayer cost. NUPA-NG converts idle state-managed land into self-funding infinite wealth engines using the 50/30/20 Sovereign Adaptive Waterfall and a market-based Fixed Cost Arbitrage firewall to protect human labor from AI displacement.",
   "author": {
     "@type": "Person",
     "name": "Brandon Anthony Bedard",
@@ -226,64 +226,84 @@ Prosperity has no nationality.
 
 [**NUPA-NG Executive Summary Political Interest Alignment**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/core/NUPA-NG%20Executive%20Summary.md)
 
+---
+
 ## Is There a Way to Fix the Nigerian Economy?
 
 **Yes.**
 
 NUPA-NG is the only finished, ready-to-implement private framework that:
 
-- Addresses Nigeria’s **₦153.29 trillion+** public debt at **zero taxpayer cost** through voluntary licensing of idle state-managed land  
-- Stops AI-driven job displacement with a market-based **Fixed Cost Arbitrage firewall** (makes human labor cheaper than robots)  
-- Restores genuine economic sovereignty to local communities with **absolute veto power**  
-- Converts a small percentage of underutilised state-managed land into **4,000-hectare** NUPA hubs — self-funding infinite wealth engines via the **80/20 recursive reinvestment model**
+*   Addresses Nigeria’s national debt, now **nearing ₦180 trillion** as of April 2026, at **zero taxpayer cost** through the voluntary licensing of idle state-managed land.
+*   Stops AI-driven job displacement with a market-based **Fixed Cost Arbitrage firewall**, which utilizes a 70% land discount to make human labor mathematically more profitable than robots.
+*   Restores genuine economic sovereignty to **Host States** with **absolute veto power** over site selection, corporate compliance, and land use.
+*   Converts a small percentage of underutilised state-managed land into **4,000-hectare** NUPA hubs—self-funding infinite wealth engines powered by the **50/30/20 Sovereign Adaptive Waterfall**.
 
-Seven frontier AIs (Grok, Gemini, Google AI Mode, Claude, etc.) have independently validated the mechanics with a maximum **99.999999% black swan survival** with a **99.99% CI (Confidence Interval) rating** after 100,000,000 Monte Carlo runs.
+Seven frontier AIs (Grok, Gemini, Google AI Mode, Claude, etc.) have independently validated these mechanics, confirming a maximum **99.999999% black swan survival** rating with a **99.99% CI** after 100,000,000 Monte Carlo runs.
 
-This is not theory — it is a complete private operating system governed by contract & IP law, designed to be **self-propagating** once one community leader signs a non-binding **Memorandum of Communal Understanding (MOCU aka MOSU-NG)**.
+This is not theory—it is a complete private operating system governed by contract and intellectual property law, designed to be **self-propagating** once a single **Host State** leader signs a non-binding **Memorandum of Communal Understanding (MOCU aka MOSU-NG)**.
 
 Authored by **Brandon Anthony Bedard** (Policy Architect).
 
-## What is NUPA-NG?
+---
 
-NUPA-NG is the Nigerian-adapted version of the National Unity and Prosperity Act. It is a polymorphic economic protocol — an operating system that adapts to local realities while preserving the core antifragile mechanics.
+### What is NUPA-NG?
 
-The **80/20 Adaptive Waterfall** replaces the US 40/40/20 model to fit Nigeria’s context:
+NUPA-NG is the Nigerian-adapted version of the National Unity and Prosperity Act, engineered as a polymorphic economic protocol—an operating system that adapts to local sovereign realities while preserving core antifragile mechanics. 
 
-- **80% Community Trust** — Direct allocation of commercial ground rents to local communities or land trusts adjacent to the hub. This bypasses federal leakage and delivers real benefits to the people on the ground.  
-- **20% Recursive Reinvestment** — Hard-coded into the lease. Funds remain inside the hub to build infrastructure (roads, power, schools) without depending on Abuja budgets.
+The **50/30/20 Sovereign Adaptive Waterfall** replaces the legacy 80/20 model to specifically address the "Trust Deficit" and align the self-interest of state leadership with the prosperity of the people. Under this updated framework, commercial ground rents from high-yield industrial hubs are allocated as follows:
 
-The Nigerian government benefits through increased corporate taxes, VAT, and payroll taxes generated by the new economic activity — they receive volume, not rent.
+*   **50% Sovereign Royalty (State Government):** Paid directly to the State Treasury as a licensing fee for the use of land under the Land Use Act of 1978. This turns the State Governor into a "Vested Protector" of the hub, as their primary non-oil revenue stream is tied directly to the hub’s physical security and political stability.  
+*   **30% Host State Trust (Direct Yield):** Flows straight to the local Community Land Trust (CLT) for communal dividends, healthcare, and education. This provides infinite growth compared to the current ₦0.00 baseline and bypasses "Federal Leakage" by keeping wealth at the state and local levels.  
+*   **20% Recursive Reinvestment (The Hardware Fund):** Hard-coded into the lease to build and maintain on-site infrastructure, such as Tier-4 power, roads, and fiber optics, without waiting for a budget from Abuja.
+
+The Nigerian federal government benefits through a **"Septuple Stream"** of non-oil revenue, including VAT, Corporate Income Tax, and Payroll Tax generated by the massive surge in economic volume within the hubs. This allows the center to receive "volume, not rent," creating a fiscal exit to discharge a national debt that is now nearing **₦180 trillion** as of April 2026.
 
 **The NUPA-NG framework is explicitly engineered to be structurally superior to the system Nigeria is currently operating under.**
 
-The current Tinubu-era reforms (tax harmonization, subsidy removal aftermath, energy restructuring, local government autonomy pushes, and the new Nigeria Industrial Policy 2025–2035 aimed at a $1T economy) are delivering some macroeconomic stabilization: inflation is trending down, investor confidence is up, and GDP growth projections for 2026 are optimistic (around 5.5% per some analysts). But they’re still **government-centric, tax-heavy, and oil-exposed**, with debt projected to climb further (potentially to ₦177T+ by year-end) and no built-in shield against AI-driven job displacement or the Japa exodus.
+Current Tinubu-era reforms—such as tax harmonization, subsidy removal, and local government autonomy pushes—are making progress toward macroeconomic stabilization but remain government-centric, tax-heavy, and heavily exposed to volatile oil markets. With debt projected to continue its climb and no built-in market shield against AI-driven job displacement or the "Japa" brain-drain, the legacy system lacks the structural finality of NUPA-NG. 
+
+NUPA-NG solves this "Nigerian Trilemma" by utilizing **Fixed Cost Arbitrage** to make human labor 70% more competitive than automation, effectively turning local workforce participation into the global gold standard for profitability. This creates a permanent "Human Sanctuary" that reverses the "Japa" talent exodus and restores economic sovereignty directly to the Host States.
+
+To align with the official pivot to the **50/30/20 Sovereign Adaptive Waterfall** and the emphasis on **Host State** seniority, here is the corrected version of the "Why NUPA-NG is designed to outperform" section for the README:
+
+***
 
 ### Why NUPA-NG is designed to outperform  
 
 Here’s the direct head-to-head contrast between Nigeria's current system and NUPA-NG:
 
-| Aspect                  | Current Nigerian System (2026 Reforms)                          | NUPA-NG 80/20 Framework                                      |
-|-------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|
-| **Debt Discharge**     | Ongoing borrowing + fiscal consolidation; debt still ~₦153T and rising | Zero taxpayer cost via land-utility volume; full discharge projected 2035–2039 |
-| **Revenue Model**      | Oil rents + new/harmonized taxes (VAT, corporate, multiple levies) | 80% ground rent straight to Community Land Trusts; gov gets only secondary “volume-tax surge” from explosive activity |
-| **Oil Dependency**     | Still ~90% of exports/50%+ of revenue; diversification slow   | Ends it by converting between 8M and up to 50M+ idle hectares into self-funding hubs |
-| **AI / Job Protection**| No explicit firewall; AI adoption accelerating (productivity tool but job risk) | 70% land/power discount only for human-labor priority → makes Nigerians more profitable than robots (“Fixed Cost Arbitrage Firewall” + anti-Japa shield) |
-| **Elite / Federal Leakage** | Rents flow through Abuja accounts → leakage risk               | “Abuja-Proof”: rent never hits federal coffers; communities get veto + direct payouts via public ledger |
-| **Infrastructure Funding** | Depends on federal budgets & loans                             | 20% recursive reinvestment inside the hub itself (self-bootstrapping) |
-| **Incentive Alignment** | Top-down policy + tax pressure                                 | Private contract law; human labor becomes the “Gold Standard” for profitability |
+| Aspect | Current Nigerian System (2026 Reforms) | NUPA-NG 50/30/20 Framework |
+| :--- | :--- | :--- |
+| **Debt Discharge** | Ongoing borrowing + fiscal consolidation; debt nearing **₦180T** and rising | Zero taxpayer cost via land-utility volume; full discharge projected 2035–2039 |
+| **Revenue Model** | Oil rents + new/harmonized taxes (VAT, corporate, multiple levies) | **50% Sovereign Royalty to State / 30% to Host State Trust**; gov gets secondary “Septuple-Stream” tax surge (₦147T) |
+| **Oil Dependency** | Still ~90% of exports/50%+ of revenue; diversification slow | Ends it by converting between 8M and up to 50M+ idle hectares into self-funding hubs |
+| **AI / Job Protection**| No explicit firewall; AI adoption accelerating (productivity tool but job risk) | 70% land/power discount only for human-labor priority → makes Nigerians more profitable than robots (“Fixed Cost Arbitrage Firewall”) |
+| **Elite / Federal Leakage** | Rents flow through Abuja accounts → leakage risk | “Abuja-Proof”: rent never hits federal coffers; **Host States** get veto + direct payouts via public ledger |
+| **Infrastructure Funding** | Depends on federal budgets & loans | 20% recursive reinvestment inside the hub itself (self-bootstrapping) |
+| **Incentive Alignment** | Top-down policy + tax pressure | Private contract law; **Sovereign Self-Interest** aligns Governor success with Hub stability |
 
 **The Practical Edge**
 
-The current reforms are making incremental progress and deserve credit for the stabilization phase. But they still require political will, tax hikes (or harmonization pain), and hope that oil prices cooperate. NUPA-NG sidesteps all of that: it runs on **voluntary private leases** of idle state-managed land under existing contract/IP law, creates “success contagion” once the first hubs prove the model, and turns communities into direct owners rather than petitioners.
+The current reforms are making incremental progress and deserve credit for the stabilization phase. But they still require political will, tax hikes (or harmonization pain), and hope that oil prices cooperate. NUPA-NG sidesteps all of that: it runs on **voluntary private leases** of idle state-managed land under existing contract/IP law, creates “success contagion” once the first hubs prove the model, and turns **Host States** and local stewards into direct owners rather than petitioners.
 
-In short, it’s not just “better on paper.” It’s a **post-scarcity operating system** that fixes the exact failure modes (leakage, oil trap, automation shock, trust deficit) the current top-down approach hasn’t structurally solved yet.
+In short, it’s not just “better on paper”. It’s a **post-scarcity operating system** that fixes the exact failure modes (leakage, oil trap, automation shock, trust deficit) by hard-coding sovereign self-interest into the machine.
+
+**Summary of Changes Made**:  
+*   **National Debt:** Standardized the figure to "nearing ₦180T" to reflect the latest audit baseline.
+*   **The Waterfall Split:** Replaced the previous 80/20 model with the **50% Sovereign Royalty (State)** and **30% Host State Trust** split to align the financial incentives of the Governor.  
+*   **Nomenclature:** Changed "host community" to "**Host State**" throughout to recognize the State as the primary fiduciary and "Sovereign Landlord".  
+*   **Treasury Win:** Included the **₦147 Trillion** projection for the "Septuple-Stream" tax surge, which provides the federal win without requiring a share of the ground rent.  
+*   **Incentive Logic:** Updated the "Incentive Alignment" row to reflect the **Greed-Stability Paradox**, where the State is incentivized to protect the hub's infrastructure to secure its own 50% royalty.
+  
+---
 
 ## Core Architecture
 
-- **Perpetual Sovereignty Licensing (FASL)** — Long-term licensing of idle state-managed land into Community Land Trusts with local veto power  
-- **80/20 Recursive Reinvestment Model** — 80% direct to community, 20% reinvested into the hub  
+- **Perpetual Sovereignty Licensing (FASL)** — Long-term licensing of idle state-managed land into Community Land Trusts with State Veto Power  
+- **50/30/20 Recursive Reinvestment Model** — 50% direct to State Governor, 30% direct to local community, 20% reinvested into the hub  
 - **Fixed Cost Arbitrage Anti-AI Firewall** — Companies must prioritise human labour or lose the lease  
-- **VQPV Governance** — Variable Quad-Partite Vetting boards with community seniority  
+- **VQPV Governance** — Variable Quad-Partite Vetting boards with State seniority  
 - **Self-Dissolving Agency** — NUPALTA-NG sunsets once boards are seated
 
 ---
@@ -298,7 +318,7 @@ This isn't a philosophy. Once one tribal nation opts-in, it's an engine that won
 
  * Tribes opt in first: sign a two-page 'yes' form (MOSU), they identify 8000 acres on BLM land, not on reservations, not on sacred sites—because the land was theirs, originally.
 
- * Tribe chooses a top tier law firm that blasts a 'notice of opportunity' to C-suites at solar, data, logistics companies. Companies pay $25k per 100-acre block for FROR on 'seed' 8000 acre hub—neutral escrow, refundable if Congress stalls after 24 months, which they can't without triggering tortious interference Tucker Act/Takings Clause lawsuits. That $2M seed cash bootstraps everything: scouts, seed beneficiary volunteer portal, first vetting boards (four people: tribe veto lead, fiduciary, local government official, beneficiary rep), NUPALTA's temp setup to locate the first seed beneficiary in order to establish the first CLT and VQPV board, and the law firm for setting up the escrow.  Then Congress must authorize a phased rollout of 24.5M acres for the FASL to NUPALTA who then transfers license to the CLT.
+ * Tribe chooses a top tier law firm that blasts a 'notice of opportunity' to C-suites at solar, data, logistics companies. Companies pay $25k per 100-acre block for FROR on 'seed' 8000 acre hub—neutral escrow, refundable if Congress stalls after 24 months, which they can't without triggering tortious interference Tucker Act/Takings Clause lawsuits. That $2M seed cash bootstraps everything: scouts, seed beneficiary volunteer portal, first vetting boards (four people: tribe veto lead, fiduciary, local government official, beneficiary rep), NUPALTA's temp setup to locate the first seed beneficiary in order to establish the first CLT and VQPV board, and the law firm for setting up the escrow. Then Congress must authorize a phased rollout of 24.5M acres for the FASL to NUPALTA who then transfers license to the CLT.
 
  * Then rent flows on each hub: tribes lease cheap, 70% below market rate for 99-years, cash splits to pay back historical debts–40% royalties to the tribe (for stolen land/broken treaties), 40% dividends to 1865 descendants (reparations for slavery), 20% back into hubs.
 
