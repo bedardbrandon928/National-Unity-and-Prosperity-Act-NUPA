@@ -1,6 +1,7 @@
 # National Unity and Prosperity Act – Nigeria (NUPA-NG) Executive Summary 
 
-**March 30, 2026**
+Original Draft: **March 30, 2026**
+Revised: **April 7, 2026**
 
 **Author: Brandon Anthony Bedard, Policy Architect**
 
