@@ -57,7 +57,7 @@ Acknowledges that **[NAME OF STATE]** holds ancestral and customary seniority ov
 
 **6.1 The Atomic Unit Mandate:** Each 4,000-hectare hub shall be established as a Standalone Community Land Trust (CLT). The fiduciary administration of each hub remains legally and operationally segregated to prevent "Centralized Failure."
 
-**6.2 Localized Oversight:** Each CLT shall be responsible for the dividend management of a defined set of verified households within the Host Community. This ensures that the Fiduciary Expert and the Community Representative can provide transparent, face-to-face oversight.
+**6.2 Localized Oversight:** Each CLT shall be responsible for the dividend management of a defined set of verified households within the Host State. This ensures that the Fiduciary Expert and the State Representative can provide transparent, face-to-face oversight.
 
 **6.3 The Anti-Monopoly Footprint:** No single corporate entity (Multinational or Indigenous) shall be permitted to license more than 4,000 contiguous hectares within a single hub. This ensures a diversified corporate ecosystem and protects the Community from "Godfather" leverage.
 
