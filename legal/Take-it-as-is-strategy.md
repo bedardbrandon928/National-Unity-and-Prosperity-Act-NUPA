@@ -12,12 +12,12 @@ This is the deal. No edits. No delays.
 - Idle state land (10M+ hectares) licensed under Land Use Act.  
 - 99-year ground leases: ₦500k/ha start, 70% below market.  
 - Companies build solar, data centers, warehouses—hire real people.  
-- 80% rent flows **direct** to communities—no Abuja skim.  
-- Communities veto every lease. Zero taxpayer cost.  
+- 50% Sovereign Royalty to State / 30% to Host State/Community Trust—no Abuja skim.  
+- State has veto power over every lease. Zero taxpayer cost.  
 
 **The Math**  
 
-- Debt discharge: ₦153T+ neutralized via new VAT/payroll taxes.  
+- Debt discharge: ₦180T+ neutralized via new VAT/payroll taxes.  
 - Jobs: Millions AI-proof, human-first.  
 - Naira: Stronger exports, non-oil boom.  
 
@@ -26,19 +26,22 @@ This is the deal. No edits. No delays.
 - Credit for jobs explosion—your state looks like the fixer.  
 - No blame for debt—new revenue flows without raising taxes.  
 - Legacy boost: "I licensed the land, communities prospered."  
-- Political shield: Veto power keeps corruption off your back.  
+- Political shield: Veto power keeps corruption off your back.
+- 50% on potentially trillions of Naira from corporate ground rents.
 
 **The Choice**  
 
 Take it as is—license the parcels, seat community boards, watch hubs rise.  
+
 Or leave it—keep land idle, debt climbs, jobs vanish, bandits thrive.  
 
 We walk if you stall. Nigeria collapses without this. Your call.  
 
 **Next Step**  
+
 Sign the Memorandum of Understanding (repo link below). First license triggers escrow, options, revenue.  
 
-Repo: https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG  
+[Memorandum of Communal Understanding](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/governance/MOCU_Community_Opt_In_Template_2026.md)
 
 Contact: Brandon Anthony Bedard
 Signal: +1 928 419 4189
