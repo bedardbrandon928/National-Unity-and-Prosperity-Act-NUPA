@@ -8,7 +8,7 @@
 - [POLICY MEMORANDUM: THE NATIONAL UNITY AND PROSPERITY ACT - NIGERIA (NUPA-NG)](#policy-memorandum-the-national-unity-and-prosperity-act-nupa)
 - [THE TRUE NET ZERO/ZERO TAX FRAMEWORK](#the-true-net-zerozero-tax-framework)
 - [THE POLICY MEMORANDUM: THE NUPA-NG ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
-- [MEMORANDUM OF COMMUNITY UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
+- [MEMORANDUM OF COMMUNAL UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
 - [THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT](#the-white--blue-collar-compliance-audit)
 - [NUPA-NG OPTIONAL CURRICULUM: THE THREE PILLARS](#nupa-master-curriculum-the-three-pillars)
 - [NUPA-NG DISBURSEMENT INSTRUCTION (PHASE 1 & 2 WATERFALL)](#phase-1-disbursement-instruction)
@@ -17,7 +17,7 @@
 
 **National Unity and Prosperity Act – Nigeria**
 
-​TO: The Sovereign People, the Traditional Custodians of the Land, and the Communities of the Federal Republic of Nigeria.  
+​TO: The Sovereign People, the Traditional Custodians of the Land, and the State Governors of the Federal Republic of Nigeria.  
 FROM: The Office of the Architect.  
 SUBJECT: The Restoration of Local Autonomy and the End of Federal Leakage.  
 
@@ -29,7 +29,7 @@ SUBJECT: The Restoration of Local Autonomy and the End of Federal Leakage.
 
 ​This Framework is built upon three enduring pillars:  
 
-​1. Sovereign Seniority (The 80/20 Pivot): The Host Community is the primary stakeholder. Through the 80% Community Yield, commercial ground rents bypass the federal center and flow directly into local Sovereign Trusts. The community—not a distant ministry—serves as the gatekeeper and the primary beneficiary of the land’s value.  
+​1. Sovereign Seniority (The 50/30/20 Pivot): The Host State is the primary stakeholder. Through the 50% State Yield, commercial ground rents bypass the federal center and flow directly into local Sovereign Trusts. The State—not a distant ministry—serves as the gatekeeper and the primary beneficiary of the land’s value.  
 
 ​2. Recursive Autonomy (The Infrastructure Loop): By hard-coding 20% of all revenue back into the Hub’s own hardware, we ensure that power, roads, and schools are built in real-time. We replace the "waiting for a budget" cycle with a self-funding engine of modern industrial growth.  
 
@@ -61,7 +61,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereig
 
  * ​Debt Discharge: While traditional policies deepen the national debt (now exceeding ₦153 Trillion), NUPA-NG is the only framework in Nigerian history that discharges massive public liabilities through the creation of new, non-oil economic volume.
 
- * ​The 80/20 Anti-Leakage Shield: NUPA-NG solves the "Zero-Sum" conflict. By hard-coding 80% of ground rents directly to the Host Community and 20% to Hub Infrastructure, the framework ensures that local wealth stays local.
+ * ​The 50/30/20 Anti-Leakage Shield: NUPA-NG solves the "Zero-Sum" conflict. By hard-coding 50% back to governors for state licensing, 30% of ground rents directly to the Host Community and 20% to Hub Infrastructure, the framework ensures that local wealth stays local.
 
  * ​Labor Protection (The AI Firewall): NUPA-NG provides the only market-based defense against the coming AI displacement of the Nigerian youth. It utilizes Fixed Cost Arbitrage to make human labor 70% more competitive than automation within the hubs.
 
@@ -81,7 +81,7 @@ SUBJECT: The Permanent Discharge of Structural Liabilities and Economic Sovereig
 
 ### I. Declaration of Authorship
 
-This document declares that the National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG), including the 80/20 Recursive Reinvestment Model, Fixed Cost Arbitrage logic, and Community Trust mechanisms, was authored solely by Brandon Anthony Bedard. The technical stack was engineered between November 18, 2025 and December 22, 2025, evolving from the original CLAM model into a polymorphic OS tailored for Nigeria—solving debt leakage, job displacement from AI, and underutilised land under the Land Use Act of 1978.
+This document declares that the National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG), including the 50/30/20 Recursive Reinvestment Model, Fixed Cost Arbitrage logic, and Community Trust mechanisms, was authored solely by Brandon Anthony Bedard. The technical stack was engineered between November 18, 2025 and December 22, 2025, evolving from the original CLAM model into a polymorphic OS tailored for Nigeria—solving debt leakage, job displacement from AI, and underutilised land under the Land Use Act of 1978.
 
 ### II. Record of Formal Service and Public Disclosure
 
@@ -146,7 +146,7 @@ The Limited Veto is therefore not a personal preference but a necessary architec
 The 1% fee exchanges for:  
 - Massive non-oil revenue surge via corporate taxes, VAT, payroll from new hubs.  
 - Fixed Cost Arbitrage firewall preserving human jobs against automation.  
-- Direct 80% rent flow to communities—bypassing federal intermediaries.
+- Direct 50% rent flow to governors and 30% rent flow to communities—bypassing federal intermediaries.
 
 ### V. Finality of Intellectual Property
 
@@ -234,22 +234,22 @@ Licensed land managed by digital/local CLTs under Variable Quad-Partite Vetting 
 
 **4. The Community Sovereignty Mandate (The Community Key)**
 
-Local community acts as high-level authority and holder of the "Community Key".  
+State Governor acts as high-level authority and holder of the "State Governor's Key".  
 - Strategic Veto: Final say on corporate leases—blocks predatory or high-automation deals.  
 - Legacy Oversight: Ensures alignment with 99-year loop.  
 - Zero Burden: No daily admin—focus on governance and 80% direct rent flow.
 
 **5. The Symmetry of Power ("No" vs. "Yes" Protocol)**
 
-- Definite "No" (Community Exit): Absolute right to disengage on bad-faith overreach—triggers protective dissolution.  
+- Definite "No" (State Exit): Absolute right to disengage on bad-faith overreach—triggers protective dissolution.  
 - Conditional "Yes" (Consensus Guardrail): "Yes" for development needs Fiduciary + Local Official concurrence.  
 - Conflict Resolution: Red flags trigger 10-day mediation.  
 - Neutral Tiebreaker: Legacy Admin votes only if action aligns with human labour protection and fiduciary safety.
 
 **B. Agency Charter and Dissolution**
 
-- Pre-Ignition: NUPALTA-NG represented by Architect until Phase 1 funding or licensing starts—then shifts to Tier-1 law firm.  
-- Sunset Provision: Dissolves after all Community Trust boards seated—oversight to locals. One Legacy Admin stays for tie-breaks.
+- Pre-Ignition: NUPALTA-NG represented by nominated Provisional Administrator.  
+- Sunset Provision: Dissolves after all Community Trust boards seated—oversight to locals. One Legacy Administrator stays for tie-breaks.
 
 **C. Gridlock Elimination Mandate**
 
@@ -283,7 +283,7 @@ Hub exports (solar/data) low-value for seizure. Occupation triggers "Aggressor L
 **V. THE MECHANISM: Structural Integrity and Asset Optimisation**
 
 A. Asset Source and Management (The 10% Preservation Limit)  
-* Statutory Cap: Governors authorise licensing of idle parcels; total not exceed 10% of state-managed land.  
+* Statutory Cap: Governors authorise licensing of idle parcels; total not exceed 10% of all state-managed land.  
 * 90% Preservation Guarantee: 90% stays for public/agriculture/conservation—unaffected by hubs.  
 * Tier-1 Criteria: Select for revenue (solar, data, logistics)—priority "dead capital" near utilities, max 4,000 hectares.  
 * Community Veto Seniority: No parcel licensed without written community consent.
@@ -291,7 +291,7 @@ A. Asset Source and Management (The 10% Preservation Limit)
 **B. Verification Assurance (Privately Funded)**  
 
 Preliminary Thresholds for Phase 1 Beneficiaries  
-* Fast-Track: Recent records or community verification for immediate 80% rent unlock.  
+* Fast-Track: Recent records or community verification for immediate rent unlock.  
 * Expert Proofs: Certified docs routed to full review.  
 * No Cost: Private fee/endowment funds all—zero taxpayer draw.
 
@@ -309,22 +309,22 @@ Participation voluntary—shields from overreach claims.
 
 NUPA-NG aligns governors, communities, youth, and anti-corruption voices.  
 
-* For Governors: Unlocks idle land without liability.  
-* For Communities: Direct 80% rent, veto power.  
+* For Governors: Unlocks idle land without liability, 50% of gross rent.
+* For Communities: Direct 30% rent, veto power.  
 * For Economy: Debt relief, jobs firewall, no taxes.
 
 Urge immediate review—private engine for real change. National Unity and Prosperity Act – Nigerian Adaptive Framework  
 
-**Authored and Copyrighted by Brandon Anthony Bedard, March 2026  
+**Authored and Copyrighted by Brandon Anthony Bedard, originally drafted March 2026, revised April 2026  
 © 2026. All rights reserved. Submission requires author credit.**  
 
 # THE TRUE NET ZERO/ZERO TAX FRAMEWORK – NUPA-NG
 
-### I. THE COMMUNITY KEY (The Vital Step)
+### I. THE STATE KEY (The Vital Step)
 
-Requirement: Before any lease or option, a local Community must execute a "Community Opt-In".  
-The Power: Communities hold absolute veto power over specific parcels.  
-The Benefit: Communities receive 80% direct rent flow and a permanent seat on the governing board.
+Requirement: Before any lease or option, a State Governor must execute a "State Opt-In".  
+The Power: Governors hold absolute veto power over resoective parcels.  
+The Benefit: Governors receive 50% direct rent flow and a permanent seat on the governing board.
 
 ### II. THE SPARK (Phase 1: Zero Taxpayer Cost)
 
@@ -338,9 +338,9 @@ Operational Result: Private funds cover initial admin, Digital Submission Portal
 
 Structure: On community agreement, 4-person board assembles.  
 The Seats:  
-1. Community Representative.  
+1. State Representative.  
 2. Seed Beneficiary (Phase 1 Volunteer).  
-3. Local Government Official.  
+3. Local Government/Community Official.  
 4. Fiduciary Expert (Professional).  
 
 Post-Authorisation by Governor.
@@ -349,7 +349,8 @@ Post-Authorisation by Governor.
 
 Revenue from 99-year ground leases + annual rent.  
 - **20% Reinvestment Fund**: Auto-dedicated to Fiduciary, Local Official, and hub maintenance—covers materials, tech, curriculum for "Knowledge" modules (solar, logistics, entrepreneurship). Self-sustaining, ₦0 cost to community.  
-- **80% Community Trust**: Direct flow to local community/land trust—real money in hands, bypassing intermediaries.
+- **30% Community Trust**: Direct flow to local community/land trust—real money in hands, bypassing intermediaries.
+- **50% State Governor**: Direct flow to State Governor as a sovereign royalty for use of their sovereign land.
 
 ### V. THE REVENUE LOOP (Phase 2: Private Sector Secured Funding - Anonymous Sponsorship)
 
@@ -444,62 +445,62 @@ INSTRUMENT: Community Consent & Pre-Authorisation Strategic Alliance
 
 PARTIES:  
 
-THE COMMUNITY: The (hereinafter "The Community").  
+THE STATE: The (hereinafter "The Community").  
 
 THE TRUST AUTHORITY: The NUPA-NG Land Trust Authority (Pre-Chartered Entity), represented by its Provisional Administrator (hereinafter "The Authority").
 
-### ARTICLE I: THE COMMUNITY CONSENT (THE "GREEN LIGHT")
+### ARTICLE I: THE GOVERNOR'S CONSENT (THE "GREEN LIGHT")
 
-**1.1 Formal Opt-In**: Pursuant to the "Community Opt-In Requirement" of the NUPA-NG framework, The Community hereby grants written consent to participate in the Cooperative Alliance.
+**1.1 Formal Opt-In**: Pursuant to the "State Opt-In Requirement" of the NUPA-NG framework, The State hereby grants written consent to participate in the Cooperative Alliance.
 
-**1.2 Authorization to Proceed**: The Community authorises The Architect and NUPALTA-NG to identify, survey, and secure "Option Agreements" with corporate partners for specific idle state-managed parcels under the Land Use Act 1978, no less than but not exceeding 4,000 hectares, for establishing NUPA-NG Community Land Trusts (CLTs).
+**1.2 Authorization to Proceed**: The State authorises NUPALTA-NG to identify, survey, and secure "Option Agreements" with corporate partners for specific idle state-managed parcels under the Land Use Act 1978, no less than but not exceeding 4,000 hectares, for establishing NUPA-NG Community Land Trusts (CLTs).
 
 ### ARTICLE II: THE RESTORATION OF LAND (THE ASSET)
 
 **2.1 The Licensing**: The Parties acknowledge that the core mechanism is voluntary licensing of idle state land by the Governor into the Trust.
 
-**2.2 Perpetual Community Licensing**: The Community supports the Perpetual Licensing Protocol—once license passes from the Governor to the CLT, it shall be privately and irrevocably held, protected against arbitrary revocation under Land Use Act provisions.
+**2.2 Perpetual Community Licensing**: The Community supports the Perpetual Licensing Protocol—once license activates from the Governor to the CLT, it shall be privately and irrevocably held, protected against arbitrary revocation under Land Use Act provisions.
 
-**2.3 No Threat to Existing Holdings**: This applies strictly to external idle parcels licensed to the Trust—does not affect existing community land or customary rights.
+**2.3 No Threat to Existing Holdings**: This applies strictly to external idle parcels licensed to the Trust—does not affect existing sacred ancestral sites or customary rights.
 
 ### ARTICLE III: SHARED GOVERNANCE (Community Trust Board)
 
 **3.1 The Board Mandate**  
-The Community acknowledges CLTs governed by the Community Trust Board (adapted VQPV).
+The State acknowledges CLTs governed by the Community Trust Board (adapted VQPV).
 
 **3.2 The Community Seat**  
-The Community maintains a permanent, distinct, equal voting seat on the board ("Community Sovereignty"), ensuring no land-use decision without community oversight.
+The State maintains a permanent, distinct, equal voting seat on the board ("State Sovereignty"), ensuring no land-use decision without State oversight.
 
 **3.3 Balance of Authority**  
-- Mutual Veto Power: The Community holds ultimate authority to approve/deny leases (Strategic Veto), balanced by fiduciary/regulatory duties of other board members.  
-- Stewardship Accountability: The Community may not overrule documented safety, environmental, or labour-protection "Red Flags" raised by Fiduciary, Local Official, or verified beneficiaries.  
+- Mutual Veto Power: The State holds ultimate authority to approve/deny leases (Strategic Veto), balanced by fiduciary/regulatory duties of other board members.  
+- Stewardship Accountability: The State may not overrule documented safety, environmental, or labour-protection "Red Flags" raised by Fiduciary, Local Community Official, or verified beneficiaries.  
 - System Integrity: Balance keeps hubs bondable and prevents single-party liability.
 
 ### ARTICLE IV: ECONOMIC BENEFITS & REVENUE SHARING
 
-**4.1 Revenue Sharing**: In exchange, The Community receives guaranteed 80% direct flow of commercial lease revenue (e.g., solar, data centres), as defined in the final Charter.
+**4.1 Revenue Sharing**: In exchange, The State receives guaranteed 50% direct flow of commercial lease revenue (e.g., solar, data centres), as defined in the final Charter.
 
 **4.2 Corporate Option Fees**: The Community acknowledges Pre-Ignition Option Fees fund admin startup of NUPALTA-NG and land surveying—zero cost to community.
 
 ### ARTICLE V: EXECUTION
 
-**5.1 Non-Binding on Assets**: This Memorandum does not encumber community assets or funds—uses only licensed idle parcels.
+**5.1 Non-Binding on Assets**: This Memorandum does not encumber State assets or funds—uses only licensed idle parcels.
 
-**5.2 Immediate Effect**: On signature, The Authority may present this to Governors and corporate partners as proof of Alliance, satisfying conditions for Pre-Ignition Options.
+**5.2 Immediate Effect**: On signature, The Authority may present this to federal and corporate partners as proof of Alliance, satisfying conditions for Pre-Ignition Options.
 
 ### ARTICLE VI: DEFENSE AGAINST OVERREACH
 
-**6.1 Community Trigger**: The Community may declare "Breach of Community Trust" if state agents bypass board or interfere with 1% fee/80% rent.  
+**6.1 State Trigger**: The State may declare "Breach of State Trust" if federal agents bypass board or interfere with 1% fee or 50/30/20 rent.  
 
 **6.2 Protective Dissolution**: Declaration triggers Indivisibility Mandate—dissolves local CLT, halts activity.  
 
-**6.3 Accountability**: Financial repercussions of dissolution (lost revenue, litigation) fall exclusively on offending office—shields Community and Architect from liability.
+**6.3 Accountability**: Financial repercussions of dissolution (lost revenue, litigation) fall exclusively on offending office—shields State and Architect from liability.
 
 IN WITNESS WHEREOF, the authorised representatives have signed this Memorandum.
 
 ** **  
 
-Community Leader / Representative
+State Governor / Representative
 
 The ** **
 
@@ -514,9 +515,10 @@ For: NUPA-NG Land Trust Authority (NUPALTA-NG)
 ID: NUPA-NG-AUDIT-001  
 APPLICABILITY: Mandatory for all FORM NUPA-NG-01 Lessees.
 
-### I. THE FINANCIAL BASELINE (FIXED COST ARBITRAGE)
+### I. THE FINANCIAL BASELINE (FIXED COST ARBITRAGE
 
-* Community Rate Verification: Confirm Lessee receives "Community Rate" (70% below-market under Land Use Act licensing).  
+* State Rate Verification: Confirm Lessee receives "State Rate" (70% below-market under Land Use Act licensing).
+
 * Recaptured Capital Audit: Verify savings from cheap land go to human labour stability—not diverted to profit or AI CapEx. Check payroll/VAT records for proof.
 
 ### II. THE "COMPUTATIONAL" THRESHOLD TEST
@@ -538,7 +540,7 @@ APPLICABILITY: Mandatory for all FORM NUPA-NG-01 Lessees.
 # NUPA-NG PROSPERITY ACCELERATOR: OPTIONAL THREE PILLARS
 
 **CRITICALLY: THIS IS VOLUNTARY—NO ONE IS REQUIRED TO PARTICIPATE.**  
-Opt-in for extra rent bonus (up to 20% on your 80% community share). Complete all three? Unlock full bonus. Skip? Still get your base 80%. No pressure.
+Free education regarding NUPA-NG for all citizens of Nigeria.
 
 **Pillar I: Land & Lease Basics**
 
@@ -567,7 +569,7 @@ Level 1 (Land Smart): Finish Pillar I → +5% bonus on your share.
 Level 2 (Hub Power): Finish Pillar II → +10% bonus.  
 Level 3 (Wealth Builder): Finish Pillar III → +5% final, total 20% extra.  
 
-All online, bite-sized modules—do it at your pace. Community board approves any bonus payout.
+All online, bite-sized modules—do it at your pace.
 
 # NUPA-NG DISBURSEMENT INSTRUCTION (PHASE 1 & 2 WATERFALL)
 
@@ -597,16 +599,16 @@ TO THE AGENT: , Master Escrow Agent
 **Current (Pre-Trigger)**:  
 - **40% Admin Bucket** → Facilitator ops (surveys, board support).  
 - **35% Verification & Skills** → Optional community checks, Prosperity Accelerator modules.  
-- **20% Architect/IP Fee** → Direct to you (Brandon Anthony Bedard).  
+- **20% Architect/IP Fee** → Direct to Architect (Brandon Anthony Bedard).  
 - **5% Legal Bucket** → Permanent retainer for firm—defense, compliance.  
 
 **Post-Trigger (Sunset)**: Once all local Community Trust boards seated (certified by notary):  
 - **2% Maintenance** → Ongoing escrow/security.  
 - **3% Legacy Admin** → Single tiebreaker role.  
-- **90% Architect Reversion** → Full operational efficiency dividend to you.  
+- **90% Architect Reversion** → Full operational efficiency dividend to the Architect.  
 - **5% Legal Retainer** → Firm stays "Guardian"—protects hubs forever.  
 
-**Note**: 80% community rent flows **direct**—never touches escrow. No political override; waterfall irrevocable.
+**Note**: 50/30 State and community rent flows **direct**—never touches escrow. No political override; waterfall irrevocable.
 
 **TRIGGER EVENTS**:  
 - **Saturation**: Notarised affidavit: "All active hubs have seated boards".  
