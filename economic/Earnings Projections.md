@@ -12,10 +12,11 @@
 ### 1. Total Gross Revenue (10 Years)  
 \~₦963 trillion  
 
-### 2. Communities (80% Direct Flow)  
+### 2. State/Communities (80% Direct Flow)  
 - Year 1: \~₦4 trillion  
 - Year 10: \~₦206 trillion  
-- **Total 10-Year Payout**: ₦770 trillion  
+- **Total 10-Year Payout**: ₦770 trillion
+  * Projections have been subdivided in the table below.
 
 **Benefits**  
 - Zero taxpayer cost.  
