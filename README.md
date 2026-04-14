@@ -293,6 +293,25 @@ In short, it’s not just “better on paper”. It’s a **post-scarcity operat
   
 ---
 
+### **Adoption Philosophy – Voluntary & Indivisible**
+
+NUPA-NG is offered as a **complete, voluntary, and indivisible** private-sector operating system.
+
+- **Voluntary Opt-In**: No state or governor is required to participate. Activation happens only when a Host State chooses to sign the Memorandum of Communal Understanding (MOCU) using their existing powers under the Land Use Act 1978.
+- **Indivisible Framework**: The system is designed as an integrated package. The 50/30/20 Sovereign Adaptive Waterfall, Fixed Cost Arbitrage (95% human-labor priority), neutral escrow, community veto rights, and 99-year bankable leases all function together. Fundamental changes to these core mechanics will break tenant confidence and cause the economic engine to fail.
+- **Self-Enforcing Stability (The Greed-Stability Paradox)**: The governor receives a direct 50% royalty from ground rent. Any interference that undermines stability (e.g., weakening the 20% reinvestment fund or the human-labor firewall) will cause Tier-1 tenants to lose confidence and exit. When that happens, ground rent evaporates — and with it, the governor’s own 50% revenue stream.
+- **Take It As Is or Leave It**: If a state does not want the framework in its designed form, that is completely fine. We will respectfully take the architecture elsewhere. There are many countries — including several in West Africa and across the Global South — that face similar challenges with idle land, debt, Japa-style youth exodus, and the urgent need for a non-oil economic pathway.
+
+**Prosperity has no nationality.**
+
+My primary driver is to help people by activating trillions of naira in dormant value at zero taxpayer risk. If decision-makers fundamentally misunderstand or fear the enforceability of a ready-made solution, that is not my responsibility. The offer is simple: agree to activate the system as designed, or we move on to willing jurisdictions.
+
+* **Note on Intellectual Property and System Integrity**
+  * NUPA-NG is a polymorphic framework, meaning certain parameters (such as scale, specific ground lease rates, or minor implementation details) can be adapted to local conditions with the Architect’s input.
+However, any attempt to materially alter the core architecture — including the 50/30/20 Sovereign Adaptive Waterfall, Fixed Cost Arbitrage mechanism, neutral escrow, community veto rights, or the overall indivisible structure — without the Architect’s explicit involvement and approval will result in a non-functional framework and constitute a violation of the Architect’s intellectual property rights.
+
+---
+
 ## Core Architecture
 
 - **Perpetual Sovereignty Licensing (FASL)** — Long-term licensing of idle state-managed land into Community Land Trusts with State Veto Power  
