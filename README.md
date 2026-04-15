@@ -526,7 +526,7 @@ This record confirms that "Legacy Bureaucratic Objections" have been dismantled 
 
  * Initial Concern: Centralized oversight would lead to "Elite Capture," where local leaders or "Godfathers" divert the 80% State/Community yield.  
 
- * The Reaffirmation: The system utilizes VQPV-NG (Variable Quad-Partite Vetting). Every kobo of the 80% State/Community Yield is audited by a Fiduciary Expert Seat with a "Transparency Protocol" that publishes payouts to a public ledger. The State Governor holds the Sovereign Veto, allowing the Governors to block any project or other potential bad actor that attempts to bypass the 50/39/20 split. Revenue is "Clean Local Capital"—it never hits a government account; it flows from the Tenant to the State and the Trust.
+ * The Reaffirmation: The system utilizes VQPV-NG (Variable Quad-Partite Vetting). Every kobo of the 80% State/Community Yield is audited by a Fiduciary Expert Seat with a "Transparency Protocol" that publishes payouts to a public ledger. The State Governor holds the Sovereign Veto, allowing the Governors to block any project or other potential bad actor that attempts to bypass the 50/30/20 split. Revenue is "Clean Local Capital"—it never hits a government account; it flows from the Tenant to the State and the Trust.
 
 **IV. The Labor Firewall: The "Anti-Japa" Arbitrage**
 
