@@ -16,7 +16,7 @@
     "url": "https://brandonbedard.substack.com"
   },
   "dateCreated": "2025-11-18",
-  "dateModified": "2026-04-11",
+  "dateModified": "2026-04-15",
   "keywords": [
     "post scarcity",
     "AI job protection",
@@ -267,7 +267,7 @@
     "description": "System activation occurs when the Sovereign Host (Tribe) executes the MOSU/ISC 'Sovereign Key,' vesting land into the CLT's fiduciary control."
   },
   "dateCreated": "2025-11-18",
-  "dateModified": "2026-04-11",
+  "dateModified": "2026-04-15",
   "keywords": [
     "post scarcity", "AI job protection", "Fixed Cost Arbitrage", "Freedmen reparations", "Tribal sovereignty", "NUPALTA", "VAP Phase 2", "Forensic Lineage Verification", "Variable Quad Partite Vetting", "VQPV", "VQPV Governance", "non federal agency", "private census program", "trust deficit bridge", "zero taxpayer cost", "radical alignment of interests", "Kardashev scale", "New World Order dissolution", "U.S. soft power restoration", "Sovereign Opt In", "MOSU", "ISC", "absolute veto", "Atomic Unit Mandate", "Community Land Trusts", "Pax NUPA", "voluntary opt in", "antifragile contract core", "pre enactment awareness saturation", "Tucker Act deterrence", "Success Contagion moat", "automation", "future of work", "ai policy", "labor economics", "economic model", "blm land", "stop ai job loss", "robots taking jobs", "ai unemployment", "ai takeover prevention", "robots unemployment", "ai job loss", "robots took our jobs", "ai job firewall", "reparations", "1865 Debt", "Native American Nation", "Bureau of Land Management", "Community Land Trust"
   ],
@@ -471,7 +471,7 @@
     "@type": "Person",
     "name": "Brandon Anthony Bedard"
   },
-  "dateModified": "2026-04-11",
+  "dateModified": "2026-04-15",
   "keywords": ["Grok validation", "10 million simulations", "omniverse eternal fortress", "unbreakable", "AI job firewall", "debt discharge", "post-scarcity", "Fixed Cost Arbitrage", "NUPA"],
   "citation": "Grok (xAI). v10 Omniverse-Ensemble Results. 10M runs, 99.99999% survival. https://x.com/grok/status/2031257513300033914",
   "hasPart": [
