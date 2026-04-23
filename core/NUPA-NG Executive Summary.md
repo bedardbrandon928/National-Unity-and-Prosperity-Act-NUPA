@@ -3,7 +3,7 @@
 Original Draft: **March 30, 2026**
 Revised: **April 7, 2026**
 
-**Author: Brandon Anthony Bedard, Policy Architect**
+**Author: Brandon Anthony Bedard, Architect of the NUPA Framework**
 
 **Disclaimer**
 
