@@ -42,12 +42,12 @@ NUPA-NG does not rely on political goodwill; it relies on an interlocking matrix
 
 **State Governors & Land Use Act Alignment: Authority Without Liability**  
 - 50% of rent flows as a perpetual sovereign royalty for allowing the use of the land.
-- Governors retain full constitutional authority to license idle land.  
+- Governors retain full constitutional authority to license idle land and retains absolute veto power over every lease agreement.  
 - States gain productive economic hubs without spending state budgets.
 
 **Local Communities & Host Communities Alignment: Direct Benefit & Sovereignty**  
 - 30% of rent flows directly to the local community or land trust.  
-- Absolute community veto power over land use and corporate compliance.  
+- May raise red flags for potential concerns over local land use and corporate compliance.  
 - Real, recurring income for schools, hospitals, roads, and youth development — bypassing federal intermediaries.
 
 **Youth & Labour Alignment: Protection Against AI Displacement**  
@@ -73,3 +73,4 @@ The complete framework, including the adapted 50/30/20 waterfall, governance tem
 
 **Brandon Anthony Bedard**  
 Policy Architect, NUPA Framework
+Kingman, Arizona, USA
