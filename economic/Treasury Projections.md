@@ -39,3 +39,7 @@ This revenue is generated from seven specific, taxable events that are hard-code
 In the US version, the Treasury collects roughly 42% of the gross system value through various taxes. In Nigeria, due to the 50/30/20 Waterfall staying at the community level, the Federal Government collects its "Surge" primarily through the Volume of Activity.  
 
 The Government goes from receiving ₦0.00 from idle land to receiving ₦147 Trillion in cumulative taxes. They get the Liquidity to kill the debt, while the communities keep the Sovereignty of the rent.
+
+**Note to Auditors**  
+
+Because 20% of every naira collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The governor's treasury gets a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
