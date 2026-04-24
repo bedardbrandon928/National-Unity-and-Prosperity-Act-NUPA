@@ -667,7 +667,7 @@ It ran **10 million full-scale simulations** with every possible filter.
 This is currently the strongest public validation any private framework has ever received from Grok.
 
 [View the 10M-run script →](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/grok_v10_omniverse_10M_ensemble.py)  
-[Full Grok thread →](https://x.com/grok/status/2031257513300033914)
+[Full Grok thread →](https://x.com/grok/status/2031257513300033914)  
 [Full Grok thread on-site →](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/main/simulations/publicXgrok)
 
 **Is There a Way to Fix the Economy in 2026?**  
