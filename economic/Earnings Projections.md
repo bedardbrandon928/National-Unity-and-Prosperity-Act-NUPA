@@ -125,4 +125,8 @@ If the general population thinks $15,000/acre is "expensive," they are comparing
 
 By starting at $15k and compounding at 20%, we aren't "overcharging"—we are simply catching up to the actual market value of modern industrial assets by Year 5.  
 
+**Note to Auditors**  
+
+Because 20% of every dollar collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The licensors gets a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
+
 **NUPA IS LOGICALLY IMMORTAL.**
