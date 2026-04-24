@@ -57,3 +57,6 @@ The economic model is realigned to subdivide the previous 80% yield into the 50/
 **The Architect's Tactical Update:**  
 
 By replacing "Host Community" with "**Host State**" and implementing the **50/30/20 split**, we have hard-coded a **"Sovereign Shield"** into the framework. The Governor is no longer just a regulator; they are a **50% stakeholder** whose own treasury's success is tied to the physical integrity of the hub. If they fail to protect the hub's infrastructure (the 20% fund) or the **Host State's** dividend (the 30% fund), their own **50% royalty** collapses to zero. This aligns "Greed" with "Stability," creating an "Abuja-Proof" revenue engine.
+
+**Auditor's Note**
+Because 20% of every naira collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The governor's treasury gets a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
