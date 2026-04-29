@@ -55,7 +55,7 @@
     "description": "99-year bankable ground leases at 70% below-market rates for Tier-1 industry (Solar, Data, Logistics, Manufacturing) conditional on human-labor priority."
   },
   "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG",
-  "dateModified": "2026-04-27",
+  "dateModified": "2026-04-29",
   "keywords": [
     "Nigeria", "Land Use Act 1978", "Anti-Japa Shield", "50/30/20 Waterfall", "Debt Discharge", "Post-Scarcity", "VQPV-NG", "Fixed Cost Arbitrage", "Human Sanctuary"
   ]
