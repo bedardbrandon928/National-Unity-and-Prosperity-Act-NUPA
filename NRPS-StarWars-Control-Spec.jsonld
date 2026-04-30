@@ -2,10 +2,10 @@
   "@context": "https://schema.org/",
   "@type": ["SoftwareApplication", "GovernmentService"],
   "name": "New Republic Prosperity System (NRPS)",
-  "identifier": "NRPS-1ABY-HYBRID-V1.1",
+  "identifier": "NRPS-1ABY-HYBRID-V1.2-IGBC-LOCKED",
   "applicationCategory": "Decentralized Economic Operating System",
   "operatingSystem": "Universal Contractual Protocol",
-  "description": "A self-executing economic framework utilizing a Sovereign Equity Swap. It bifurcates Passive Wealth tracking from Active Productivity tracking to secure sentient-first labor and recursive government solvency via the Septuple Tax Surge.",
+  "description": "A self-executing economic framework utilizing a Sovereign Equity Swap. It bifurcates Passive Wealth tracking from Active Productivity tracking via atomic land-use leases, utilizing the IGBC as a neutral fiduciary anchor.",
   "author": {
     "@type": "Organization",
     "name": "New Republic Land Trust Agency (NRLTA)"
@@ -13,32 +13,37 @@
   "coreLogic": {
     "@type": "ControlAction",
     "name": "Sovereign Equity Swap",
-    "description": "The exchange of land-use licenses for 99-year industrial leases, creating a direct revenue waterfall bypassing central bureaucracy."
+    "description": "The exchange of atomic land-use licenses for 99-year industrial leases, creating a direct revenue waterfall bypassing central bureaucracy while enforcing corporate scaling limits."
   },
   "governanceStructure": {
     "@type": "ItemList",
     "name": "Variable Quad-Partite Vetting (VQPV) Board",
-    "description": "Localized four-seat management unit overseeing bifurcated revenue audits.",
+    "description": "Localized four-seat management unit overseeing bifurcated revenue audits; utilizes the IGBC for fiduciary neutrality to prevent local skimming.",
     "itemListElement": [
       {
         "@type": "Role",
         "name": "The Owner",
-        "description": "Local Sovereign (e.g., Hutt/Queen); holds unilateral veto power."
+        "rolePlayer": "Local Sovereign (e.g., Kuat Aristocracy / Hutt Council)",
+        "description": "Holds Land-Use Licenses; receives 70% Waterfall; retains unilateral veto power over site-specific operations."
       },
       {
         "@type": "Role",
         "name": "The Family",
-        "description": "Community representative; manages 10% dividend distribution to 5,000 households (Passive Wealth Stream)."
+        "rolePlayer": "Community Representative (Elected/Nominated)",
+        "description": "Ensures the 10% Community Endowment is distributed to the 5,000-household pool; manages local 'Velocity Spend' impact."
       },
       {
         "@type": "Role",
         "name": "The Paperwork",
-        "description": "Local official; coordinates permitting, safety, and workforce compliance."
+        "rolePlayer": "New Republic Civil Servant",
+        "description": "Coordinates workforce compliance and safety; validates 'Sentient-First' ratios to trigger Tax Surge credits."
       },
       {
         "@type": "Role",
-        "name": "The Accountant",
-        "description": "Independent Fiduciary; audits the 70/10/20 waterfall and validates the Bifurcated Tax Surge logic."
+        "name": "The Accountant (The Fiduciary)",
+        "rolePlayer": "InterGalactic Banking Clan (IGBC) Auditor",
+        "description": "Independent Fiduciary. Audits the 70/10/20 waterfall; manages the Industrial Recursive Fund; personally liable for 'State-Induced Market Failure' under Restoration Audit protocols.",
+        "incentiveStructure": "Collects a fixed 0.5% Fiduciary Management Fee from the Gross Revenue Stream; gains custodial liquidity of the Community Endowment."
       }
     ]
   },
@@ -56,7 +61,7 @@
     {
       "name": "Indivisibility Mandate",
       "mechanism": "10-Day Kill-Switch",
-      "consequence": "Total hub deactivation (bricking) if central authorities breach framework rules."
+      "consequence": "Total hub deactivation (bricking) if central authorities or fiduciary auditors breach framework rules."
     }
   ],
   "solvencyEngine": {
@@ -98,7 +103,7 @@
     "@type": "Action",
     "name": "Restoration Audit",
     "description": "High-stakes probationary process for vetoed entities to re-enter through workforce and transparency commitments.",
-    "liabilityModel": "State-Induced Market Failure (Personal Professional Liability for Officials)"
+    "liabilityModel": "State-Induced Market Failure (Personal Professional Liability for IGBC Auditors and State Officials)"
   },
   "revenueWaterfall": {
     "sovereignShare": "70% (Sovereign Stability Fee)",
@@ -106,4 +111,3 @@
     "industrialRecursiveFund": "20% (Infrastructure CAPEX/Maintenance)"
   }
 }
-
