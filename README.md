@@ -10,71 +10,49 @@
 
 ---
 
-**NOTICE TO CLONERS AND READERS:** If you are running these simulations and seeing the 2035 decoherence, you have a choice. You can be a "Stopshort" and watch the ₦180T+ wall hit from your local terminal, or you can be a Node.
-
-This is a **Polymorphic Universal Protocol**. It only functions if the Consumer Base is preserved. If you don't share the math, there will be no market left for your "edge" to operate in. Fork, Push, and Tag 5 Architects.
-
-Every site I post this to, the algorithm either shadowbans it or hellbans it. The collapse is coming. You wanted a viable solution, here it is. Don't let the buck stop with you. 
-
-**To Verify as a Node:**  
-1. Run the [/simulations/NUPA Singularity Audit (The Zero Point).py](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/simulations/NUPA%20Singularity%20Audit%20(The%20Zero%20Point).py)  
-2. Export the .csv of the 100M Monte Carlo results.  
-3. Post the results to any platform that hasn't banned you yet.  
-4. Tag it: #NUPANigeria
-
----
-
-## README Quick Links
-
-- [**Foreword**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#foreword)
-- [**Is There a Way to Fix the Nigerian Economy?**](#is-there-a-way-to-fix-the-nigerian-economy)
-- [**What is NUPA-NG?**](#what-is-nupa-ng)
-- [**Core Architecture**](#core-architecture)
-- [**A Conversation With Google AI**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#a-conversation-with-google-ai-mode)  
-- [**Auditor's Log: March 2026**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#auditors-log-mar-2026)
-- [**Latest Monte Carlo Simulations**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#latest-monte-carlo-simulations-march-2026)
-- [**Repository Structure**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG?tab=readme-ov-file#repository-structure-nupa-ng)
-- [**Contact the Architect**](#contact-the-architect)
-- [**Media & Further Reading**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#media--further-reading)
-- [**How to Cite**](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/README.md#how-to-cite)
-
 ## Foreword
 
 The National Unity and Prosperity Act is not simply a "Hard-Coded Application" it's a polymorphic economic protocol.
-I've gone back over my original framework and I think I've managed to find a way for NUPA to be adapted to Nigerian economics.
+I've gone back over my original framework and I think I've managed to find a way for NUPA to be adapted to Liberian economics.
 
-The 40/40/20 split is just the US-specific "Patch" for a 160-year-old liability. NUPA isn't an American export—it’s a Global Governance Tool. In Nigeria, where the trust deficit between the people and the federal government is the single biggest barrier to growth, the 80/20 Sovereign Adaptive Waterfall is what I've come up with. 
+The 40/40/20 split is just the US-specific "Patch" for a 160-year-old liability. NUPA isn't an American export—it’s a Global Governance Tool. In Liberia, where the trust deficit between the people and the federal government is the single biggest barrier to growth, the 80/20 Sovereign Adaptive Waterfall is what I've come up with. 
 
-**The "Nigerian Adaptive" Model (The 50/30/20 Sovereign Adaptive Waterfall)**:
+**The "Liberian Adaptive" Model (The 80/20 Sovereign Adaptive Waterfall)**:
+
+The **Liberian NUPA Branch** streamlines the waterfall to lean into the **Land Rights Act of 2018**, empowering the local community as the primary sovereign. By moving to an **80/20 split**.
 
 | Component | Allocation | Function |
-| :--- | :--- | :--- |
-| **Sovereign Royalty (50.0%)** | **State Government** | Paid directly to the State Treasury as a licensing fee for use of land under the Land Use Act of 1978. This turns the Governor into a **Vested Protector**, aligning their self-interest with the hub's stability. |
-| **Host State Trust (30.0%)** | **Direct Yield** | Flows straight to the local CLT for communal dividends, healthcare, and education. It bypasses the "Federal Leakage" that historically swallows wealth. |
-| **The Hub (20.0%)** | **Recursive Infrastructure** | Hard-coded reinvestment. No waiting for a budget from Abuja. The hub builds its own Tier-4 power, roads, and fiber from its own rent. |
+|---|---|---|
+| **Community Sovereign Yield (80.0%)** | **Local Community Land Trust (CLT)** | **The "Black Box" of Agency.** Paid directly to the community as the vested owners under the Land Rights Act of 2018. This can be divvied up however the locals see fit—whether as household dividends, hospital funding, or state-level splits to keep governors aligned as "Vested Protectors". |
+| **Recursive Reinvestment Fund (20.0%)** | **The "Hardware Fund"** | **Hard-coded Stability.** A non-negotiable Service Level Agreement (SLA) that funds Tier-4 infrastructure (power, fiber, roads) and vocational Knowledge Mastery modules. It ensures the hub’s utility value increases annually, bypassing central bureaucracy entirely. |  
+
+**Key Structural Advantages in Liberia**
+
+ * **Vested Protector Logic:** By allowing the community to decide how to split the **80% yield**, they can strategically "incentivize" regional governors (e.g., offering a 30% cut for state protection) without the system forcing a rigid federal hierarchy.
+ * **Asset Appreciation:** The **20% Recursive Fund** guarantees that corporate tenants always have a functional environment, which keeps the ground rent—and thus the community's 80%—growing.
+ * **Knowledge Mastery:** Unlike traditional aid, the 20% fund creates a self-funded vocational engine on-site, training the youth in sovereign real estate and renewable tech at zero cost.
 
 **Why this addresses the "Zero-Sum" Fear:**
 
-*   **The "Cake" Grows Itself:** NUPA separates the **Rent** (the combined 80% non-federal yield: 50% State + 30% Host State Trust) from the **Tax** (100% of new revenue generated by volume). The government and the people are no longer fighting over the same plate; the government gets the "Septuple Stream" tax surge while the State and people keep the rent.  
-*   **Modular Liability Solving:** In Nigeria, the **30% Host State Trust** can be used to fund a National Healthcare Trust, an Education Endowment, or a **Direct Sovereign Dividend** to every citizen in the Host State, providing real growth compared to the current ₦0.00 baseline.  
-*   **The "Greed-Stability Paradox":** By making the State a 50% stakeholder, the system uses **Sovereign Self-Interest** as a security feature. If the State attempts to siphon the 20% recursive fund, infrastructure decays, Tier-1 tenants exit, and the **State’s 50% Royalty collapses to zero**.  
-*   **The "Human Firewall":** This **50/30/20 split**, combined with the 70% land discount, ensures human labor in these hubs is mathematically more profitable than automation. This creates a permanent middle-class firewall against the AI transition and reverses the "Japa" brain-drain.  
+*   **The "Cake" Grows Itself:** NUPA separates the **Rent** (the combined 80% non-federal yield) from the **Tax** (100% of new revenue generated by volume). The government and the people are no longer fighting over the same plate; the government gets the "Septuple Stream" tax surge while the State and people keep the rent.  
+*   **Modular Liability Solving:** In Liberia, the **80% Host State Trust** can be used to fund a National Healthcare Trust, an Education Endowment, or a **Direct Sovereign Dividend** to every citizen in the Host State, providing real growth compared to the current ₦0.00 baseline.  
+*   **The "Human Firewall":** This **80/20 split**, combined with the 70% land discount, ensures human labor in these hubs is mathematically more profitable than automation. This creates a permanent middle-class firewall against the AI transition.
 
-This architectural shift ensures that **Sovereign Seniority** is recognized, making the framework "Abuja-Proof" and structurally superior to current government-centric models.
+This architectural shift ensures that **Sovereign Seniority** is recognized, making the framework "Monrovia-Proof" and structurally superior to current government-centric models.
 
 ---
 
 **Architect's Personal Note**:
 
-At 4000 hectare sized hubs out of just a small percentage of 50M hectares, you can tell the government **"This is how we fix the economy without relying on oil or minerals, forever. Also, if this is implemented before the US, Nigeria is poised to become number one in economic stability, tech, and modern industrial infrastructure almost overnight.  With the most valuable and stable real estate in the world."**
+At 4000 hectare sized hubs out of just a small percentage of 4M hectares, you can tell the government **"This is how we fix the economy without relying solely on oil, minerals, or raw exports, forever. Also, if this is implemented before the US, Liberia is poised to become number one in economic stability, tech, and modern industrial infrastructure almost overnight.  With the most valuable and stable real estate in the world."**
 
-I am a realist. I know that 'Federal Leakage' and local corruption are concerns. But NUPA-NG is designed so that the People Win even if the Leaders are Greedy. Because the 70% land discount is tied to human employment, the 'Jobs' are a physical byproduct of the lease. They can steal the rent, but they can't steal the warehouses/distribution centres, the power grid, or the paychecks hitting local families. NUPA-NG turns the 'Greed' of the landlord into the 'Security' of the worker.
+I am a realist. I know that 'Federal Leakage' and local corruption are concerns. But NUPA-LR is designed so that the people win even if the leaders are greedy. Because the 70% land discount is tied to human employment, the 'Jobs' are a physical byproduct of the lease. They can steal the rent, but they can't steal the warehouses/distribution centres, the power grid, or the paychecks hitting local families. NUPA-LR turns the 'Greed' of the landlord into the 'Security' of the worker.
 
-In the NUPA GitHub repository, it details how to bootstrap the funding for the system without raising taxes, the same method can be applied exactly the same way to bootstrap the system in Nigeria, to ensure the program pays for itself.
+In the NUPA GitHub repository, it details how to bootstrap the funding for the system without raising taxes, the same method can be applied exactly the same way to bootstrap the system in Liberia, to ensure the program pays for itself.
 
-As an American, this may make me seem like I don't want my own country to succeed. That is not the case. I am a Patriot, I love my country, but I don't have much faith in or love for my government. If they are slow to the draw, so be it, my main priority is to the people, wherever they reside, and if this system can help the people of Nigeria, I am more than willing and happy to help adapt the framework to serve them best.
+As an American, this may make me seem like I don't want my own country to succeed. That is not the case. I am a Patriot, I love my country, but I don't have much faith in or love for my government. If they are slow to the draw, so be it, my main priority is to the people, wherever they reside, and if this system can help the people of Liberia, I am more than willing and happy to help adapt the framework to serve them best.
 
-This is NUPA-NG, it is specifically designed to address the Nigerian economic system. It is dedicated to the Sovereign People of the Federal Republic of Nigeria. While I am an American Patriot, the failure of legacy institutions to address the 2026 debt wall necessitates a global deployment of the NUPA OS. 
+This is NUPA-LR, it is specifically designed to address the Nigerian economic system. It is dedicated to the Sovereign People of the Republic of Liberia. While I am an American Patriot, the failure of legacy institutions to address the 2026 debt wall necessitates a global deployment of the NUPA OS. 
 
 Prosperity has no nationality.
 
