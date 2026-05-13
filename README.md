@@ -6,7 +6,7 @@
 
 ---
 
-**The first complete universal polymorphic private-sector post-scarcity economic operating system designed for the Host States and Sovereign People of the Federal Republic of Nigeria**
+**The first complete universal polymorphic private-sector post-scarcity economic operating system designed for the Host Communities and Sovereign People of the Republic of Liberia**
 
 ---
 
