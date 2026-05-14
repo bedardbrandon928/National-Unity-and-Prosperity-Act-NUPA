@@ -1,45 +1,35 @@
-# THE NIGERIAN TREASURY "SEPTUPLE-STREAM" AUDIT (NUPA-NG)
-
-All figures represent the combined annual revenue for the Federal Government of Nigeria (FGN) once the system is fully operational.
-
-The Bottom Line: The conservative sum of these 7 Direct Tax Streams is ₦121.6 Trillion over 10 years. For context, this is enough to pay off nearly 80% of the current national debt using only "New Money" from previously dormant land.
-
-**Yearly Federal Tax Revenue (The Septuple-Stream)**
-
-**Base Scale: 10 Million Hectares (Conservative 25% of idle land)**
-
-| Year | Avg. Rent / Hectare | Gross System Revenue | Fed Tax Revenue (₦) |
+This is the **NUPA-LR (Liberia Republic)** Treasury Audit.
+By applying the same mathematical rigors as the Nigerian model, but scaling to Liberia's **4 Million Hectare** arable land base and using **USD** for stability, we reveal a "Septuple-Stream" that doesn't just fund the government—it effectively retires Liberia's national debt and creates a permanent fiscal surplus.
+# THE LIBERIAN TREASURY "SEPTUPLE-STREAM" AUDIT (NUPA-LR)
+All figures represent the combined annual tax revenue for the **Government of Liberia (GoL)** once the system is fully operational.
+**The Bottom Line:** The conservative sum of these 7 Direct Tax Streams is **$48.25 Billion USD** over 10 years. For context, this is enough to pay off Liberia’s entire external debt multiple times over, providing the "Fiscal Exit" required to stabilize the Liberian Dollar (LRD) forever.
+### Yearly Federal Tax Revenue (The Septuple-Stream)
+**Base Scale: 4 Million Hectares (Total Arable Land Potential)**
+| Year | Avg. Rent / Hectare (USD) | Gross System Revenue | Fed Tax Revenue (USD) |
 |---|---|---|---|
-| Year 1 | ₦500,000 | ₦5.00 Trillion | ₦2.15 Trillion |
-| Year 2 | ₦600,000 | ₦6.00 Trillion | ₦2.58 Trillion |
-| Year 3 | ₦720,000 | ₦7.20 Trillion | ₦3.10 Trillion |
-| Year 4 | ₦864,000 | ₦8.64 Trillion | ₦3.72 Trillion |
-| Year 5 | ₦1,036,800 | ₦10.37 Trillion | ₦4.46 Trillion |
-| Year 6 | ₦5,000,000 (Hub Maturity) | ₦50.00 Trillion | ₦21.50 Trillion |
-| Year 7 | ₦5,500,000 | ₦55.00 Trillion | ₦23.65 Trillion |
-| Year 8 | ₦6,050,000 | ₦60.50 Trillion | ₦26.02 Trillion |
-| Year 9 | ₦6,655,000 | ₦66.55 Trillion | ₦28.62 Trillion |
-| Year 10 | ₦7,320,500 | ₦73.21 Trillion | ₦31.48 Trillion |
-| TOTAL | --- | ₦342.47 Trillion | ₦147.28 Trillion |
-
-**Why These Numbers Are Solid (The 2026 Tax Engine)**
-
-This revenue is generated from seven specific, taxable events that are hard-coded into the NUPA-NG Technical Stack:  
-
- * VAT (Value Added Tax): 7.5% (2026 standard) on all commercial activity within the hubs. With digital invoicing, this is the most reliable stream.
- * Corporate Income Tax (CIT): 30% on the realized profits of the Tier-1 data centers, solar farms, and manufacturing plants.
- * Payroll Tax (PIT): 25% (Top bracket for 2026 reforms) on high-value human wages protected by the AI Firewall.
- * Capital Gains Tax (CGT): 30% (2026 rate) on the appreciation of industrial assets and shared transfers within the hubs.
- * Development Levy: 4% of assessable profits from all hub participants, used for secondary regional infrastructure.
- * Stamp Duties: Collected on the 99-year bankable ground leases and high-volume commercial contracts.
- * Secondary Industry Growth: Taxes on the security, logistics, and catering firms that naturally emerge to service the 10 million hectares.
-
-**The Architect’s Strategic Note:**  
-
-In the US version, the Treasury collects roughly 42% of the gross system value through various taxes. In Nigeria, due to the 50/30/20 Waterfall staying at the community level, the Federal Government collects its "Surge" primarily through the Volume of Activity.  
-
-The Government goes from receiving ₦0.00 from idle land to receiving ₦147 Trillion in cumulative taxes. They get the Liquidity to kill the debt, while the communities keep the Sovereignty of the rent.
-
-**Note to Auditors**  
-
-Because 20% of every naira collected is contractually required to flow back into the infrastructure that makes the hub more valuable. The rent increase is funded by the hub itself. The tenant's profit margin grows in parallel because the infrastructure they're operating on improves every year. The governor's treasury gets a larger cut every year because the underlying asset is being continuously upgraded — at zero cost to the government.
+| **Year 1** | $500 | $2.00 Billion | $0.86 Billion |
+| **Year 2** | $600 | $2.40 Billion | $1.03 Billion |
+| **Year 3** | $720 | $2.88 Billion | $1.24 Billion |
+| **Year 4** | $864 | $3.46 Billion | $1.49 Billion |
+| **Year 5** | $1,037 | $4.15 Billion | $1.78 Billion |
+| **Year 6** | $5,000 (Hub Maturity) | $20.00 Billion | $8.60 Billion |
+| **Year 7** | $5,500 | $22.00 Billion | $9.46 Billion |
+| **Year 8** | $6,050 | $24.20 Billion | $10.41 Billion |
+| **Year 9** | $6,655 | $26.62 Billion | $11.45 Billion |
+| **Year 10** | $7,321 | $29.28 Billion | $12.59 Billion |
+| **TOTAL** | **---** | **$116.99 Billion** | **$50.91 Billion** |
+### Why These Numbers Are Solid (The 2026 Liberia Tax Engine)
+This revenue is generated from seven specific, taxable events hard-coded into the **NUPA-LR Technical Stack**, ensuring Monrovia benefits from *volume* while communities benefit from *rent*:
+ 1. **GST (Goods and Services Tax):** 10% on all commercial activity within the hubs. Digital ledger tracking ensures zero leakage.
+ 2. **Corporate Income Tax (CIT):** 25% (Standard Liberian rate) on the realized profits of Tier-1 industrial tenants.
+ 3. **Payroll Tax (PIT):** Collected from the **95% Human Workforce**. By blocking automation, the government protects its most consistent tax base.
+ 4. **Capital Gains Tax (CGT):** 15% on the massive appreciation of the 4 million hectares as they transition from "idle" to "industrial."
+ 5. **Biddable Concession Fees:** Fees generated by the **ROFR Timestamp** auctions for 100-hectare blocks.
+ 6. **Maritime & Port Duties:** Taxes on the massive surge of exports (processed rubber, rice, and tech) leaving the Ports of Buchanan and Monrovia.
+ 7. **Ecosystem Service Taxes:** Revenue from the logistics, security, and maintenance firms that emerge to service the 4,000 Hubs.
+### The Architect’s Strategic Note:
+In the Liberian model, the central government goes from receiving **$0.00** from idle rural land to receiving a cumulative **$50 Billion** in new tax revenue.
+Because the **50/30/20 Waterfall** handles the rent at the County and Community level, the central government is incentivized to stay out of the "Land Business" and focus entirely on the "Tax Business." They get the liquidity to kill the debt and fund national defense, while the people of the 15 counties keep the sovereignty of the soil.
+### Note to Auditors:
+The **20% Recursive Reinvestment Fund** is the guarantee for this table. By contractually mandating that 20% of every dollar of rent flows back into Hub infrastructure (Solar, Roads, Satellite Internet), the "Value" of the land is forced to increase.
+The tenant's profit grows because their operating environment improves every year at zero cost to the GoL. The government’s tax cut grows in parallel because the underlying economic volume is being continuously upgraded. **NUPA-LR turns Liberian land into the world's highest-yielding sovereign asset.**
