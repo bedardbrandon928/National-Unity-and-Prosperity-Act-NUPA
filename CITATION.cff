@@ -1,43 +1,41 @@
 cff-version: 1.2.0
 message: "If you use or reference this framework, please cite it as below."
-title: "National Unity and Prosperity Act - Nigeria (NUPA-NG) Framework"
+title: "National Unity and Prosperity Act - Liberia (NUPA-LR) Framework"
 authors:
   - family-names: Bedard
     given-names: Brandon Anthony
     affiliation: Policy Architect
 date-released: 2026-03-30
-url: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG"
-repository-code: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG"
+url: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-LR"
+repository-code: "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-LR"
 license: "All rights reserved"
 abstract: >-
   A private-sector economic operating system designed to discharge Nigeria's ₦153 Trillion national debt 
-  and bridge the systemic 'Trust Deficit.' NUPA-NG restores Community Sovereignty through the perpetual 
-  licensing of underutilized state land (via the Land Use Act of 1978), hard-codes an 80/20 anti-leakage 
+  and bridge the systemic 'Trust Deficit.' NUPA-LR restores Community Sovereignty through the perpetual 
+  licensing of underutilized state land (via the Land Rights Act of 2018), hard-codes an 80/20 anti-leakage 
   revenue waterfall, and creates a market-based firewall against AI youth-job displacement—all at 
-  ₦0.00 taxpayer cost.
+  $0.00 taxpayer cost.
 keywords:
-  - NUPA-NG
-  - Nigeria Economic Reform
-  - Land Use Act of 1978
+  - NUPA-LR
+  - Liberian Economic Reform
+  - Land Rights Act of 2018
   - 80/20 Revenue Waterfall
   - Community Land Trusts (CLT)
-  - VQPV-NG Governance
+  - VQPV-LR Governance
   - Anti-Leakage Protocol
   - AI Job Firewall
   - Fixed Cost Arbitrage
   - Sovereign Communal Opt-In
   - MOCU (Memorandum of Communal Understanding)
-  - ISC-NG (Interjurisdictional Sovereignty Compact)
+  - ISC-LR (Interjurisdictional Sovereignty Compact)
   - Success Contagion
   - Trust Deficit Bridge
   - Zero Taxpayer Cost
   - Human Labor Priority
   - Atomic Unit Mandate
-  - Nigerian Soft Power Restoration
+  - Liberian Soft Power Restoration
   - Post-Scarcity Architecture
-  - Non-Oil Revenue Surge
-  - Japa Syndrome Mitigation
-  - Pax NUPA-NG
+  - Pax NUPA-LR
   - Variable Quad-Partite Vetting
   - Digital Heritage Verification
   - Automated Debt Discharge
