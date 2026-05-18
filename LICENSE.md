@@ -1,8 +1,8 @@
-# National Unity and Prosperity Act - Nigeria (NUPA-NG) Framework
+# National Unity and Prosperity Act - Liberia (NUPA-LR) Framework
 
 **Copyright © 2025–2026 Brandon Anthony Bedard. All rights reserved.**
 
-This framework, including all documents, models, governance structures, economic engines, legislative language, and associated intellectual property (the "NUPA-NG Framework"), is the sole creation and copyrighted material of Brandon Anthony Bedard, Policy Architect.
+This framework, including all documents, models, governance structures, economic engines, legislative language, and associated intellectual property (the "NUPA-LR Framework"), is the sole creation and copyrighted material of Brandon Anthony Bedard, Policy Architect.
 
 ### Permitted Use
 You may read, download, share, and discuss the framework for personal, educational, non-commercial, or research purposes, provided you give clear attribution to the author.
