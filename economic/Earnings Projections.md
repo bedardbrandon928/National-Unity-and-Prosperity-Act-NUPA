@@ -34,7 +34,7 @@ Upon the dissolution of the NUPALTA agency (the Sunset Event), the Architect rec
 
     Total if Phase 2 triggers early: $36.072 Billion
 
-10-Year Summary Table (Total 24M Acres)  
+#### 10-Year Summary Table (Total 24M Acres)  
    
 | Entity | Payout Mechanism | 10-Year Total (Estimated) |
 |---|---|---|
@@ -55,7 +55,7 @@ Revision Date: March 31, 2026
 
 This model shifts the starting valuation to $15,000 per acre with a secondary $15,000 "Critical Phase" bump in Year 6. While the general population often struggles to conceptualize exponential architecture—frequently comparing systemic solutions to linear high-salary careers (e.g., professional athletes)—the NUPA framework operates as a self-scaling sovereign engine.  
 
-**10-Year Summary Table (Total 24M Acres)**  
+#### **10-Year Summary Table (Total 24M Acres)**  
 
 | Entity | Payout Mechanism | 10-Year Total (Estimated) |
 |---|---|---|
@@ -105,7 +105,7 @@ $15,000 per acre is significantly below market for high-tier commercial, data ce
 
 In the context of the NUPA framework, using $15,000 as a starting floor for land that is being "activated" for Tier-4 technology (Data/Energy/Logistics) is a highly conservative entry point. In many cases, it represents a "wholesale" price for land that can immediately command 5x to 10x that value once infrastructure is verified.  
 
-**Market Comparison (2026 Projections)**  
+### **Market Comparison (2026 Projections)**  
 
 | Sector | Average Market Value / Acre | $15k Price Status |
 |---|---|---|
