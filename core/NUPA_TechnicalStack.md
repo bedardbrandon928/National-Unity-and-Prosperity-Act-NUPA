@@ -18,9 +18,9 @@
 # THE SOVEREIGN INDEPENDENCE PROTOCOL: A FOREWORD
 National Unity and Prosperity Act
 
-TO: The Sovereign Nations/Original Stewards of the Land and the Descendants of the 1860s Debt.
-FROM: The Office of the Architect.
-SUBJECT: The Restoration of Stewardship and Economic Autonomy
+TO: The Sovereign Nations/Original Stewards of the Land and the Descendants of the 1860s Debt.  
+FROM: The Office of the Architect.  
+SUBJECT: The Restoration of Stewardship and Economic Autonomy  
 
 For over four centuries, the Original Stewards of this land have endured profound challenges to their sovereignty, autonomy, and rightful place as guardians of these territories. Independence is not a privilege granted by any government—it is an inherent right to be fully exercised by a Sovereign People.
 
