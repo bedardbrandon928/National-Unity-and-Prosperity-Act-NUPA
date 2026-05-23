@@ -210,7 +210,9 @@ Initial CLTs form with priority acreage, demonstrating proof-of-concept revenue 
 
 **Phase 2: Private Sector Secured Funding - Anonymous Sponsorship**
 
-Funds both the Justice and Growth Engines. The Justice Engine funds the VAP Phase 2 (Forensic verification for the millions of other descendants). The Growth Engine continues the funds to the NUPALTA Operations. This pays the law firm, surveyors, and scouts so the agency never bills the Treasury.
+Funds both the Justice and Growth Engines.  
+* The Justice Engine funds the VAP Phase 2 (Forensic verification for the millions of other descendants).  
+* The Growth Engine continues the funds to the NUPALTA Operations. This pays the law firm, surveyors, and scouts so the agency never bills the Treasury.  
 
 ### II. GOVERNANCE INTEGRITY AND UNASSAILABILITY
 
