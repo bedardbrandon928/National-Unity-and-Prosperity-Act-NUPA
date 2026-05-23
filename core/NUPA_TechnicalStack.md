@@ -30,22 +30,22 @@ The True Net-Zero Framework presented here is neither a government program nor a
 
 This Framework is built upon three enduring pillars:
 
-Sovereign Seniority: Tribal Nations serve as the primary stewards and gatekeepers. Before any commercial option may be offered or lease executed, a Sovereign Opt-In must be formally granted, placing Tribes in their rightful position as architects of the emerging economy.
+* **Sovereign Seniority**: Tribal Nations serve as the primary stewards and gatekeepers. Before any commercial option may be offered or lease executed, a Sovereign Opt-In must be formally granted, placing Tribes in their rightful position as architects of the emerging economy.
 
-Economic Restitution: Through the Justice Engine, political promises are replaced with rigorous forensic verification and a permanent 40% Beneficiary Dividend for Descendants.
+* **Economic Restitution**: Through the Justice Engine, political promises are replaced with rigorous forensic verification and a permanent 40% Beneficiary Dividend for Descendants.
 
-Decentralized Empowerment: By funding essential knowledge infrastructure at no cost to Tribal Nations, we ensure the workforce is elevated as a celebrated asset rather than a managed liability.
+* **Decentralized Empowerment**: By funding essential knowledge infrastructure at no cost to Tribal Nations, we ensure the workforce is elevated as a celebrated asset rather than a managed liability.
 
 We are not creating another layer of bureaucracy. We are forging a bridge to a future of genuine self-determination—one in which centralized administration gracefully dissolves, leaving behind resilient, independent governance structures.
 If we uphold the American ideal of liberty, we must champion systems that empower both the individual and the Sovereign Nation to thrive, protected by laws impervious to fleeting political currents.
 
-This is the architecture of lasting peace. This is the foundation of renewed sovereignty.
+**This is the architecture of lasting peace. This is the foundation of renewed sovereignty.**
 
-Let us begin together.
+***Let us begin together.***
 
 # STATEMENT OF NATIONAL FINALITY
 
-TO: The Congress of the United States  
+TO: The Representative Governance of the Congress of the United States  
 FROM: Brandon Anthony Bedard (Policy Architect)  
 SUBJECT: The Permanent Discharge of Structural Liabilities and National Debt Finality  
 
