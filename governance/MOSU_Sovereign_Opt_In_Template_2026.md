@@ -50,7 +50,7 @@ We are not here to propose what you should do with your ancestral lands. We are 
 
 6.1 **The Atomic Unit Mandate**: Each 8,000-acre hub authorized under this framework shall be established as a Standalone **Community Land Trust (CLT)** with its own dedicated **VQPV Board**. While **THE NATION** governs all five hubs, the fiduciary administration of each shall remain legally and operationally segregated.
 
-6.2 **Beneficiary Allotment Cap**: To ensure maximum administrative fidelity, each CLT shall be responsible for the dividend management of no more than **5,000 verified beneficiaries**. This "Localized Dividend Logic" ensures that the Fiduciary Expert and the Beneficiary Representative can provide direct, transparent oversight without the risk of centralized bureaucratic failure.
+6.2 **Beneficiary Allotment Cap**: To ensure maximum administrative fidelity, each CLT shall be responsible for the dividend management of no more than **5,000 verified beneficiaries**. This "Localized Dividend Logic" ensures that the Fiduciary Expert and the Beneficiary Representative can provide direct, transparent oversight without the risk of centralized bureaucratic failure. Crucially, these indentified beneficiaries are not tribal members, these are the separate identified individuals for the 1865 possessory warrant debts, the descendants of the victims of chattel slavery.
 
 6.3 **The Anti-Monopoly Footprint**: No single corporate entity, including its subsidiaries or shell affiliates, shall be permitted to license more than 8,000 contiguous acres within a single Sovereign Enclave. This ensures a diversified corporate ecosystem and protects the Sovereign Landlord from "Monopsony" (a single buyer) leverage.
 
