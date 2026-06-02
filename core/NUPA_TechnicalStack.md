@@ -10,7 +10,7 @@
 - [THE CONGRESSIONAL MEMORANDUM: THE NUPA ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
 - [MEMORANDUM OF SOVEREIGN UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
 - [THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT](#the-white--blue-collar-compliance-audit)
-- [NUPA MASTER CURRICULUM: THE THREE PILLARS](#nupa-master-curriculum-the-three-pillars)
+- [NUPA MASTER CURRICULUM: THE FOUR PILLARS](#nupa-master-curriculum-the-three-pillars)
 - [THE ADAPTIVE DIVIDEND FRAMEWORK](#the-adaptive-dividend-framework)
 - [PHASE 1 DISBURSEMENT INSTRUCTION](#phase-1-disbursement-instruction)
 - [PHASE 2 DISBURSEMENT INSTRUCTION](#phase-2-disbursement-instruction)
@@ -563,7 +563,7 @@ APPLICABILITY: Mandatory for all FORM NUPA-01 Lessees.
  * LLM & Algorithm Review: Audit software licenses for Large Language Models (LLMs) used to perform tasks historically executed by human personnel.
  * Output Consistency Check: If human staffing levels drop while output remains stable or increases, the Official must flag this for potential "Computational Automation" breaches.
 
-# NUPA MASTER CURRICULUM: THE THREE PILLARS
+# NUPA MASTER CURRICULUM: THE FOUR PILLARS
 
 **CRITICALLY: THIS DOES NOT APPLY TO ANY MEMBER OF ANY SOVEREIGN TRIBAL NATION**
 
@@ -596,6 +596,14 @@ Focus: Leveraging capital to build new businesses.
 Level 1 (The Foundation): Complete Pillar I to unlock an additional 15% of your dividend.  
 Level 2 (The Industry): Complete Pillar II to unlock an additional 15% of your dividend.  
 Level 3 (The Architect): Complete Pillar III to unlock the final 10%, reaching your 100% Full Dividend status.  
+
+**Optional Pillar IV: Women's Health**
+
+Focus: Women's pregnancy health and reproductive biology regarding non-viable pregnancies and other women's health risks.
+
+ * A Dedicated Curricula: Free to all, that focuses on Anencephaly, Bilateral Renal Agenesis, Trisomy, Alobar Holoprosencephaly, among many numerous medical anomalies regarding women's health and biology. 
+
+As a privately funded and operated program, it wouldn't be subject to the whims of a hostile administration. Since NUPA is a decentralized private system, we can even implement methods to set up free transportation for women out of total abortion ban states to states without abortion laws to allow for better medical care.
 
 # THE ADAPTIVE DIVIDEND FRAMEWORK
 
