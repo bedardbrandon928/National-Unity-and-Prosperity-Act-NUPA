@@ -10,7 +10,7 @@
 - [THE CONGRESSIONAL MEMORANDUM: THE NUPA ECONOMIC STABILIZATION FRAMEWORK](#the-congressional-memorandum-the-nupa-economic-stabilization-framework)
 - [MEMORANDUM OF SOVEREIGN UNDERSTANDING & COOPERATIVE ALLIANCE OPT-IN](#memorandum-of-sovereign-understanding--cooperative-alliance-opt-in)
 - [THE "WHITE & BLUE COLLAR" COMPLIANCE AUDIT](#the-white--blue-collar-compliance-audit)
-- [NUPA MASTER CURRICULUM: THE FOUR PILLARS](#nupa-master-curriculum-the-three-pillars)
+- [NUPA MASTER CURRICULUM: THE FOUR PILLARS](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/core/NUPA_TechnicalStack.md#nupa-master-curriculum-the-four-pillars)
 - [THE ADAPTIVE DIVIDEND FRAMEWORK](#the-adaptive-dividend-framework)
 - [PHASE 1 DISBURSEMENT INSTRUCTION](#phase-1-disbursement-instruction)
 - [PHASE 2 DISBURSEMENT INSTRUCTION](#phase-2-disbursement-instruction)
