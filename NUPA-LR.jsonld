@@ -1,11 +1,11 @@
 {
   "@context": "https://schema.org",
   "@type": ["SoftwareApplication", "GovernmentService", "AuthorizationObject"],
-  "name": "National Unity and Prosperity Act – Nigerian Adaptive Framework (NUPA-NG)",
-  "alternateName": ["NUPA-NG", "The Anti-Japa Shield", "Nigerian Adaptive Model"],
+  "name": "National Unity and Prosperity Act – Liberian Adaptive Framework (NUPA-LR)",
+  "alternateName": ["NUPA-LR", "Liberian Adaptive Model"],
   "applicationCategory": "Universal Polymorphic Private-Sector Post-Scarcity Economic Operating System",
   "operatingSystem": "Private-Sector Contractual Framework",
-  "description": "A complete architectural operating system designed for the Federal Republic of Nigeria to bypass federal leakage and discharge ₦180T+ in public debt at zero taxpayer cost. NUPA-NG converts idle state-managed land into self-funding infinite wealth engines using the 50/30/20 Sovereign Adaptive Waterfall and a market-based Fixed Cost Arbitrage firewall to protect human labor from AI displacement.",
+  "description": "A complete architectural operating system designed for the Republic of Liberia. NUPA-LR leverages the Land Rights Act of 2018 to vest land directly into community ownership, bypassing central leakage. It utilizes an 80/20 Sovereign Adaptive Waterfall to drive 80% of revenue directly to local Community Land Trusts (CLTs) while maintaining a 20% recursive reinvestment fund for Tier-4 industrial infrastructure.",
   "author": {
     "@type": "Person",
     "name": "Brandon Anthony Bedard",
@@ -13,46 +13,46 @@
   },
   "cltFormationLogic": {
     "@type": "ControlAction",
-    "name": "Deterministic Vesting Handshake (Nigeria)",
-    "description": "System activation occurs when a Host State/Governor executes a Memorandum of Communal Understanding (MOCU aka MOSU-NG), utilizing the Land Use Act of 1978 as licensing hardware to vest idle land into a Community Land Trust (CLT)."
+    "name": "Community-Vested Handshake (Liberia)",
+    "description": "System activation occurs when local communities, recognized as rightful owners under the Land Rights Act of 2018, execute a Memorandum of Communal Understanding (MOCU-LR) to establish a Community Land Trust (CLT)."
   },
   "legalConsiderations": [
-    "Land Use Act 1978: Utilized as 'Licensing Hardware' to transition state-managed land into irrevocable private-sector licenses.",
-    "50/30/20 Sovereign Adaptive Waterfall: Hard-coded split ensuring 80% of ground rent flows directly - 50% to State Treasuries and 30% to Community Trusts, bypassing 'Federal Leakage'.",
-    "Variable Quad-Partite Vetting (VQPV-NG): Governance boards consisting of State Representative, Fiduciary, Local Community Representative, and Beneficiary seats with State seniority.",
-    "Fixed Cost Arbitrage: A market incentive providing a 70% land discount to firms that maintain a 95% human workforce ratio.",
-    "Architect’s Limited Veto Provision: Non-negotiable disqualification of predatory entities (BlackRock, Vanguard, State Street, DoorDash) to ensure a Human Sanctuary.",
-    "Statutory Irrevocability: Leases are protected as vested property interests; administrative reversal triggers 'State-Induced Market Failure' liability."
+    "Land Rights Act 2018: Utilized as 'Licensing Hardware' to formalize customary community land ownership as the foundation for the CLT.",
+    "80/20 Sovereign Adaptive Waterfall: Hard-coded split ensuring 80% of ground rent flows directly to the Community Land Trust, with 20% reserved for recursive infrastructure reinvestment.",
+    "Variable Quad-Partite Vetting (VQPV-LR): Governance boards with local community seniority to ensure communal agency and direct benefit distribution.",
+    "Fixed Cost Arbitrage: Market incentive providing a 70% land discount to firms maintaining a 95% human workforce ratio.",
+    "Architect’s Limited Veto Provision: Non-negotiable exclusion of predatory global entities to ensure a Human Sanctuary.",
+    "Statutory Irrevocability: Leases are protected as vested property interests; administrative infringement triggers liability for community-led economic damages."
   ],
   "benefits": {
     "@type": "ItemList",
     "itemListElement": [
-      "Discharge of ₦180 trillion national debt by 2039 at zero taxpayer cost.",
-      "Vaporization of 'Federal Leakage' via direct-to-state/community revenue loops.",
-      "Reversal of the 'Japa' exodus by making local human labor the global gold standard for profitability.",
-      "Self-funding industrial infrastructure (roads, power, basic maintenance) via the 20% recursive reinvestment fund.",
-      "Creation of a hardened Naira backed by 99-year industrial land utility."
+      "Empowerment of local communities as the primary sovereign agents of land value.",
+      "Direct-to-community revenue loops that eliminate federal/bureaucratic leakage.",
+      "Self-funded industrial infrastructure (power, fiber, vocational training) via the 20% recursive fund.",
+      "Creation of a high-stability environment for foreign and domestic investment backed by community-held industrial real estate.",
+      "Permanent middle-class firewall through mandatory human-labor priority."
     ]
   },
   "hasPart": [
     {
       "@type": "Organization",
-      "name": "NUPA-NG Community Land Trust (Atomic Unit)",
-      "description": "A standalone digital fiduciary estate managing a 4,000-hectare hub for 5,000 verified households."
+      "name": "NUPA-LR Community Land Trust (Atomic Unit)",
+      "description": "A standalone digital fiduciary estate managing hub-based real estate for community benefit."
     },
     {
       "@type": "GovernmentService",
-      "name": "NUPALTA-NG",
-      "description": "The private-sector self-dissolving agency that facilitates hub seating and sunsets once all local boards are operational."
+      "name": "NUPALTA-LR",
+      "description": "The private-sector self-dissolving agency that facilitates local hub seating."
     }
   ],
   "offers": {
     "@type": "Offer",
-    "description": "99-year bankable ground leases at 70% below-market rates for Tier-1 industry (Solar, Data, Logistics, Manufacturing) conditional on human-labor priority."
+    "description": "99-year bankable ground leases at 70% below-market rates for Tier-1 industry conditional on 95% human-labor priority."
   },
-  "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-NG",
-  "dateModified": "2026-05-06",
+  "identifier": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/tree/NUPA-LR",
+  "dateModified": "2026-06-07",
   "keywords": [
-    "Nigeria", "Land Use Act 1978", "Anti-Japa Shield", "50/30/20 Waterfall", "Debt Discharge", "Post-Scarcity", "VQPV-NG", "Fixed Cost Arbitrage", "Human Sanctuary"
+    "Liberia", "Land Rights Act 2018", "80/20 Waterfall", "CLT", "Debt Discharge", "Post-Scarcity", "VQPV-LR", "Fixed Cost Arbitrage", "Human Sanctuary"
   ]
 }
