@@ -1,40 +1,40 @@
 {
   "@context": "https://schema.org",
   "@type": "HowTo",
-  "name": "NUPA-NG Bootstrapping Protocol (Phase 1: Ignition)",
-  "description": "The private-sector 'Spark' mechanism designed to bootstrap the NUPA-NG framework at zero taxpayer cost using corporate reservation deposits to activate high-yield community industrial hubs.",
+  "name": "NUPA-LR Bootstrapping Protocol (Phase 1: Ignition)",
+  "description": "The private-sector 'Spark' mechanism designed to bootstrap the NUPA-LR framework at zero taxpayer cost using corporate reservation deposits to activate high-yield community industrial hubs.",
   "author": {
     "@type": "Person",
     "name": "Brandon Anthony Bedard"
   },
   "estimatedCost": {
     "@type": "MonetaryAmount",
-    "currency": "NGN",
+    "currency": "LRD",
     "value": "0.00",
     "description": "Zero taxpayer cost. Funded entirely via private Corporate Option Fees (Reservation Deposits) from global and indigenous Tier-1 firms."
   },
   "step": [
     {
       "@type": "HowToStep",
-      "name": "The Communal Key Execution",
-      "description": "A Host State/Traditional Council executes a Memorandum of Communal Understanding (MOCU). This 'State Key' identifies specific idle state-managed land (up to 4,000 hectares per hub) to be pulled out of dormant status.",
+      "name": "The Community-Sovereign Key Execution",
+      "description": "The local community, exercising their rights under the Land Rights Act of 2018, executes a Memorandum of Communal Understanding (MOCU-LR). This 'Community Key' identifies communal land (up to 4,000 hectares per hub) to be activated as a sovereign industrial asset.",
       "itemListElement": [
         {
           "@type": "ControlAction",
-          "name": "State Opt-In",
-          "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-NG/governance/MOCU_Community_Opt_In_Template_2026.md"
+          "name": "Community Opt-In",
+          "url": "https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/NUPA-LR/governance/MOCU_Community_Opt_In_Template_2026.md"
         }
       ]
     },
     {
       "@type": "HowToStep",
       "name": "Private Sector Ignition (The Spark)",
-      "description": "A designated Tier-1 Nigerian law firm issues a 'Notice of Strategic Opportunity.' Qualified corporations wire ₦40,000,000 per 100-hectare block into a Neutral Administration Escrow to secure a Priority Timestamp.",
+      "description": "A designated Tier-1 Liberian law firm issues a 'Notice of Strategic Opportunity.' Qualified corporations wire reservation deposits into a Neutral Administration Escrow to secure a Priority Timestamp for 99-year industrial leases.",
       "itemListElement": [
         {
           "@type": "Action",
           "name": "Spark Group Deposit",
-          "description": "Deposits are 100% refundable if the State/Governor does not authorize the Perpetual Sovereignty License within 24 months."
+          "description": "Deposits are 100% refundable if the Community Land Trust does not finalize the Perpetual Sovereignty License within 24 months."
         }
       ]
     },
@@ -46,19 +46,19 @@
         {
           "@type": "MonetaryAmount",
           "name": "95% Startup Bucket",
-          "description": "Funding NUPALTA-NG operational launch, geospatial mapping, site verification, and local board chartering."
+          "description": "Funding NUPALTA-LR operational launch, geospatial mapping, site verification, and community board chartering."
         },
         {
           "@type": "MonetaryAmount",
           "name": "5% Legal Bucket",
-          "description": "Retaining the Tier-1 law firm for contract management and regulatory shields."
+          "description": "Retaining the Tier-1 law firm for contract management and community-sovereign regulatory shields."
         }
       ]
     },
     {
       "@type": "HowToStep",
-      "name": "Deterministic Vesting Handshake (Nigeria)",
-      "description": "Upon state authorization, the Governor utilizes the Land Use Act of 1978 as 'Licensing Hardware' to vest the idle land into a Community Land Trust (CLT), making the 50/30/20 revenue flow 'Abuja-Proof'.",
+      "name": "Deterministic Vesting Handshake (Liberia)",
+      "description": "The community utilizes the Land Rights Act of 2018 as 'Licensing Hardware' to formalize the Community Land Trust (CLT), ensuring the 80/20 revenue flow is fully insulated from central bureaucratic interference.",
       "itemListElement": [
         {
           "@type": "ControlAction",
@@ -68,17 +68,17 @@
     },
     {
       "@type": "HowToStep",
-      "name": "VQPV-NG Board Seating",
-      "description": "The local governance board (State Representative, Seed Beneficiary, Local Community Official, and Fiduciary) is seated to oversee the 99-year ground leases.",
+      "name": "VQPV-LR Board Seating",
+      "description": "The local governance board (Community Trustees, Seed Beneficiaries, and Fiduciaries) is seated to oversee the 99-year ground leases under the 80/20 Sovereign Adaptive Waterfall.",
       "itemListElement": [
         {
           "@type": "GovernmentService",
-          "name": "NUPALTA-NG",
+          "name": "NUPALTA-LR",
           "description": "The private facilitator agency sunsets and dissolves once the independent local boards are operational."
         }
       ]
     }
   ],
-  "yield": "₦147 Trillion in federal tax surge and the reversal of the 'Japa' brain-drain by 2039.",
-  "identifier": "NUPA-NG-IGNITION-001"
+  "yield": "Massive sovereign capital accumulation for Liberian communities, creation of a hardened local economy, and total bypass of systemic bureaucratic leakage by 2039.",
+  "identifier": "NUPA-LR-IGNITION-001"
 }
