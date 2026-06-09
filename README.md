@@ -877,6 +877,8 @@ The National Unity and Prosperity Act (NUPA) is an engineered economic operating
 
 The core mechanical logic has been tested in a jurisdiction-neutral abstract environment with no real-world legal or economic inputs. The waterfall arithmetic and recursive reinvestment loop held under those conditions, confirming the logic is self-contained and not dependent on any specific legal framework for its internal consistency.
 
+[Star Wars - New Republic Prosperity System](https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/NRPS-StarWars-Control-Spec.jsonld)
+
 ### For Your Consideration
 
 I didn't build this with a $10,000/month enterprise subscription to these pay-to-play frontier AIs. I built this in the trenches, across free tiers, because the math is so stable it doesn't need a supercomputer—it just needs a brain that refuses to quit.
