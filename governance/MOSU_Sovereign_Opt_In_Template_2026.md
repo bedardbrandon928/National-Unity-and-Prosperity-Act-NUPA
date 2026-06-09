@@ -13,7 +13,7 @@ We are not here to propose what you should do with your ancestral lands. We are 
 
 **THE NATION**: [NAME OF TRIBE] (The “Sovereign Landlord”)
 
-**NUPALTA**: National Unity and Prosperity Land Trust Agency (The “Independent Opt-In Agency”)
+**NUPALTA**: National Unity and Prosperity Land Trust Authority (The “Independent Opt-In Agency”)
 
 **I. THE PETITION FOR PERMISSION**  
 
