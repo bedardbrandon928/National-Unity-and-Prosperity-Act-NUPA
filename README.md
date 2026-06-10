@@ -921,5 +921,8 @@ https://brandonbedard.substack.com/p/i-built-the-first-real-post-scarcity
 **Worldometer Real-time Global Statistics**  
 https://www.worldometers.info/
 
+**Population Around A Point**  
+https://www.tomforth.co.uk/circlepopulations/
+
 ### How to Cite
 Bedard, B. A. (2026). *National Unity and Prosperity Act (NUPA)*. GitHub Repository. https://github.com/bedardbrandon928/National-Unity-and-Prosperity-Act-NUPA/blob/main/CITATION.cff
