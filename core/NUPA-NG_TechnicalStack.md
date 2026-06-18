@@ -569,6 +569,13 @@ Level 3 (Wealth Builder): Finish Pillar III → +5% final, total 20% extra.
 
 All online, bite-sized modules—do it at your pace.
 
+**Pillar IV: Women's Health**  
+
+Focus: Women's pregnancy health and reproductive biology regarding non-viable pregnancies and other women's health risks.
+ - A Dedicated Curricula: Free to all Nigerians, that focuses on Anencephaly, Bilateral Renal Agenesis, Trisomy, Alobar Holoprosencephaly, among many numerous medical anomalies regarding women's health and biology.
+
+As a privately funded and operated program, it is not subject to the whims of a hostile administration. Since NUPA-NG is a decentralized private system, we can implement methods to set up free transportation for women out of total abortion ban jurisdictions to jurisdictions without abortion laws to allow for superior medical care, even outside of the country, if necessary, entirely separate from the community health endowment fund.
+
 # NUPA-NG DISBURSEMENT INSTRUCTION (PHASE 1 & 2 WATERFALL)
 
 AGREEMENT ID: NUPA-NG-ESCROW-001  
