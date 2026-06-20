@@ -607,6 +607,8 @@ As a privately funded and operated program, it wouldn't be subject to the whims 
 
 The Reproductive Sovereignty addendum is essentially a 'fault-tolerance' layer for human health. The legacy grid currently forces medical practitioners to ignore obvious signs of medical necessity until a patient is in critical, life-threatening condition. NUPA treats that as a system-level 'bug.' We’ve structured the health curricula and logistical support within the hubs to allow for prompt, reality-based medical intervention in cases of unviability or maternal threat. It isn't about ideology; it’s about ensuring that our human 'assets'—the workers we’re protecting—are provided with a baseline of care that actually functions when things go wrong.
 
+***The Architect's Note* Pre-empting the Equal Men's Rights Argument**: It’s a simple matter of system auditing. The current medical infrastructure is demonstrably failing to provide baseline emergency maintenance for women in cases of unviable, life-threatening pregnancies. Men’s emergency care is not currently subject to this same level of administrative paralysis or state-level legal 'wait-to-fail' protocols. NUPA isn't about picking favorites; it’s about ensuring that our human infrastructure—the workers and stakeholders in our hubs—is resilient, properly maintained, and protected from system-level bugs. We are hard-coding this into the system because, in a NUPA Hub, we don't allow preventable administrative failures to threaten human lives.
+
 # THE ADAPTIVE DIVIDEND FRAMEWORK
 
 This model ensures no one is left behind due to age, capability, or immediate financial need, while still fulfilling the mandate to create a knowledgeable stakeholder class.  
