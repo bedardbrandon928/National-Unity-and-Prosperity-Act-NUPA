@@ -605,6 +605,8 @@ Focus: Women's pregnancy health and reproductive biology regarding non-viable pr
 
 As a privately funded and operated program, it wouldn't be subject to the whims of a hostile administration. Since NUPA is a decentralized private system, we can even implement methods to set up free transportation for women out of total abortion ban states to states without abortion laws to allow for better medical care.
 
+The Reproductive Sovereignty addendum is essentially a 'fault-tolerance' layer for human health. The legacy grid currently forces medical practitioners to ignore obvious signs of medical necessity until a patient is in critical, life-threatening condition. NUPA treats that as a system-level 'bug.' We’ve structured the health curricula and logistical support within the hubs to allow for prompt, reality-based medical intervention in cases of unviability or maternal threat. It isn't about ideology; it’s about ensuring that our human 'assets'—the workers we’re protecting—are provided with a baseline of care that actually functions when things go wrong.
+
 # THE ADAPTIVE DIVIDEND FRAMEWORK
 
 This model ensures no one is left behind due to age, capability, or immediate financial need, while still fulfilling the mandate to create a knowledgeable stakeholder class.  
