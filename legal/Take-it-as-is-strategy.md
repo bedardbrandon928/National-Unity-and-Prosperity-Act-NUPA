@@ -31,9 +31,7 @@ This is the deal. No edits. No delays.
 
 Take it as is—license the parcels, seat community boards, watch hubs rise.  
 
-Or leave it—keep land idle, debt climbs, jobs vanish, bandits thrive.  
-
-We walk if you stall. Nigeria collapses without this. Your call.  
+Or leave it—keep land idle, debt climbs, jobs vanish, bandits thrive.    
 
 **Next Step**  
 
